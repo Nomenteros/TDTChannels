@@ -185,6 +185,7 @@
 | O2 Radio | [stream](http://62.210.141.18:8000/o2radio) | [web](http://www.elpejeverde.com/) | [logo](https://graph.facebook.com/185094361671027/picture?width=320&height=320) | - |
 | Radio Gigante | [stream](http://85.214.130.95:8000/stream/1/) | [web](http://rtvgigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=320&height=320) | - |
 | Canal 11 Radio | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal11lapalma.net/escuchanos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=320&height=320) | - |
+| Inolvidable FM | [stream](https://uk1.streamingpulse.com/ssl/inolvidablefm) | [web](https://inolvidablefm.es/) | [logo](https://graph.facebook.com//inolvidablefmradio/picture?width=320&height=320) | - |
 
 ### Cantabria
 
@@ -228,7 +229,7 @@
 | RAC1 | [nsv](http://rac1.radiocat.net/;*.nsv) | [web](https://www.rac1.cat) | [logo](https://graph.facebook.com/rac1oficial/picture?width=320&height=320) | - |
 | RAC 105 | [nsv](http://rac105.radiocat.net/;*.nsv) | [web](http://www.rac105.cat) | [logo](https://graph.facebook.com/rac105/picture?width=320&height=320) | - |
 | Ràdio 4 | [m3u8](http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne4_1@793569/master.m3u8) | [web](http://www.rtve.es/radio/radio4-endirecto/) | [logo](https://pbs.twimg.com/profile_images/463278104547303424/pjD8VKWi_400x400.jpeg) | - |
-| Flaix FM | [stream](https://www.flaixfm.cat/ca/api/player/live) | [web](https://www.flaixfm.cat/) | [logo](https://graph.facebook.com/flaixfm/picture?width=320&height=320) | - |
+| Flaix FM | [stream](https://www.flaixfm.cat/ca/api/player/live) - [mp3](https://flaixfm.streaming-pro.com:8001/flaixfm.mp3) | [web](https://www.flaixfm.cat/) | [logo](https://graph.facebook.com/flaixfm/picture?width=320&height=320) | - |
 | Ràdio Flaixbac | [stream](https://www.flaixbac.cat/ca/api/player/live) | [web](https://www.flaixbac.cat/) | [logo](https://graph.facebook.com/flaixbac/picture?width=320&height=320) | - |
 | Bas Ràdio | [mp3](http://s1streamingradio.desafiohosting.com:8130/listen.mp3) | [web](https://basradioweb.wordpress.com/) | [logo](https://graph.facebook.com/RADIOENBASONLINE2/picture?width=320&height=320) | - |
 | betevé ràdio | [m3u8](http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/0_qzjz9cja/protocol/http/format/applehttp/a.m3u8) | [web](https://beteve.cat/en-directe/radio/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - |

@@ -4,12 +4,12 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8) - [m3u8](https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1.TDTChannelsEPG | - |
+| La 1 | [m3u8 # GEO](https://rtvelivestream.akamaized.net/la1_ak_dvr.m3u8) - [m3u8](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1.TDTChannelsEPG | - |
 | La 2 | [m3u8 # GEO](https://rtvelivestream.akamaized.net/la2_ak_dvr.m3u8) - [m3u8](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=320&height=320) | La2.TDTChannelsEPG | - |
 | Antena 3 | [m3u8 # GEO](https://livestartover-i.akamaized.net/geoantena3/master.m3u8) - [m3u8](https://livestartover-i.akamaized.net/antena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=320&height=320) | Antena3.TDTChannelsEPG | - |
 | Cuatro | [m3u8 # HD](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [m3u8 # SD](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=320&height=320) | Cuatro.TDTChannelsEPG | REPRO,CODEC |
 | Telecinco | [m3u8 # HD](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [m3u8 # SD](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=320&height=320) | Telecinco.TDTChannelsEPG | REPRO,CODEC |
-| laSexta | [m3u8 # GEO](https://live-msl4.akamaized.net/hls/live/2003675/geolasexta/master.m3u8) - [m3u8](https://live-msl4.akamaized.net/hls/live/2003675/lasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/) | [logo](https://graph.facebook.com/laSexta/picture?width=320&height=320) | LaSexta.TDTChannelsEPG | - |
+| laSexta | [m3u8 # GEO](https://livestartover.atresmedia.com/geolasexta/master.m3u8) - [m3u8](https://livestartover.atresmedia.com/lasexta/master.m3u8) | [web](https://www.atresplayer.com/directos/lasexta/) | [logo](https://graph.facebook.com/laSexta/picture?width=320&height=320) | LaSexta.TDTChannelsEPG | - |
 | Neox | [m3u8 # GEO](https://livestartover-i.akamaized.net/geoneox/master.m3u8) - [m3u8](https://livestartover-i.akamaized.net/neox/master.m3u8) | [web](https://www.atresplayer.com/directos/neox/) | [logo](https://graph.facebook.com/neox/picture?width=320&height=320) | Neox.TDTChannelsEPG | - |
 | Nova | [m3u8 # GEO](https://livestartover-i.akamaized.net/geonova/master.m3u8) - [m3u8](https://livestartover-i.akamaized.net/nova/master.m3u8) | [web](https://www.atresplayer.com/directos/nova/) | [logo](https://graph.facebook.com/novatdt/picture?width=320&height=320) | Nova.TDTChannelsEPG | - |
 | Mega | [m3u8 # GEO](https://livestartover-i.akamaized.net/geomega/master.m3u8) - [m3u8](https://livestartover-i.akamaized.net/mega/master.m3u8) | [web](https://www.atresplayer.com/directos/mega/) | [logo](https://graph.facebook.com/megaTDT/picture?width=320&height=320) | Mega.TDTChannelsEPG | - |
@@ -19,11 +19,11 @@
 | Divinity | [m3u8 # HD](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/divinity) | [logo](https://graph.facebook.com/divinityes/picture?width=320&height=320) | Divinity.TDTChannelsEPG | REPRO,CODEC |
 | Be Mad | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/bemad) | [logo](https://graph.facebook.com/BeMadTV/picture?width=320&height=320) | Bemad.TDTChannelsEPG | REPRO,CODEC |
 | Paramount Network | [m3u8](https://paramount-live.flumotion.com/live/playlist.m3u8) | [web](https://www.paramountnetwork.es/programacion/en-directo) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320) | Paramount.TDTChannelsEPG | REPRO |
-| Ten | - | [web](http://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=320&height=320) | TEN.TDTChannelsEPG | - |
+| Ten | - | [web](https://tentv.es/) | [logo](https://graph.facebook.com/televisionten/picture?width=320&height=320) | TEN.TDTChannelsEPG | - |
 | DMAX | - | [web](https://es.dplay.com/dmax/) | [logo](https://graph.facebook.com/DMAXes/picture?width=320&height=320) | DMax.TDTChannelsEPG | - |
 | DKISS | - | [web](https://es.dplay.com/dkiss/) | [logo](https://graph.facebook.com/DKissTV/picture?width=320&height=320) | DKISS.TDTChannelsEPG | - |
 | TRECE | [m3u8](http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | [logo](https://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13.TDTChannelsEPG | - |
-| OT 24h | [youtube](https://youtube.com/watch?v=z51hNbxrDOk) | [web](https://www.youtube.com/channel/UCc1sAhdaLjfJi11X1awO-yg/live) | [logo](https://graph.facebook.com/operaciontriunfo/picture?width=320&height=320) | - | - |
+| OT 24h | [youtube](https://youtu.be/z51hNbxrDOk) | [web](https://www.youtube.com/channel/UCc1sAhdaLjfJi11X1awO-yg/live) | [logo](https://graph.facebook.com/operaciontriunfo/picture?width=320&height=320) | - | - |
 | mtmad 24h | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - | - |
 | playz | [m3u8](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins5_lv3_aosv4_gl0/ins5_lv3_aosv4_gl0.isml/master.m3u8) | [web](https://www.rtve.es/playz/directo/) | [logo](https://graph.facebook.com/playzOfficial/picture?width=320&height=320) | - | - |
 | Público TV | - | [web](https://www.publico.es/videos/tag/streaming) | [logo](https://graph.facebook.com/diario.publico/picture?width=320&height=320) | - | - |
@@ -46,14 +46,14 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Teledeporte | [m3u8 # GEO](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) | [web](https://www.rtve.es/directo/teledeporte/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | - |
+| Teledeporte | [m3u8 # GEO](https://rtvelivestream.akamaized.net/tdp_dvr.m3u8) | [web](https://www.rtve.es/directo/teledeporte/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | - |
 | +TDP | [m3u8 # 1](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve17_lv3_aosv4_gl1/irtve17_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 2](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve18_lv3_aosv4_gl1/irtve18_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 3](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve19_lv3_aosv4_gl0/irtve19_lv3_aosv4_gl0.isml/master.m3u8) - [m3u8 # 4](https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl1/irtve20_lv3_aosv4_gl1/irtve20_lv3_aosv4_gl1.isml/master.m3u8) - [m3u8 # 5](http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8) | [web](http://www.rtve.es/deportes/mas-tdp/directo/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | - | - |
 | Fight Time | [m3u8](https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8) | [web](http://fight-time.com/) | [logo](https://graph.facebook.com/FightTimeEntertainment/picture?width=320&height=320) | - | - |
 | GOL | - | [web](https://www.goltelevision.com/live) | [logo](https://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL.TDTChannelsEPG | W3U |
 | RealMadrid TV | [m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # Inglés](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | RMTV.TDTChannelsEPG | - |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=320&height=320) | - | - |
 | Betis TV | [m3u8](https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8) | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=320&height=320) | BetisTV.TDTChannelsEPG | - |
-| Sevilla TV | - | [web](http://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=320&height=320) | SevillaTV.TDTChannelsEPG | - |
+| Sevilla TV | - | [web](https://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=320&height=320) | SevillaTV.TDTChannelsEPG | - |
 | UD Las Palmas TV | [m3u8](https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtv/udtvlive) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=320&height=320) | - | - |
 | Redbull TV | [m3u8](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://graph.facebook.com/RedBull/picture?width=320&height=320) | - | - |
 
@@ -62,7 +62,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Boing | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/boing) | [logo](https://graph.facebook.com/boinges/picture?width=320&height=320) | Boing.TDTChannelsEPG | - |
-| Clan | [m3u8](https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8) | [web](https://www.rtve.es/alacarta/videos/programa/tve-clan/5466990/) | [logo](https://graph.facebook.com/clantve/picture?width=320&height=320) | - | - |
+| Clan | [m3u8](https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8) | [web](https://www.rtve.es/alacarta/videos/programa/tve-clan/5466990/) | [logo](https://graph.facebook.com/clantve/picture?width=320&height=320) | Clan.TDTChannelsEPG | - |
 
 ## Webcams
 
@@ -91,12 +91,12 @@
 | Onda Cádiz | [m3u8](https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8) | [web](http://tv.ocadizdigital.es/tv/directo) | [logo](https://graph.facebook.com/ondacadiz/picture?width=320&height=320) | OndaCadiz.TDTChannelsEPG | - |
 | 8 Cádiz | [m3u8](https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8) | [web](http://www.8cadiz.es/directo/) | [logo](https://graph.facebook.com/8tvcadiz/picture?width=320&height=320) | - | - |
 | 8 La Janda | [m3u8](http://185.210.20.13:8080/0.m3u8) | [web](https://www.youtube.com/user/8lajanda/live) | [logo](https://graph.facebook.com/8lajanda/picture?width=320&height=320) | - | - |
-| Huelva TV | [youtube](https://youtube.com/watch?v=MywLhCk3NoE) | [web](http://huelvatv.com/directo/) | [logo](https://graph.facebook.com/Huelvatv/picture?width=320&height=320) | - | - |
+| Huelva TV | [youtube](https://youtu.be/MywLhCk3NoE) | [web](http://huelvatv.com/directo/) | [logo](https://graph.facebook.com/Huelvatv/picture?width=320&height=320) | - | - |
 | El Correo de Andalucía | [m3u8](https://elcorreotv.todostreaming.es/live/elcorreotv-livestream.m3u8) | [web](http://elcorreoweb.es/elcorreotv) | [logo](https://graph.facebook.com/elcorreoweb/picture?width=320&height=320) | - | - |
 | Canal 45 TV | [m3u8](https://cdn01.yowi.tv/503L6OKTE2/master.m3u8) | [web](http://www.canal45tv.com/) | [logo](https://graph.facebook.com/canal45television/picture?width=320&height=320) | - | - |
 | Lebrija TV | [m3u8](https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8) | [web](http://www.lebrija.tv/directo/) | [logo](https://graph.facebook.com/lebrijatelevision/picture?width=320&height=320) | - | - |
 | Onda Algeciras TV | [m3u8](https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8) | [web](http://ondaalgecirastv.com/en-directo/) | [logo](https://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320) | OndaAlgeciras.TDTChannelsEPG | - |
-| Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) | [web](http://www.teleonuba.es/en-directo/) | [logo](https://graph.facebook.com/Teleonuba/picture?width=320&height=320) | TeleOnuba.TDTChannelsEPG | - |
+| Teleonuba | [m3u8](http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8) | [web](https://www.teleonuba.es/en-directo/) | [logo](https://graph.facebook.com/Teleonuba/picture?width=320&height=320) | TeleOnuba.TDTChannelsEPG | - |
 | CanalCosta | [m3u8](http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8) | [web](http://www.canalcostatv.es/en-directo/) | [logo](https://graph.facebook.com/canalcosta/picture?width=320&height=320) | CanalCosta.TDTChannelsEPG | - |
 | Estepona TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8122/8122/master.m3u8) | [web](https://television.estepona.es/tvendirecto/) | [logo](https://graph.facebook.com/esteponatelevision/picture?width=320&height=320) | - | - |
 | interalmería | [m3u8](http://interalmeria.tv/directo/live.m3u8) | [web](http://www.interalmeria.tv/directo) | [logo](https://graph.facebook.com/Interalmeriatv/picture?width=320&height=320) | InterAlmeria.TDTChannelsEPG | - |
@@ -186,7 +186,7 @@
 | Este Canal TV | - | [web](https://livestream.com/estecanaltv/events/7051352) | [logo](https://graph.facebook.com/estecanaltv/picture?width=320&height=320) | - | - |
 | Canal 13 | [m3u8](http://212.40.234.65/live/canal13/playlist.m3u8) | [web](https://rtvos5.wixsite.com/canal13) | [logo](https://graph.facebook.com/RTVCANAL13/picture?width=320&height=320) | - | - |
 | Gigante TV | [m3u8](http://85.214.130.95:8080/live/stream.m3u8) | [web](http://radiogigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=320&height=320) | - | - |
-| Mi Tierra TV | [m3u8](https://5940924978228.streamlock.net/8171/8171/playlist.m3u8) | [web](http://www.mitierratelevision.com/directo/) | [logo](https://graph.facebook.com/minortetv/picture?width=320&height=320) | - | - |
+| Ahora TV | [m3u8](https://5940924978228.streamlock.net/8171/8171/playlist.m3u8) | [web](https://www.ahoratelevision.es/directos/) | [logo](https://graph.facebook.com/ahoratvtenerife/picture?width=320&height=320) | - | - |
 | Televisión Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8) | [web](http://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](https://graph.facebook.com/radiotelevisionmogan/picture?width=320&height=320) | - | - |
 | Gran Canaria Televisión | [youtube](https://youtu.be/CDEwafrT1KE) | [web](https://www.grancanariatv.com/) | [logo](https://graph.facebook.com/205775469566390/picture?width=320&height=320) | - | - |
 | Canal 10 TV | [m3u8](https://5940924978228.streamlock.net/8269/smil:8269.smil/master.m3u8) | [web](https://canal10tv.es) | [logo](https://graph.facebook.com/Canal10Television/picture?width=320&height=320) | - | - |
@@ -256,8 +256,6 @@
 | Canal Parlament | [m3u8](https://cdn-s1-eu.nice264.com/niceLiveServer/_definst_/pcatlive_canal1_MB_800/master.m3u8) | [web](https://www.parlament.cat/web/canal-parlament/directes/index.html) | [logo](https://graph.facebook.com/parlamentcat/picture?width=320&height=320) | - | - |
 | betevé | - | [web](https://beteve.cat/en-directe/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | BTV.TDTChannelsEPG | W3U |
 | betevé web | - | [web](https://beteve.cat/en-directe/web/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
-| betevé xarxes | - | [web](https://beteve.cat/en-directe/xarxes/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
-| betevé càmera del temps | - | [web](https://beteve.cat/temps-barcelona/) | [logo](https://graph.facebook.com/betevecat/picture?width=320&height=320) | - | W3U |
 | RAC105 | - | [web](https://www.rac105.cat) | [logo](https://graph.facebook.com/rac105/picture?width=320&height=320) | - | - |
 | BDN | [m3u8](http://liveingesta119.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8) | [web](https://www.bdncom.cat/directe/) | [logo](https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg) | - | - |
 | etv | [m3u8](https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/playlist.m3u8) | [web](http://www.etv.cat/index.php/en-directe-etv.html) | [logo](https://graph.facebook.com/etv.llobregat/picture?width=320&height=320) | - | - |
@@ -518,7 +516,7 @@
 | United Nations TV | [m3u8 # Inglés](https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8) | [web](http://webtv.un.org/) | [logo](https://graph.facebook.com/unitednations/picture?width=320&height=320) | - | - |
 | TVGE 1 | [m3u8](http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8) | [web](http://www.tvgelive.gq/live.php) | [logo](https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/44/cf/9f/44cf9fb7-dc61-bd74-2238-1f6d6b11925f/source/320x320bb.jpg) | - | - |
 | CBN | [m3u8](http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8) | [web](https://www1.cbn.com/tv/cbn-live) | [logo](https://graph.facebook.com/cbnonline/picture?width=320&height=320) | - | - |
-| Rai News 24 | [m3u8 # Italiano](https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8) | [web](https://www.rainews.it/dl/rainews/live/ContentItem-3156f2f2-dc70-4953-8e2f-70d7489d4ce9.html) | [logo](https://graph.facebook.com/rainews.it/picture?width=320&height=320) | - | - |
+| Rai News 24 | [m3u8 # Italiano](https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8) | [web](https://www.rainews.it/dl/rainews/live/ContentItem-3156f2f2-dc70-4953-8e2f-70d7489d4ce9.html) | [logo](https://graph.facebook.com/rainews.it/picture?width=320&height=320) | - | - |
 | Hispan TV | [m3u8](https://live.hispantv.com/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://graph.facebook.com/Hispantv/picture?width=320&height=320) | - | - |
 | Locomotion TV | [m3u8](http://locomotiontv.com/envivo/loco_ch/stream.m3u8) | [web](http://locomotiontv.com/envivo) | [logo](https://graph.facebook.com/locomotionxtv/picture?width=320&height=320) | - | - |
 | Cachipum TV | [m3u8](http://23.236.180.26/11580409776/live/playlist.m3u8) | [web](http://cachipum.tv/) | [logo](https://graph.facebook.com/cachipumtv/picture?width=320&height=320) | - | - |
@@ -597,5 +595,5 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | ATVHD.TDTChannelsEPG | - |
-| ATV Web | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](http://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | ATVCW.TDTChannelsEPG | - |
+| ATV | [m3u8](http://videos.rtva.ad:1935/live/rtva/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | ATVHD.TDTChannelsEPG | - |
+| ATV Web | [m3u8](http://videos.rtva.ad:1935/live/web/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=320&height=320) | ATVCW.TDTChannelsEPG | - |
