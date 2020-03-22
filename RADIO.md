@@ -118,6 +118,7 @@
 | Canal Málaga Radio | [mp3](http://195.55.74.203/canalmalaga/live.mp3) | [web](http://canalmalaga.es/radio-directo)| [logo](https://pbs.twimg.com/profile_images/971928392592449536/dXg0E5Ga_400x400.jpg) | - |
 | Radio Mijas | [mp3](https://wecast-b03-03.flumotion.com/mijas-radio/shoutcast.mp3) | [web](http://www.mijascomunicacion.org/index.php/radio-mijas-seccion) | [logo](https://graph.facebook.com/Mijas340/picture?width=320&height=320) | - |
 | Radio Marbella | [stream](http://radio1.todostreaming.es:8126/;str) | [web](http://rtvmarbella.tv/radio-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=320&height=320) | - |
+| Gozadera FM Andalucia | [stream](http://streamingv2.shoutcast.com/gozadera) | [web](https://www.gozadera.es/endirecto/) | [logo](https://graph.facebook.com/GozaderaSpain/picture?width=320&height=320) | - |
 
 ### Aragón
 
@@ -152,19 +153,20 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | RPA | [m3u8](https://cdnlive.shooowit.net/rtpalive/smil:radio.smil/master.m3u8) | [web](https://rtpa.es/radio) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=320&height=320) | - |
-| Cadena SER - Radio Asturias | [mp3](http://188.93.73.98:8118/;stream.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER - Radio Asturias | [mp3](https://19373.live.streamtheworld.com/SER_ASO_ASTURIAS.mp3) | [web](https://play.cadenaser.com/emisora/radio_asturias/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
+| Cadena SER Gijon | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3) | [web](https://play.cadenaser.com/emisora/ser_gijon/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | Cadena SER - Oriente | [mp3](http://seroriente.com:8000/seroriente.mp3) | [web](https://play.cadenaser.com/emisora/ser_oriente/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
-| Carrussel FM | [pls](https://server10.emitironline.com:2199/tunein/carruselfm.pls) | [web](https://players.emitironline.com/v5/index.php?url=http%3A%2F%2Fserver10.emitironline.com%3A8921%2Fradio&codec=mp3&volume=80&autoplay=true&buffering=2&user=carruselfm&server=server10&title=Carrusel+FM) | [logo](https://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
+| COPE Oviedo | [mp3](https://wecast-m01-02.flumotion.com/copesedes/asturias.mp3) | [web](https://www.cope.es/directos/oviedo) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
+| Carrussel FM | [mp3](http://server10.emitironline.com:8921/radio?1584744975456.mp3) | [web](http://www.carruselfm.com/) | [logo](https://graph.facebook.com/467719623356931/picture?width=320&height=320) | - |
 | cSTRadio | [stream](http://srv3021.lcinternet.com:8012/live) | [web](http://www.cstradio.org/v_portal/apartados/apartado.asp) | [Logo](https://graph.facebook.com/radioteletaxi/picture?width=320&height=320) | - |
-| Master FM | [stream](http://lamaster.es:8002/;) | [web](http://lamaster.es/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=320&height=320) | - |
-| Onda Peñes | [m3u](http://5.135.183.124:9279/stream.m3u) | [web](http://www.gaxarte.com/emisiononline.htm) | [logo](https://graph.facebook.com/onda.penes/picture?width=320&height=320) | - |
-| Radio QK | [mp3](http://35.241.175.84:8000/radioqk_live.mp3) | [web](http://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=320&height=320) | - |
-| Radio Fantasía | [stream](http://81.94.198.122:9280/;) | [web](http://radiofantasiafm.com/) | [logo](https://graph.facebook.com/radiofantasia/picture?width=320&height=320) | - |
+| Master FM | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://lamaster.es/asturias/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=320&height=320) | - |
+| Onda Peñes | [mp3](http://5.135.183.124:9279/stream?type=.mp3) | [web](http://www.gaxarte.com/emisiononline.htm) | [logo](https://graph.facebook.com/onda.penes/picture?width=320&height=320) | - |
+| Radio QK | [mp3](http://34.77.177.144:8000/radioqk_master.mp3) | [web](http://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=320&height=320) | - |
 | Radio San Martín Sotrondio | [stream](http://91.126.223.28:9890/;) | [web](https://sanmartinradio.blogspot.com/) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=320&height=320) | - |
 | Radio Sele | - | [web](http://www.radiosele.com/) | [Logo](https://cdn.onlineradiobox.com/img/logo/8/54418.v3.png) | - |
 | Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](https://graph.facebook.com/radioujo/picture?width=320&height=320) | - |
 | The Box FM | [stream](http://listen128.radionomy.com/thebox) | [web](http://www.theboxfm.net/player_web/index.html) | [logo](https://graph.facebook.com/boxfmec/picture?width=320&height=320) | - |
-| OndaLangreo | [mp3](http://ondalangreo.com:3097/ondalangreo.mp3) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=320&height=320) | - |
+| OndaLangreo | [stream](http://37.59.121.120:10025/stream) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=320&height=320) | - |
 
 ### Canarias
 
@@ -425,11 +427,21 @@
 | La 97.7 Radio | [aac](http://teledifusion.tv:1935/977live/mp4:la977stream/media_w1606995350_363652.aac) | [web](http://www.la977.com/estaticos/la977.html) | [logo](https://graph.facebook.com/la977/picture?width=320&height=320) | - |
 | LOS40 Castellón | [stream](http://stream.radiocastellon.com/40) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/los40/picture?width=320&height=320) | - |
 | LOS40 Classic Castellón | [stream](http://stream.radiocastellon.com/40cl) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=320&height=320) | - |
+| Play Radio Valencia | [stream](http://srv1.multiesfera.com:8002/stream) | [web](https://playradio.es/) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=320&height=320) | - |
 | Teleelx Radio | [mp3](http://95.211.109.206:8140/start/;stream.mp3) | [web](https://teleelx.es/radio/) | [logo](http://graph.facebook.com/teleelx/picture?width=320&height=320) | - |
 | Vega Baja Radio | [stream](http://185.223.216.183:8000/;stream/1) | [web](https://vegabajaradio.com/) | [logo](https://graph.facebook.com/vegabajaradio/picture?width=320&height=320) | - |
 | UPV Radio | - | [web](http://www.upv.es/rtv/radio/directo) | [logo](https://graph.facebook.com/UPVTV/picture?width=320&height=320) | - |
 | Radio Benicarló | [mp3](http://streaming.enacast.com:8000/radiobenicarlo56.mp3) | [web](https://www.radiobenicarlo.org/) | [logo](https://pbs.twimg.com/profile_images/986172333802098688/1n42_pIB_400x400.jpg) | - |
 | Vox UJI Ràdio | [mp3](http://radiouji.uji.es:8000/high.mp3) | [web](https://www.radio.uji.es/) | [logo](https://pbs.twimg.com/profile_images/915478760299868160/FACNin_P_400x400.jpg) | - |
+| Activa FM | [mp3](http://emisorasmusicales.es:8006/activafmonline.mp3) | [web](https://emisorasmusicales.net/activa/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=320&height=320) | - |
+| La Mega FM | [mp3](http://emisorasmusicales.es:8000/lamegaalicante.mp3) | [web](https://emisorasmusicales.net/lamega/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-LaMega-web.png) | - |
+| MuyBuena FM | [mp3](http://emisorasmusicales.es:8006/muybuenaalicante.mp3) | [web](https://emisorasmusicales.net/muybuena/) | [logo](https://graph.facebook.com/MuyBuena/picture?width=320&height=320) | - |
+| Bikini FM | [mp3](http://emisorasmusicales.es:8000/bikinialicante.mp3) | [web](https://emisorasmusicales.net/bikini/) | [logo](https://graph.facebook.com/1079520952102512/picture?width=320&height=320) | - |
+| Esencia FM | [mp3](http://emisorasmusicales.es:8000/esenciafmalicante.mp3) | [web](https://emisorasmusicales.net/esencia/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-EsenciaFM-web.png) | - |
+| Gold FM | [mp3](http://emisorasmusicales.es:8000/goldfmalicante.mp3) | [web](https://emisorasmusicales.net/gold/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-GoldFM-web.png) | - |
+| Rockstar FM | [mp3](http://emisorasmusicales.es:8000/rockstaralicante.mp3) | [web](https://emisorasmusicales.net/rockstar/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-Rockstar-web.png) | - |
+| La Flamenca FM | [mp3](http://emisorasmusicales.es:8000/la_flamenca_benidorm.mp3) | [web](https://emisorasmusicales.net/laflamenca/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2016/02/Icono-La-flamenca-web.png0) | - |
+| La que Suena FM | [mp3](http://emisorasmusicales.es:8000/laquesuenaalicante.mp3) | [web](https://emisorasmusicales.net/laquesuena/) | [logo](https://emisorasmusicales.net/wp-content/uploads/2018/01/logo100x100-1.png) | - |
 
 ## Internacionales
 | Emisoras | Stream | Web | Logo | Info |
