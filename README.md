@@ -8,6 +8,7 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 | -	| - | -	| -	| -	| -	| -	|
 | **TV** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/TELEVISION.md) | [json](http://www.tdtchannels.com/lists/channels.json) | [m3u8](http://www.tdtchannels.com/lists/channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/channels.m3u) | [enigma2](http://www.tdtchannels.com/lists/userbouquet.tdtchannels.tv)	| [w3u](http://www.tdtchannels.com/lists/channels.w3u) |
 | **Radio** | [Navegador](https://github.com/LaQuay/TDTChannels/blob/master/RADIO.md) | [json](http://www.tdtchannels.com/lists/radio_channels.json) | [m3u8](http://www.tdtchannels.com/lists/radio_channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/radio_channels.m3u) | - | [w3u](http://www.tdtchannels.com/lists/radio_channels.w3u) |
+| **TV+Radio** | - | - | [m3u8](http://www.tdtchannels.com/lists/combo_channels.m3u8) | [m3u](http://www.tdtchannels.com/lists/combo_channels.m3u) | - | [w3u](http://www.tdtchannels.com/lists/combo_channels.w3u) |
 | **Programación EPG** | [Navegador](https://github.com/HelmerLuzo/TDTChannels_EPG) | [xml](http://www.tdtchannels.com/epg/TV.xml) | - | - | - | - |
 
 - *Navegador*: Visionado "manual" en el navegador.
@@ -29,6 +30,10 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 
 ### Noticias
+*03/2020* - [El Androide Libre - Ver la tele en el móvil: esta es nuestra aplicación preferida](https://elandroidelibre.elespanol.com/2020/03/ver-la-tele-en-el-movil-esta-es-nuestra-aplicacion-preferida.html)
+
+*03/2020* - [El Androide Feliz - Cómo configurar listas IPTV en VLC para ver TV en directo](https://elandroidefeliz.com/como-configurar-listas-iptv-en-vlc/)
+
 *03/2020* - [SoftZone - Esta lista IPTV te permite ver 350 canales de la TDT en VLC y Kodi](https://www.softzone.es/programas/multimedia/ver-tdt-online-vlc-kodi/)
 
 *03/2020* - [Xataka Android - Cómo usar Kodi en Android para ver los canales de la TDT](https://www.xatakandroid.com/aplicaciones-android/como-usar-kodi-android-para-ver-canales-tdt)
