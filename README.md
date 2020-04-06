@@ -21,10 +21,11 @@ Lista de canales de televisión, y radio, que se emiten en abierto por Internet.
 ### Herramientas
 | | Enlace |
 | -	| -	|
-| **Web oficial** | [Reproductor web](http://www.tdtchannels.com/) |
-| **Aplicación Android** | [Repositorio de la Aplicación Android](https://github.com/LaQuay/TDTChannels-APP) |
-| **Grupo en Telegram** | [Acceder al grupo](https://t.me/tdtchannels) |
-| **Canal de Avisos en Telegram** | [Acceder al canal](https://t.me/tdtchannels_avisos) |
+| **Página web** | [TDTChannels](http://www.tdtchannels.com/) |
+| **Aplicación Android** | [TDTChannels](http://www.tdtchannels.com), botón Android |
+| **Aplicación Android Open** | [Repositorio](https://github.com/LaQuay/TDTChannels-APP) de la versión Open Source |
+| **Grupo - Telegram** | [Acceder](https://t.me/tdtchannels) al grupo |
+| **Canal de Avisos - Telegram** | [Acceder](https://t.me/tdtchannels_avisos) al canal |
 
 ### Ayuda
 _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
@@ -96,8 +97,8 @@ _Wiki_ del proyecto [aquí](https://github.com/LaQuay/TDTChannels/wiki).
 - [TELE ONLINE](http://teleonline.org/)
 
 #### Android
-- [TDTChannels](https://www.tdtchannels.com): Aplicación Android oficial. Soporte en Telegram. Gratuita, sin anuncios.
-- [TDTChannels Open Source](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
+- [TDTChannels](http://www.tdtchannels.com): Aplicación Android oficial. Soporte en Telegram. Gratuita, sin anuncios.
+- [TDTChannels Open](https://github.com/LaQuay/TDTChannels-APP): Aplicación Android oficial del repositorio. Soporte en Telegram. Gratuita, de código abierto, sin anuncios.
 - [FeedTV](https://github.com/juanro49/FeedTV): Aplicación que te permite leer noticias mediante RSS además de poder ver canales de este repositorio. Gratuita y de código abierto.
 
 #### iOS
