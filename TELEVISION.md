@@ -4,8 +4,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| La 1 | [m3u8 # GEO](https://rtvelivestream.akamaized.net/la1_ak_dvr.m3u8) - [m3u8](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1.TDTChannelsEPG | - |
-| La 2 | [m3u8 # GEO](https://rtvelivestream.akamaized.net/la2_ak_dvr.m3u8) - [m3u8](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=320&height=320) | La2.TDTChannelsEPG | - |
+| La 1 | [m3u8](https://rtvelivestream.akamaized.net/la1_dvr.m3u8) | [web](https://www.rtve.es/directo/la-1/) | [logo](https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg) | La1.TDTChannelsEPG | - |
+| La 2 | [m3u8](https://rtvelivestream.akamaized.net/la2_dvr.m3u8) | [web](https://www.rtve.es/directo/la-2/) | [logo](https://graph.facebook.com/la2detve/picture?width=320&height=320) | La2.TDTChannelsEPG | - |
 | Antena 3 | [m3u8 # GEO](https://livestartover-i.akamaized.net/geoantena3/master.m3u8) - [m3u8](https://livestartover-i.akamaized.net/antena3/master.m3u8) | [web](https://www.atresplayer.com/directos/antena3/) | [logo](https://graph.facebook.com/antena3/picture?width=320&height=320) | Antena3.TDTChannelsEPG | - |
 | Cuatro | [m3u8 # HD](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8) - [m3u8 # SD](https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/cuatro) | [logo](https://graph.facebook.com/cuatro/picture?width=320&height=320) | Cuatro.TDTChannelsEPG | NONAV,CODEC |
 | Telecinco | [m3u8 # HD](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8) - [m3u8 # SD](https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8) | [web](https://www.mitele.es/directo/telecinco) | [logo](https://graph.facebook.com/tele5/picture?width=320&height=320) | Telecinco.TDTChannelsEPG | NONAV,CODEC |
@@ -563,7 +563,6 @@
 | Garage TV | [m3u8](http://186.0.233.76:1935/Garage/garage.smil/.m3u8) | [web](http://elgarage.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_400x400.jpg) | - | - |
 | MsMotor TV | [m3u8 # IT](https://streaming.wim.tv/live/streamingautomototv/.m3u8) | [web](http://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=320&height=320) | - | - |
 | OnlyMotors | [m3u8 # EN](https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/index.m3u8) | [web](https://kapang.com/onlymotors/live/) | [logo](https://graph.facebook.com/onlymotors/picture?width=320&height=320) | - | - |
-| Earth TV | [m3u8 # EN](https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/master.m3u8) | [web](https://www.earthtv.com/en) | [logo](https://graph.facebook.com/earthTV/picture?width=320&height=320) | - | - |
 
 ## Musicales
 
