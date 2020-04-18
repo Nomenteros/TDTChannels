@@ -42,7 +42,7 @@
 | Emisoras | Stream | Web | Logo | Info |
 | - | - | - | - | - |
 | LOS40 Dance | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3) | [web](https://play.los40.com/emisora/los40_dance/) | [logo](https://graph.facebook.com/los40dance/picture?width=320&height=320) | - |
-| LOS40 Urban | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3) | [web](https://play.los40.com/emisora/los40_urban) | [logo](https://graph.facebook.com/kebuena103.9fm/picture?width=320&height=320) | - |
+| LOS40 Urban | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3) | [web](https://play.los40.com/emisora/los40_urban) | [logo](https://graph.facebook.com/los40urban/picture?width=320&height=320) | - |
 | Dial Baladas | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3) | [web](https://play.cadenadial.com/emisora/dialbaladas) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg) | - |
 | Dial Esencial | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_01.mp3) | [web](https://play.cadenadial.com/emisora/dialesencial) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743852.jpg) | - |
 | Dial Latino | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3) | [web](https://play.cadenadial.com/emisora/diallatino) | [logo](https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg) | - |
@@ -285,7 +285,7 @@
 | Radio Camargo | [mp3](http://91.121.77.67:8048/;stream.mp3) | [web](http://www.radiocamargo.es/) | [logo](https://graph.facebook.com/RadioCamargo100.4FM/picture?width=320&height=320) | - |
 | Top FM | [stream](http://topcantabriafm.myddns.me:8080/live) | [web](http://www.topcantabriafm.com) | [logo](https://pbs.twimg.com/profile_images/487651644083957760/GHc_1oji_400x400.png) | - |
 | Distinta FM | [mp3](http://ns100.emisionlocal.com:8050/;stream.mp3) | [web](http://distintafm.es/) | [logo](https://graph.facebook.com/distintafm/picture?width=320&height=320) | - |
-| Onda Occidental | [mp3](http://server9.emitironline.com:10944/stream.mp3) | [web](http://www.ondaoccidental.es/) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=320&height=320) | - |
+| Onda Occidental | [stream](http://server9.emitironline.com:10944/) | [web](http://www.ondaoccidental.es/) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=320&height=320) | - |
 
 ### Castilla-La Mancha
 
@@ -682,7 +682,7 @@
 | SER - Radio Rioja | [mp3](http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJA.mp3) | [web](https://play.cadenaser.com/emisora/radio_rioja/) | [logo](https://graph.facebook.com/cadenaser/picture?width=320&height=320) | - |
 | COPE Logroño | [mp3](https://wecast-b01-03.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
 | COPE Rioja | [mp3](https://wecast-b01-01.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=320&height=320) | - |
-| Onda Cero Logroño | [w3u8](https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/rioja/rioja/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
+| Onda Cero Logroño | [m3u8](https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/rioja/rioja/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=320&height=320) | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=320&height=320) | - |
 
 ### Melilla
