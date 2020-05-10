@@ -25,12 +25,13 @@
 | TRECE | [m3u8](https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8) | [web](http://trecetv.es/directo) | [logo](https://graph.facebook.com/TRECEtves/picture?width=320&height=320) | 13.TDTChannelsEPG | - |
 | mtmad 24h | [m3u8](https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8) | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=320&height=320) | - | - |
 | OT 24h | [youtube](https://www.youtube.com/channel/UCc1sAhdaLjfJi11X1awO-yg/live) | [web](https://www.rtve.es/television/ot/directo-academia/) | [logo](https://graph.facebook.com/operaciontriunfo/picture?width=320&height=320) | - | EMB |
+| El Toro TV | [m3u8 # HD](https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8) - [m3u8 # SD](https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-300/index.m3u8) | [web](https://eltorotv.com/tv-en-directo) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
 
 ## Informativos
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| 24h | [m3u8 # 1](https://rtvelivestream.akamaized.net/hls/nxrtgolumi/24h_dvr.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/24h_dvr.m3u8) | [web](https://www.rtve.es/directo/canal-24h/) | [logo](https://graph.facebook.com/24htve/picture?width=320&height=320) | 24Horas.TDTChannelsEPG | - |
+| 24h | [m3u8 # 1](https://rtvelivestream.akamaized.net/24h_dvr.m3u8) - [m3u8 # 2](https://rtvelivestream.akamaized.net/hls/nxrtgolumi/24h_dvr.m3u8) | [web](https://www.rtve.es/directo/canal-24h/) | [logo](https://graph.facebook.com/24htve/picture?width=320&height=320) | 24Horas.TDTChannelsEPG | - |
 | Nius | [m3u8 # HD](https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8) - [m3u8 # SD](https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8) | [web](https://www.niusdiario.es/) | [logo](https://graph.facebook.com/NiusDiario/picture?width=320&height=320) | - | - |
 | EuropaPress TV | [m3u8](https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8) | [web](https://www.europapress.tv/) | [logo](https://graph.facebook.com/europapress.es/picture?width=320&height=320) | - | - |
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com/efe/espana/1) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=320&height=320) | - | EMB |
@@ -39,7 +40,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Teledeporte | [m3u8 # GEO 1](https://rtvelivestream.akamaized.net/hls/nxrtgolumi/tdp_dvr.m3u8) - [m3u8 # GEO 2](https://rtvelivestream.akamaized.net/tdp_dvr.m3u8) | [web](https://www.rtve.es/directo/teledeporte/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | - |
+| Teledeporte | [m3u8 # GEO 1](https://rtvelivestream.akamaized.net/tdp_dvr.m3u8) - [m3u8 # GEO 2](https://rtvelivestream.akamaized.net/hls/nxrtgolumi/tdp_dvr.m3u8) | [web](https://www.rtve.es/directo/teledeporte/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320) | TDP.TDTChannelsEPG | - |
 | GOL | - | [web](https://www.goltelevision.com/en-directo) | [logo](https://graph.facebook.com/goltv.es/picture?width=320&height=320) | GOL.TDTChannelsEPG | W3U |
 | Fight Time | [m3u8](http://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8) | [web](http://fight-time.com/) | [logo](https://graph.facebook.com/FightTimeEntertainment/picture?width=320&height=320) | - | - |
 | RealMadrid TV | [m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # EN](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadridTV7/picture?width=320&height=320) | RMTV.TDTChannelsEPG | - |
@@ -320,7 +321,6 @@
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | [logo](https://graph.facebook.com/telemadrid/picture?width=320&height=320) | Telemadrid.TDTChannelsEPG | - |
 | LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | [logo](https://pbs.twimg.com/profile_images/971894509972967429/gu-7VRg2_400x400.jpg) | LaOtra.TDTChannelsEPG | - |
 | Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=320&height=320) | OndaMadrid.TDTChannelsEPG | - |
-| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
 | Libertad Digital TV | - | [web](https://tv.libertaddigital.com/directo.html) | [logo](https://graph.facebook.com/libertad.digital.tv/picture?width=320&height=320) | Libertad.TDTChannelsEPG | - |
 | Teleganés | [m3u8](https://cdn01.yowi.tv/P18V9163O7/live-1500.m3u8) | [web](http://www.teleganes.com/) | [logo](https://graph.facebook.com/1423419417957760/picture?width=320&height=320) | - | - |
 | C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info/) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=320&height=320) | C33.TDTChannelsEPG | - |
@@ -356,7 +356,6 @@
 | Intercomarcal TV | [m3u8 # 1](https://str.intercomarcal.com/hls/tvisd.m3u8) - [m3u8 # 2](https://str.intercomarcal.com/hls/tvixa.m3u8) | [web](https://www.intercomarcal.com) | [logo](https://graph.facebook.com/Intercomarcal.Television/picture?width=320&height=320) | - | - |
 | Grup Televisió | [m3u8](https://common01.todostreaming.es/live/ribera-livestream.m3u8) | [web](https://www.riberatelevisio.com/en-directe/) | [logo](https://graph.facebook.com/grup.televisio/picture?width=320&height=320) | - | - |
 | La 8 Mediterráneo | [m3u8](https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8) | [web](http://www.laocho.tv/es/directo/) | [logo](https://graph.facebook.com/la8mediterraneo/picture?width=320&height=320) | 8M.TDTChannelsEPG | - |
-| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
 | Pequeradio TV | [m3u8](https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8) | [web](https://www.pequeradio.com/tvv2.php) | [logo](https://graph.facebook.com/Pequeradio/picture?width=320&height=320) | - | - |
 | Alicantí TV | [m3u8](http://5.39.65.105/hls/alacantixa.m3u8) | [web](http://www.alacantitv.com/en-directo/) | [logo](https://graph.facebook.com/alacantitv/picture?width=320&height=320) | - | - |
 | TVCS | [twitch](https://twitch.tv/tvcs) | [web](https://tvcs.tv/en-directe/) | [logo](https://graph.facebook.com/TelevisiondeCastellon/picture?width=320&height=320) | - | - |
@@ -426,7 +425,6 @@
 | TEF | [m3u8](https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=320&height=320) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/playlist.m3u8) | [web](http://canal4televisio.com/canal-4-en-directo/) | [logo](https://graph.facebook.com/canal4televisio/picture?width=320&height=320) | - | - |
 | Fibwi | [m3u8](https://directo.fibwi.com/stream/stream_fibwiLIVE/fibwiLIVEtv.m3u8) | [web](https://fibwiradio.com/) | [logo](https://graph.facebook.com/GrupoFibwi/picture?width=320&height=320) | - | - |
-| El Toro TV | [m3u8](https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8) | [web](https://eltorotv.com/) | [logo](https://graph.facebook.com/eltorotv.es/picture?width=320&height=320) | ElToroTV.TDTChannelsEPG | - |
 | Inselradio TV | - | [web](https://www.inselradio.com/player/?tv) | [logo](https://graph.facebook.com/DasInselradio/picture?width=320&height=320) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](https://graph.facebook.com/LuxMallorca/picture?width=320&height=320) | - | W3U |
 
