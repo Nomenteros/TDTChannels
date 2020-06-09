@@ -171,6 +171,7 @@
 | LOS40 Costa de la Luz | [stream](http://5.135.183.124:8326/stream) | [web](http://www.los40costadelaluz.com/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Guadix | [stream](http://20873.live.streamtheworld.com:3690/LOS40_ASO_GUADIX_SC) | [web](https://cadenaser.com/emisora/radio_guadix/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Indalo | [stream](http://212.83.164.82:8011/40indalo.mp3) | [web](http://www.seralmeria.com/onlineradio/40indalo.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
+| Cadena Dial Almería | [mp3](http://212.83.164.82:8002/dial.mp3) | [web](http://www.seralmeria.com/onlineradio/dial.php) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Cadena Dial Andalucia Este | [stream](http://streaming5.elitecomunicacion.es:8226/stream) | [web](http://dialandaluciaeste.com/) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Cadena Digital | [mp3](http://185.23.192.118:8006/;stream.mp3) | [web](http://www.cadenadigital.com/) | [logo](https://graph.facebook.com/CadenaDigitalMalaga/picture?width=200&height=200) | - | - |
 | Cadena Latino | [mp3](http://185.23.192.118:8000/;stream.mp3) | [web](http://www.latinofm.es/) | [logo](https://graph.facebook.com/LatinoFMmalaga/picture?width=200&height=200) | - | - |
@@ -481,6 +482,7 @@
 | Barcelona City FM | [stream](https://s2.radio.co/sd9da54aa0/listen) | [web](http://www.barcelonacityfm.com/) | [logo](https://graph.facebook.com/barcelonacityfm/picture?width=200&height=200) | - | WICE |
 | ScannerFM | [stream](https://streaming.radio.co/s1843fc3d4/listen) | [web](https://www.scannerfm.com/) | [logo](https://graph.facebook.com/scannerFM/picture?width=200&height=200) | - | - |
 | Ràdio Amèrica Barcelona | [stream](https://s3.radio.co/sf09831a0e/listen) | [web](http://www.rab.cat/) | [logo](https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200) | - | - |
+| Ona Mediterrània | [mp3](http://streaming.enantena.com:8000/onamediterrania128.mp3) | [web](http://www.onamediterrania.cat/) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
@@ -609,16 +611,17 @@
 | Radio Benicarló | [mp3](http://streaming.enacast.com:8000/radiobenicarlo56.mp3) | [web](https://www.radiobenicarlo.org/) | [logo](https://pbs.twimg.com/profile_images/986172333802098688/1n42_pIB_200x200.jpg) | - | - |
 | Vox UJI Ràdio | [mp3](http://radiouji.uji.es:8000/high.mp3) | [web](https://www.radio.uji.es/) | [logo](https://pbs.twimg.com/profile_images/915478760299868160/FACNin_P_200x200.jpg) | - | - |
 | Activa FM | [mp3](https://stream.mediasector.es/radio/8000/activafm.mp3) | [web](https://emisorasmusicales.net/activa/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
-| La Mega FM | [mp3](https://stream.mediasector.es/radio/8020/lamega.mp3) | [web](https://emisorasmusicales.net/lamega/) | [logo](https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaMega.png?fit=320%2C320) | - | - |
-| MuyBuena FM | [mp3](https://stream.mediasector.es/radio/8010/muybuena.mp3) | [web](https://emisorasmusicales.net/muybuena/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/MuyBuena.png?fit=320%2C320) | - | - |
-| Bikini FM | [mp3](https://stream.mediasector.es/radio/8030/bikinifm.mp3) | [web](https://emisorasmusicales.net/bikini/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/BikiniFM.png?fit=320%2C320) | - | - |
-| Esencia FM | [mp3](https://stream.mediasector.es/radio/8040/esenciafm.mp3) | [web](https://emisorasmusicales.net/esencia/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/EsenciaFM.png?fit=320%2C320) | - | - |
-| Gold FM | [mp3](https://stream.mediasector.es/radio/8050/goldfm.mp3) | [web](https://emisorasmusicales.net/gold/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/goldFM.png?fit=320%2C320) | - | - |
-| Rockstar FM | [mp3](https://stream.mediasector.es/radio/8060/rockstar.mp3) | [web](https://emisorasmusicales.net/rockstar/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/Rockstar.png?fit=320%2C320) | - | - |
-| La Flamenca FM | [mp3](https://stream.mediasector.es/radio/8070/laflamenca.mp3) | [web](https://emisorasmusicales.net/laflamenca/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaFlamenca.png?fit=320%2C320) | - | - |
-| La que Suena FM | [mp3](https://stream.mediasector.es/radio/8090/laquesuena.mp3) | [web](https://emisorasmusicales.net/laquesuena/) | [logo](https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/laquesuena.png?fit=320%2C320) | - | - |
-| La Indie FM | [mp3](https://stream.mediasector.es/radio/8130/radio.mp3) | [web](https://www.emisorasmusicales.net/emisoras/la-indie/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/LA-INDIE.png?fit=320%2C320) | - | - |
-| Motiva FM | [mp3](https://stream.mediasector.es/radio/8120/radio.mp3) | [web](https://www.emisorasmusicales.net/emisoras/motiva-fm/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/motiva.png??fit=320%2C320) | - | - |
+| La Mega FM | [mp3](https://stream.mediasector.es/radio/8020/lamega.mp3) | [web](https://emisorasmusicales.net/lamega/) | [logo](https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaMega.png?fit=200%2C200) | - | - |
+| MuyBuena FM | [mp3](https://stream.mediasector.es/radio/8010/muybuena.mp3) | [web](https://emisorasmusicales.net/muybuena/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/MuyBuena.png?fit=200%2C200) | - | - |
+| Bikini FM | [mp3](https://stream.mediasector.es/radio/8030/bikinifm.mp3) | [web](https://emisorasmusicales.net/bikini/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/BikiniFM.png?fit=200%2C200) | - | - |
+| Esencia FM | [mp3](https://stream.mediasector.es/radio/8040/esenciafm.mp3) | [web](https://emisorasmusicales.net/esencia/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/EsenciaFM.png?fit=200%2C200) | - | - |
+| Gold FM | [mp3](https://stream.mediasector.es/radio/8050/goldfm.mp3) | [web](https://emisorasmusicales.net/gold/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/goldFM.png?fit=200%2C200) | - | - |
+| Rockstar FM | [mp3](https://stream.mediasector.es/radio/8060/rockstar.mp3) | [web](https://emisorasmusicales.net/rockstar/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/Rockstar.png?fit=200%2C200) | - | - |
+| La Flamenca FM | [mp3](https://stream.mediasector.es/radio/8070/laflamenca.mp3) | [web](https://emisorasmusicales.net/laflamenca/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/LaFlamenca.png?fit=200%2C200) | - | - |
+| La que Suena FM | [mp3](https://stream.mediasector.es/radio/8090/laquesuena.mp3) | [web](https://emisorasmusicales.net/laquesuena/) | [logo](https://i1.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/03/laquesuena.png?fit=200%2C200) | - | - |
+| La Indie FM | [mp3](https://stream.mediasector.es/radio/8130/radio.mp3) | [web](https://www.emisorasmusicales.net/emisoras/la-indie/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/LA-INDIE.png?fit=200%2C200) | - | - |
+| Motiva FM | [mp3](https://stream.mediasector.es/radio/8120/radio.mp3) | [web](https://www.emisorasmusicales.net/emisoras/motiva-fm/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/motiva.png??fit=200%2C200) | - | - |
+| Radio 6 | [mp3](http://stream.mediasector.es/radio/8150/radio6.mp3) | [web](https://www.emisorasmusicales.net/emisoras/radio6/) | [logo](https://i2.wp.com/www.emisorasmusicales.net/inc/uploads/2020/05/Radio-6.png?fit=200%2C200) | - | - |
 | Radio Plaza | [stream](https://stream1.solstreaming.com:8112/stream) | [web](https://plazaradio.es/onair) | [logo](https://graph.facebook.com/plazaradio/picture?width=200&height=200) | - | WICE |
 | Spektra FM | [stream](http://stm1.emiteonline.com:8008/spektrafm) | [web](http://www.spektrafm.es/index.php/es/) | [logo](https://pbs.twimg.com/profile_images/1198909425177841665/G5QnW0Um_200x200.jpg) | - | WICE |
 | Radio 7 Valencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247024/027/playlist.m3u8) | [web](https://radiosiete.com/emision-en-directo/) | [logo](https://graph.facebook.com/radiosiete/picture?width=200&height=200) | - | - |
@@ -731,6 +734,7 @@
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com/) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
 | Isla 106 Ibiza | [aac](https://streams.isla106.com/isla106.aac) | [web](https://www.isla106.com/live) | [logo](https://graph.facebook.com/Isla106Ibiza/picture?width=200&height=200) | - | - |
 | Ecoradio | [stream](http://radioserver7.profesionalhosting.com:8062/;stream) | [web](http://www.ecoradio.es/) | [logo](https://graph.facebook.com/ecoradio.es/picture?width=200&height=200) | - | - |
+| Titoieta Ràdio | [stream](http://195.154.33.95:8034/stream) | [web](http://www.titoieta.cat/index.php) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | WICE |
 
 ### La Rioja
 
