@@ -5,6 +5,7 @@
 - Antonio [@atnbueno](https://github.com/atnbueno)
 - HelmerLuzo [@HelmerLuzo](https://github.com/HelmerLuzo)
 - Playz [@playzzz](https://github.com/playzzz)
+- José Antonio [@nomentero](https://github.com/Nomenteros)
 
 #### Contributions (in alphabetical order)
 - Aitor [@aitorillo](https://github.com/aitorillo)
@@ -17,7 +18,6 @@
 - David [@david-cp](https://github.com/David-cp)
 - Jacobo [@poborp](https://github.com/poborp)
 - Jorge [@jaguaza](https://github.com/jaguaza)
-- José Antonio [@nomentero](https://github.com/Nomenteros)
 - Juan [@okelet](https://github.com/okelet)
 - Miguel A. [@MiguelAngel2345](https://github.com/MiguelAngel2345)
 - Ricardo [@RicardoVelaC](https://github.com/RicardoVelaC)
