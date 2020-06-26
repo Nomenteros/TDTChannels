@@ -1,13 +1,14 @@
 # Estado de los canales de televisión
 
-- ✔ -> Funcionando
-- 🌐 -> Enlace disponible para ver mediante navegador web
-- ❌ -> No funciona
-- ➖ -> Desconocido
-- ❗ -> Problemas reportados
+- ✔ → Funcionando
+- 🌐 → Disponible mediante navegador web
+- ▶ → Disponible de forma embebida (YouTube, Vimeo, Twitch, ...)
+- ❌ → No funciona
+- ➖ → Desconocido
+- ❗ → Problemas reportados
 
 Android y iOS significan TDTChannels Android y TDTChannels iOS, aplicaciones oficiales del proyecto.
-Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3u/m3u8 (Salvo Wiseplay, W3U).
+Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W3U).
 
 ## Nacionales
 
@@ -41,10 +42,10 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 | - | - | - | - | - | - | - | - |
 | 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nius | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El País | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| La Vanguardia | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| El País | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | EuropaPress TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Agencia EFE | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Libertad Digital TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 
 ## Deportivos
@@ -59,9 +60,9 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 | Betis TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | UD Las Palmas TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| MARCA | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| La Liga Santander | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| El 10 del Barça | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | Emisión diaria entre las 21 - 23h |
+| MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| La Liga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶ | - |
+| El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | Emisión diaria entre las 21 - 23h |
 | Fight Time | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emisión online |
 
 ## Infantiles
@@ -70,9 +71,9 @@ Cualquier otro reproductor, bajo el sistema operativo que sea, es considerado m3
 | - | - | - | - | - | - | - | - |
 | Boing | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Pocoyó | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| Warner Bros Kids | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| Little Baby Bum | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 
 ## Eventuales
 
@@ -120,7 +121,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 7TV Andalucía - Sierra | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Correo de Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Jerez Televisión | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Jerez Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Onda Cádiz | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 45 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -128,7 +129,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Huelva TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Huelva TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Costa Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleonuba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -136,25 +137,25 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Interalmería TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Centro Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Lebrija TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Más Jerez | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Más Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | 8 Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 La Janda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 8 Jerez | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| Uvitel TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| 8 Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Uvitel TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ▶ | - |
 | Canal San Roque | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | OndaMezquita TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Onda Jerez TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Onda Jerez TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ▶ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TG7 | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| Axarquía TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
-| Málaga 24h TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
 | Más TV Huelva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Villafranca TV | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Tarifa | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cadena Elite Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Montilla Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -162,7 +163,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | SalTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Granada Channel 1 | ✔ | ✔ | ✔ | ❌ | ❌ | ✔ | - |
+| Granada Channel 1 | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -176,38 +177,37 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Aragón TV | - | - | - | - | - | - | - |
-| Aragón Deporte | - | - | - | - | - | - | - |
-| Huesca TV | - | - | - | - | - | - | - |
-| Calamocha TV | - | - | - | - | - | - | - |
-| La Tele TV | - | - | - | - | - | - | - |
-| Canal 25 Barbastro TV | - | - | - | - | - | - | - |
-| Canal 15tv Zaragoza | - | - | - | - | - | - | - |
-| La8Zaragoza | - | - | - | - | - | - | - |
+| Aragón TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emiten eventualmente |
+| Huesca TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Calamocha TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| La Tele TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Canal 25 Barbastro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 15tv Zaragoza | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 
 ### Canarias
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Televisión Canaria | - | - | - | - | - | - | - |
-| GranCanariaTV.com | - | - | - | - | - | - | - |
-| Mírame TV | - | - | - | - | - | - | - |
-| La 1 Canarias | - | - | - | - | - | - | - |
-| La 2 Canarias | - | - | - | - | - | - | - |
-| 24h Canarias | - | - | - | - | - | - | - |
-| Canal 4 Tenerife | - | - | - | - | - | - | - |
-| Tindaya TV | - | - | - | - | - | - | - |
-| Biosfera TV | - | - | - | - | - | - | - |
-| Noroeste Televisión | - | - | - | - | - | - | - |
-| NORTEvisión | - | - | - | - | - | - | - |
-| Este Canal TV | - | - | - | - | - | - | - |
-| RTV Mogán | - | - | - | - | - | - | - |
-| Canal 10 TV | - | - | - | - | - | - | - |
-| Canal 13 | - | - | - | - | - | - | - |
-| Radio Gigante | - | - | - | - | - | - | - |
-| Canal 4 TV | - | - | - | - | - | - | - |
-| Ahora TV | - | - | - | - | - | - | - |
-| Lancelot TV | - | - | - | - | - | - | - |
+| Televisión Canaria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 1 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La 2 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 24h Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tindaya TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Este Canal TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 10 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Radio Gigante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cantabria
 
