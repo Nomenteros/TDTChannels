@@ -502,6 +502,7 @@
 | RTP 3 Portugal | [m3u8 # PT](https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/.m3u8?dvr) | [web](https://www.rtp.pt/play/direto/rtp3) | [logo](https://graph.facebook.com/rtp/picture?width=200&height=200) | RTP3.TV | NONAV |
 | LN24 Bélgica | [m3u8 # FR](https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8) | [web](https://www.ln24.be/direct) | [logo](https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200) | - | - |
 | Vatican News | [youtube](https://youtu.be/3NoLUOlSshY) | [web](https://www.vaticannews.va/es.html) | [logo](https://graph.facebook.com/vaticannews.es/picture?width=200&height=200) | - | - |
+| RTCG Montenegro | [m3u8](http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8) | [web](http://www.rtcg.me/tv/tv-uzivo.html) | [logo](https://graph.facebook.com/PortalRTCG/picture?width=200&height=200) | - | - |
 | RT News | [m3u8 # EN](https://rt-news-gd.secure2.footprint.net/1103.m3u8) - [m3u8 # EN UK](https://rt-uk-gd.secure2.footprint.net/1106.m3u8) - [m3u8 # EN USA](https://rt-usa-gd.secure2.footprint.net/1105.m3u8) - [m3u8 # FR](https://rt-france-gd.secure2.footprint.net/1107.m3u8) | [web](https://www.rt.com/on-air/) | [logo](https://graph.facebook.com/RTnews/picture?width=200&height=200) | - | - |
 | RT Documentary | [m3u8 # EN](https://rt-doc-gd.secure2.footprint.net/1101.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://graph.facebook.com/RTDocumentary/picture?width=200&height=200) | RTDoc.TV | - |
 | Ikono TV | [m3u8 # EN](https://58de7a369a9c4.streamlock.net/schedule/ngrp:ikono_stream_all/master.m3u8) | [web](http://www.ikonotv.art/) | [logo](https://graph.facebook.com/ikonoTV/picture?width=200&height=200) | - | - |
@@ -562,11 +563,13 @@
 | 24h Chile | [youtube](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live) | [web](https://www.24horas.cl/envivo/) | [logo](https://graph.facebook.com/24horas.cl/picture?width=200&height=200) | - | EMB |
 | TELE13 Chile | [youtube](https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live) | [web](https://www.t13.cl/en-vivo) | [logo](https://graph.facebook.com/teletrece/picture?width=200&height=200) | - | EMB |
 | TC TV Ecuador | [m3u8](https://5d4837686f698.streamlock.net/tctelevision/tctelevision/master.m3u8) | [web](https://www.tctelevision.com/en-vivo) | [logo](https://graph.facebook.com/tctelevision10/picture?width=200&height=200) | - | - |
+| TeleAmazonas Ecuador | [m3u8](http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8) | [web](http://www.teleamazonas.com/teleamazonas-en-vivo/) | [logo](https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200) | - | - |
 | Ecuador TV | [m3u8](https://player-api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8) | [web](https://www.ecuadortv.ec/) | [logo](https://graph.facebook.com/EcuadorTV/picture?width=200&height=200) | - | - |
 | Bolivia 7.1 TV | - | [web](http://www.boliviatv.bo/principal/tvenvivo71.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | W3U,EXTA |
 | Bolivia 7.2 TV | [m3u8](http://btvboliviatv.srfms.com:6568/live/livestream/master.m3u8) | [web](http://www.boliviatv.bo/principal/tvenvivo72.php) | [logo](https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200) | - | - |
-| HCH Honduras | [m3u8](https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8) | [web](https://hch.tv/live/) | [logo](https://graph.facebook.com/HCHTelevisionDigital/picture?width=200&height=200) | - | - |
 | Cubavisión TV | [m3u8](https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/master.m3u8) | [web](http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision-internacional) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | - | - |
+| Trece Paraguay | [m3u8](http://174.138.118.252/live/canal13stream_low.m3u8) | [web](http://www.trece.com.py/envivo) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | - |
+| HCH Honduras | [m3u8](https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8) | [web](https://hch.tv/live/) | [logo](https://graph.facebook.com/HCHTelevisionDigital/picture?width=200&height=200) | - | - |
 | TV Cultura Brasil | [m3u8 # BR](https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/master.m3u8) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | - |
 
 ## Int. Asia
@@ -641,6 +644,7 @@
 | RadioU TV | [m3u8 # EN](https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8) | [web](https://radiou.com/tv/) | [logo](https://graph.facebook.com/RadioU/picture?width=200&height=200) | - | - |
 | 4FUN TV Polonia | [m3u8 # PL](https://stream.4fun.tv:8888/hls/4f_high/index.m3u8) | [web](https://4fun.tv/) | [logo](https://graph.facebook.com/4FUN.TV/picture?width=200&height=200) | - | - |
 | Power TV Turquía | [m3u8](https://livetv.powerapp.com.tr/powertv/powerhd.smil/master.m3u8) | [web](https://www.powerapp.com.tr/tvs/power-tvs/powertv/) | [logo](https://graph.facebook.com/powerapp/picture?width=200&height=200) | - | - |
+| ON TV Portugal | [m3u8](https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8) | [web](https://www.onfm.pt/) | [logo](https://graph.facebook.com/ONFM93.8/picture?width=200&height=200) | - | - |
 | First Music Channel Bielorrusia | [m3u8 # 1](http://hz1.teleport.cc/HLS/HD.m3u8) - [m3u8 # 2](http://hz1.teleport.cc/HLS/SD.m3u8) | [web](http://www.1muz.com/) | [logo](https://graph.facebook.com/onemusicchannel/picture?width=200&height=200) | - | - |
 | HqM Hits | [stream](https://yowi.tv/embed/HitsHQM/) | [web](https://hqm.es/canales/hits-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/hits-hqm-1-300x167.jpg) | - | EMB |
 | HqM Spanish | [stream](https://yowi.tv/embed/spanishhqm/) | [web](https://hqm.es/canales/spanish-hqm-directo/) | [logo](https://hqm.es/wp-content/uploads/spanish-hqm-300x180.jpg) | - | EMB |
@@ -687,6 +691,16 @@
 | V2Beat TV | [m3u8 # EN](https://abr.de1se01.v2beat.live/playlist.m3u8) | [web](https://www.vibee.tv/) | [logo](https://graph.facebook.com/vtwobeat/picture?width=200&height=200) | - | - |
 | DanceStar TV | [m3u8 # EN](https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8) | [web](http://dancestartv.com/) | [logo](https://graph.facebook.com/DancestarTV/picture?width=200&height=200) | - | - |
 | Ditty TV | [m3u8 # EN](https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8) | [web](https://dittytv.com/watch/) | [logo](https://graph.facebook.com/DittyTV/picture?width=200&height=200) | - | - |
+| Muzzik TV Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-6/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| Muzzik Rock&Roll Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-1/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| Muzzik Cafe&Club Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-3/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| Muzzik Worldwide Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-5/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| Muzzik Jeka Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-4/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://graph.facebook.com/jekamuzziktv/picture?width=200&height=200) | - | UAGLI |
+| Muzzik Mediteraneo Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| Muzzik HipHop Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| Muzzik Gen Z Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| Muzzik Vision Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
+| Muzzik OKK Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-2/playlist.m3u8) | [web](https://www.muzzik.tv/) | [logo](https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png) | - | UAGLI |
 | Music Top | [m3u8](https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8) | [web](https://www.diario26.com/musictop/) | [logo](https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200) | - | - |
 | Melody Channel | [m3u8](https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/playlist.m3u8) | [web](https://melodychannel.tv/) | [logo](https://graph.facebook.com/melodychanneltv/picture?width=200&height=200) | - | - |
 | EuroLatina TV | [m3u8](https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8) | [web](https://www.eurolatinatv.com/) | [logo](https://graph.facebook.com/eurolatinatelevision/picture?width=200&height=200) | - | - |

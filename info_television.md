@@ -213,8 +213,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Cantabria TV | - | - | - | - | - | - | - |
-| Popular TV Cantabria | - | - | - | - | - | - | - |
+| Cantabria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
+| Popular TV Cantabria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Castilla-La Mancha
 
@@ -514,6 +514,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTP 3 Portugal | - | - | - | - | - | - | - |
 | LN24 Bélgica | - | - | - | - | - | - | - |
 | Vatican News | - | - | - | - | - | - | - |
+| RTCG Montenegro | - | - | - | - | - | - | - |
 | RT News | - | - | - | - | - | - | - |
 | RT Documentary | - | - | - | - | - | - | - |
 | Ikono TV | - | - | - | - | - | - | - |
@@ -569,14 +570,18 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleSUR Venezuela | - | - | - | - | - | - | - |
 | Globovision Venezuela | - | - | - | - | - | - | - |
 | Venezolana de Televisión | - | - | - | - | - | - | - |
+| VPI TV Venezuela | - | - | - | - | - | - | - |
+| La Tele Tuya Venezuela | - | - | - | - | - | - | - |
 | 24h Chile | - | - | - | - | - | - | - |
 | TELE13 Chile | - | - | - | - | - | - | - |
 | TC TV Ecuador | - | - | - | - | - | - | - |
+| TeleAmazonas Ecuador | - | - | - | - | - | - | - |
 | Ecuador TV | - | - | - | - | - | - | - |
 | Bolivia 7.1 TV | - | - | - | - | - | - | - |
 | Bolivia 7.2 TV | - | - | - | - | - | - | - |
-| HCH Honduras | - | - | - | - | - | - | - |
 | Cubavisión TV | - | - | - | - | - | - | - |
+| Trece Paraguay | - | - | - | - | - | - | - |
+| HCH Honduras | - | - | - | - | - | - | - |
 | TV Cultura Brasil | - | - | - | - | - | - | - |
 
 ## Int. Asia
@@ -651,6 +656,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RadioU TV | - | - | - | - | - | - | - |
 | 4FUN TV Polonia | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - |
+| ON TV Portugal | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - |
 | HqM Spanish | - | - | - | - | - | - | - |
@@ -697,6 +703,16 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | V2Beat TV | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - |
 | Ditty TV | - | - | - | - | - | - | - |
+| Muzzik TV Serbia | - | - | - | - | - | - | - |
+| Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - |
+| Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - |
+| Muzzik Worldwide Serbia | - | - | - | - | - | - | - |
+| Muzzik Jeka Serbia | - | - | - | - | - | - | - |
+| Muzzik Mediteraneo Serbia | - | - | - | - | - | - | - |
+| Muzzik Hip Hop Serbia | - | - | - | - | - | - | - |
+| Muzzik Gen Z Serbia | - | - | - | - | - | - | - |
+| Muzzik Vision Serbia | - | - | - | - | - | - | - |
+| Muzzik OKK Serbia | - | - | - | - | - | - | - |
 | Music Top | - | - | - | - | - | - | - |
 | Melody Channel | - | - | - | - | - | - | - |
 | EuroLatina TV | - | - | - | - | - | - | - |
