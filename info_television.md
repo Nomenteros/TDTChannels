@@ -16,19 +16,19 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Antena 3 | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Cuatro | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Telecinco | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| laSexta | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Neox | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Nova | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Mega | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| Atreseries | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
-| FDF | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Energy | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Divinity | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Be Mad | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
-| Paramount Network | ✔❗ | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
+| Antena 3 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Cuatro | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Telecinco | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| laSexta | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Neox | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Nova | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Mega | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| Atreseries | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | Emisiones Geolocalizadas a España |
+| FDF | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Energy | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Divinity | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Be Mad | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
+| Paramount Network | ✔ (+v2.0.0) | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -46,18 +46,18 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | EuropaPress TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
-| Libertad Digital TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| Libertad Digital TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 
 ## Deportivos
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
 | Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Algunas emisiones son Geolocalizadas |
-| GOL | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| GOL | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | RealMadrid TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Barça TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No existe emision online |
 | Sevilla TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | Emiten en su web, bajo registro |
-| Betis TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Betis TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | UD Las Palmas TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
@@ -69,7 +69,7 @@ Cualquier otro reproductor, es considerado M3U/M3U8. Salvo Enigma2 y Wiseplay (W
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Boing | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
@@ -83,9 +83,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - |
 | +24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | +tdp | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Atresplayer 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Atresplayer 1 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Atresplayer 2 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Atresplayer 3 | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -104,21 +104,21 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 1 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Sur Eventos 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Algeciras | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Almería | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Bahía | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Córdoba | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Costa Noroeste | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Granada | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Huelva | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Jaen | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Jerez | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Málaga | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Marbella | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Sevilla | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| 7TV Andalucía - Sierra | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 7TV Andalucía | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Algeciras | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Almería | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Bahía | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Córdoba | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Costa Noroeste | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Granada | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Huelva | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Jaen | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Jerez | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Málaga | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Marbella | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Sevilla | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| 7TV Andalucía - Sierra | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Correo de Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Jerez Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
@@ -200,12 +200,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶ | - |
 | Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Este Canal TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Este Canal TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 4 TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
+| Canal 4 TV | ✔ (+v2.0.0) | 🌐 | 🌐 | ❌ | ❌ | 🌐 | - |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -508,6 +508,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | franceinfo: Francia | - | - | - | - | - | - | - |
 | Rai News 24 Italia | - | - | - | - | - | - | - |
 | DW Alemania | - | - | - | - | - | - | - |
+| Das Erste Alemania | - | - | - | - | - | - | - |
+| NDR Niedersachsen Alemania | - | - | - | - | - | - | - |
 | Sky News UK | - | - | - | - | - | - | - |
 | RTP 1 Portugal | - | - | - | - | - | - | - |
 | RTP 2 Portugal | - | - | - | - | - | - | - |
@@ -639,25 +641,27 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Kronehit | - | - | - | - | - | - | - |
-| Hit Music Channel | - | - | - | - | - | - | - |
-| NRJ Hits | - | - | - | - | - | - | - |
-| Ocko | - | - | - | - | - | - | - |
-| Ocko Expres | - | - | - | - | - | - | - |
-| Ocko Star | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - |
+| Kronehit Austria | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - |
-| m2o | - | - | - | - | - | - | - |
-| Ibiza Global TV | - | - | - | - | - | - | - |
+| NRJ Bélgica | - | - | - | - | - | - | - |
+| Ocko Chequia | - | - | - | - | - | - | - |
+| Ocko Star Chequia | - | - | - | - | - | - | - |
+| Ocko Expres Chequia | - | - | - | - | - | - | - |
+| 4FUN TV Polonia | - | - | - | - | - | - | - |
+| m2o Italia | - | - | - | - | - | - | - |
+| 1 Music Hungria | - | - | - | - | - | - | - |
+| ON TV Portugal | - | - | - | - | - | - | - |
 | Music Box Ucrania | - | - | - | - | - | - | - |
-| 1 Music | - | - | - | - | - | - | - |
+| Hit Music Channel | - | - | - | - | - | - | - |
+| V2Beat TV | - | - | - | - | - | - | - |
+| Power TV Turquía | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - |
 | RadioU TV | - | - | - | - | - | - | - |
-| 4FUN TV Polonia | - | - | - | - | - | - | - |
-| Power TV Turquía | - | - | - | - | - | - | - |
-| ON TV Portugal | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - |
+| Ibiza Global TV | - | - | - | - | - | - | - |
+| DanceStar TV | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - |
 | HqM Spanish | - | - | - | - | - | - | - |
 | HqM Rock | - | - | - | - | - | - | - |
@@ -695,14 +699,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Rathergood 00s | - | - | - | - | - | - | - |
 | Rathergood 90s | - | - | - | - | - | - | - |
 | Rathergood Dance Classics | - | - | - | - | - | - | - |
+| 30A Music USA | - | - | - | - | - | - | - |
+| Retro Music TV Chequia | - | - | - | - | - | - | - |
+| California Music Channel USA | - | - | - | - | - | - | - |
 | Vintage Music TV | - | - | - | - | - | - | - |
-| Retro Music TV | - | - | - | - | - | - | - |
-| California Music Channel | - | - | - | - | - | - | - |
-| Retro Plus TV | - | - | - | - | - | - | - |
-| 30A Music | - | - | - | - | - | - | - |
-| V2Beat TV | - | - | - | - | - | - | - |
-| DanceStar TV | - | - | - | - | - | - | - |
-| Ditty TV | - | - | - | - | - | - | - |
+| Retro Plus TV Chile | - | - | - | - | - | - | - |
 | Muzzik TV Serbia | - | - | - | - | - | - | - |
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - |
 | Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - |
@@ -713,14 +714,15 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Muzzik Gen Z Serbia | - | - | - | - | - | - | - |
 | Muzzik Vision Serbia | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - |
-| Music Top | - | - | - | - | - | - | - |
-| Melody Channel | - | - | - | - | - | - | - |
+| Top Latino TV Perú | - | - | - | - | - | - | - |
+| La Mega Mundial USA | - | - | - | - | - | - | - |
+| Telemúsica Colombia | - | - | - | - | - | - | - |
+| Music Top Argentina | - | - | - | - | - | - | - |
 | EuroLatina TV | - | - | - | - | - | - | - |
-| Telemúsica | - | - | - | - | - | - | - |
-| Top Latino TV | - | - | - | - | - | - | - |
-| Portalfoxmix | - | - | - | - | - | - | - |
-| La Mega Mundial | - | - | - | - | - | - | - |
-| Latinos 1 TV | - | - | - | - | - | - | - |
+| Latinos 1 TV Suiza | - | - | - | - | - | - | - |
+| Portal Foxmix Colombia | - | - | - | - | - | - | - |
+| Melody Channel Colombia | - | - | - | - | - | - | - |
+| Ditty TV USA | - | - | - | - | - | - | - |
+| Spirit TV USA | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - |
-| Spirit TV | - | - | - | - | - | - | - |
 | Top TV Brasil | - | - | - | - | - | - | - |
