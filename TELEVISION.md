@@ -52,8 +52,8 @@
 | Cádiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com/) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | La Liga Santander | [youtube](https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA/live) | [web](https://www.laliga.com/) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
+| Real Federación Española de Fútbol | [m3u8](https://rfef-live2.flumotion.com/rfef/live2/chunks.m3u8) | [web](https://www.rfef.es/) | [logo](https://graph.facebook.com/RFEF/picture?width=200&height=200) | - | - |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com/) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB |
-| Fight Time | - | [web](http://fight-time.com/) | [logo](https://graph.facebook.com/FightTimeEntertainment/picture?width=200&height=200) | - | NOEM |
 
 ## Infantiles
 
@@ -239,7 +239,7 @@
 | La 8 Valladolid | [m3u8](https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Valladolid) | [logo](https://graph.facebook.com/la8valladolid/picture?width=200&height=200) | - | - |
 | La 8 Zamora | [m3u8](https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8) | [web](https://www.rtvcyl.es/La8Directo/Zamora) | [logo](https://pbs.twimg.com/profile_images/1656832260/Logo_Zamora_200x200.JPG) | - | - |
 | TV Benavente | [m3u8](https://593fa17dec176.streamlock.net/gcm5/gcm5/playlist.m3u8) | [web](https://www.tvbenavente.es/directo/) | [logo](https://graph.facebook.com/benaventetv/picture?width=200&height=200) | Benavente.TV | - |
-| Canal 54 | [stream](https://mixer.com/embed/player/Canal54TVBurgos) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
+| Canal 54 | [youtube](https://www.youtube.com/channel/UCUe08XE2qatlrBclUWTr81Q/live) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
 | Televisión Aranda | [m3u8](https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8) | [web](http://www.telearanda.es/) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | NONAV |
 | Junta Castilla y León | [m3u8](https://secuoya-live2.flumotion.com/chunks.m3u8) | [web](http://www.jcyltv.cbmedia.es/) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | - |
 
@@ -530,7 +530,7 @@
 | Zee Mundo USA | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://go.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=200&height=200) | Zee.TV | - |
 | Newsmax TV USA | [m3u8 # EN](https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8) | [web](https://www.newsmaxtv.com/) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
 | CBN USA | [m3u8](https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8) - [m3u8 # EN](https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8) | [web](https://www1.cbn.com/tv/cbn-espanol) | [logo](https://graph.facebook.com/cbnonline/picture?width=200&height=200) | - | - |
-| EWTN USA | [m3u8](https://cdn3.wowza.com/1/bDB4enNpc1A2SWRp/cGhHTzFV/hls/xhlvp3g1/1152/chunklist.m3u8) - [m3u8 # EN](https://cdn3.wowza.com/1/ZkpsTXVaL1VjeC9K/ZnArZnNu/hls/hm6qfjfp/1152/chunklist.m3u8) | [web](https://www.ewtn.com/multimedia/live_player-es.asp) | [logo](https://graph.facebook.com/ewtnespanol/picture?width=200&height=200) | - | - |
+| EWTN USA | [m3u8](https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8) - [m3u8 # EN](https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8) | [web](https://www.ewtn.com/multimedia/live_player-es.asp) | [logo](https://graph.facebook.com/ewtnespanol/picture?width=200&height=200) | - | - |
 | NTN24 América | [m3u8](https://rcnhd.cdn.net.co/live04/ntn24.m3u8) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=200&height=200) | NTN24.TV | - |
 | Canal 6 Multimedios Mexico | [m3u8](https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8) | [web](https://www.multimedios.com/video) | [logo](https://graph.facebook.com/multimediostv/picture?width=200&height=200) | - | - |
 | Milenio Mexico | [youtube](https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live) | [web](https://www.milenio.com/mileniotv) | [logo](https://graph.facebook.com/MilenioDiario/picture?width=200&height=200) | - | EMB |
@@ -569,7 +569,9 @@
 | Cubavisión TV | [m3u8](https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/master.m3u8) | [web](http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision-internacional) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | - | - |
 | Trece Paraguay | [m3u8](http://174.138.118.252/live/canal13stream_low.m3u8) | [web](http://www.trece.com.py/envivo) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | - |
 | HCH Honduras | [m3u8](https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8) | [web](https://hch.tv/live/) | [logo](https://graph.facebook.com/HCHTelevisionDigital/picture?width=200&height=200) | - | - |
-| Multimedios Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.multimedios.cr/video) | [logo](https://graph.facebook.com/MultimediosCR/picture?width=200&height=200) | - | - |
+| Teletica Costa Rica | [stream](https://www.dailymotion.com/embed/video/x29e3wg?autoplay=1) | [web](https://www.teletica.com/vivo?canal=teletica7) | [logo](https://graph.facebook.com/Teletica/picture?width=200&height=200) | - | EMB,EXTB |
+| Multimedios Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.multimedios.cr/video) | [logo](https://graph.facebook.com/MultimediosCRMultimediosCR/picture?width=200&height=200) | - | - |
+| Trece Costa Rica | [m3u8](https://api.new.livestream.com/accounts/1532727/events/8717137/live.m3u8) | [web](https://costaricamedios.cr/envivo) | [logo](https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200) | - | - |
 | TV Cultura Brasil | [m3u8 # BR](https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/master.m3u8) | [web](https://tvcultura.com.br/aovivo/) | [logo](https://graph.facebook.com/tvcultura/picture?width=200&height=200) | - | - |
 
 ## Int. Asia
