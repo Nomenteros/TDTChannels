@@ -22,21 +22,21 @@ Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe 
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Antena 3 | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Cuatro | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Telecinco | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Cuatro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Telecinco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | laSexta | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Neox | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Nova | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Mega | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
 | Atreseries | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| FDF | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Energy | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Divinity | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
-| Be Mad | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| FDF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Energy | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Divinity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Be Mad | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Paramount Network | ✔ | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | Posible emisión geolocalizada a España. No disponible para W3U en Android TV |
+| El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
+| mtmad 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DMAX | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -51,7 +51,7 @@ Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe 
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | EuropaPress TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Libertad Digital TV | ✔  | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Libertad Digital TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ## Deportivos
 
@@ -67,14 +67,14 @@ Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe 
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | La Liga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Real Federación Española de Fútbol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emite eventualmente |
+| Real Federación Española de Fútbol | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Emite eventualmente, posible emisión geolocalizada a España |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | Emisión diaria entre las 21 - 23h, no disponible para W3U en Android TV |
 
 ## Infantiles
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Boing | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | Posible emisión geolocalizada a España |
+| Boing | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -205,12 +205,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Este Canal TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Este Canal TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 4 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Canal 4 TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -332,8 +332,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Telemadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telemadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
+| LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleganés | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -415,6 +415,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Parlamento | - | - | - | - | - | - | - |
 | TV Ferrol | - | - | - | - | - | - | - |
 | Televigo | - | - | - | - | - | - | - |
+| Hermes TV | - | - | - | - | - | - | - |
 | Telemiño | - | - | - | - | - | - | - |
 | Auria TV | - | - | - | - | - | - | - |
 | Nós TV | - | - | - | - | - | - | - |
@@ -646,27 +647,30 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Radio Italia TV | - | - | - | - | - | - | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - |
 | NRJ Bélgica | - | - | - | - | - | - | - |
+| 4FUN TV Polonia | - | - | - | - | - | - | - |
+| Tomorrowland TV | - | - | - | - | - | - | - |
+| Radio Italia TV | - | - | - | - | - | - | - |
 | Ocko Chequia | - | - | - | - | - | - | - |
 | Ocko Star Chequia | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - |
-| 4FUN TV Polonia | - | - | - | - | - | - | - |
 | m2o Italia | - | - | - | - | - | - | - |
-| 1 Music Hungria | - | - | - | - | - | - | - |
 | ON TV Portugal | - | - | - | - | - | - | - |
-| Music Box Ucrania | - | - | - | - | - | - | - |
+| 1 Music Hungria | - | - | - | - | - | - | - |
 | Hit Music Channel | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - |
 | RadioU TV | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - |
+| Otto FM Italia | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - |
+| Ibiza Sonica TV | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - |
+| Top TV Brasil | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - |
 | HqM Spanish | - | - | - | - | - | - | - |
 | HqM Rock | - | - | - | - | - | - | - |
@@ -705,10 +709,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Rathergood 90s | - | - | - | - | - | - | - |
 | Rathergood Dance Classics | - | - | - | - | - | - | - |
 | 30A Music USA | - | - | - | - | - | - | - |
-| Retro Music TV Chequia | - | - | - | - | - | - | - |
-| California Music Channel USA | - | - | - | - | - | - | - |
 | Vintage Music TV | - | - | - | - | - | - | - |
 | Retro Plus TV Chile | - | - | - | - | - | - | - |
+| California Music Channel USA | - | - | - | - | - | - | - |
+| Retro Music TV Chequia | - | - | - | - | - | - | - |
 | Muzzik TV Serbia | - | - | - | - | - | - | - |
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - |
 | Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - |
@@ -729,5 +733,3 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Melody Channel Colombia | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - |
-| Otto FM Italia | - | - | - | - | - | - | - |
-| Top TV Brasil | - | - | - | - | - | - | - |
