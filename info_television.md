@@ -153,7 +153,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Onda Jerez TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
 | Más TV Huelva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -165,7 +164,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| SalTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -199,18 +198,18 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La 2 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Tindaya TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tindaya TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Noroeste Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 10 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 10 TV | - | - | - | - | - | - | - |
 
 ### Cantabria
 
@@ -385,7 +384,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Tele Sagunto | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| Información TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Extremadura
 
@@ -441,46 +439,45 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Melilla TV | - | - | - | - | - | - | - |
-| Popular TV Melilla | - | - | - | - | - | - | - |
-| El Faro | - | - | - | - | - | - | - |
+| Melilla TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Popular TV Melilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Faro | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### País Vasco
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| ETB 1 | - | - | - | - | - | - | - |
-| ETB 2 | - | - | - | - | - | - | - |
-| ETB Deportes | - | - | - | - | - | - | - |
-| Hamaika Telebista | - | - | - | - | - | - | - |
-| Goiena | - | - | - | - | - | - | - |
-| TeleBilbao | - | - | - | - | - | - | - |
-| 28 Kanala | - | - | - | - | - | - | - |
-| TeleDonosti | - | - | - | - | - | - | - |
-| Goierri Irrati Telebista | - | - | - | - | - | - | - |
-| Erlo Telebista | - | - | - | - | - | - | - |
-| Oizmendi Telebista | - | - | - | - | - | - | - |
-| Urola Telebista | - | - | - | - | - | - | - |
-| Tele 7 | - | - | - | - | - | - | - |
+| ETB 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB Deportes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hamaika Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Goiena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleDonosti | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Goierri Irrati Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Erlo Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Oizmendi Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Urola Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tele 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### P. de Asturias
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| TPA7 | - | - | - | - | - | - | - |
-| VinxTV | - | - | - | - | - | - | - |
-| EsAsturiasTV | - | - | - | - | - | - | - |
-| Canal 10 | - | - | - | - | - | - | - |
+| TPA7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| VinxTV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| EsAsturiasTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### R. de Murcia
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| 7 R. de Murcia | - | - | - | - | - | - | - |
-| Popular TV Murcia | - | - | - | - | - | - | - |
-| RTV Vida | - | - | - | - | - | - | - |
-| TeleArchena | - | - | - | - | - | - | - |
-| Thader TV | - | - | - | - | - | - | - |
+| 7 R. de Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Vida | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleArchena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Europa
 
@@ -492,154 +489,156 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cincomas | - | - | - | - | - | - | - |
 | ¡Hola! TV | - | - | - | - | - | - | - |
 | TVE Internacional | - | - | - | - | - | - | - |
-| TV3CAT | - | - | - | - | - | - | - |
-| ETB SAT | - | - | - | - | - | - | - |
-| TVG América | - | - | - | - | - | - | - |
-| ATV Andorra | - | - | - | - | - | - | - |
-| ATV Web Andorra | - | - | - | - | - | - | - |
-| GBC Gibraltar | - | - | - | - | - | - | - |
-| Euronews | - | - | - | - | - | - | - |
-| RT | - | - | - | - | - | - | - |
-| CNN | - | - | - | - | - | - | - |
-| Bloomberg Europe | - | - | - | - | - | - | - |
-| France 24 Francia | - | - | - | - | - | - | - |
-| BFM TV Francia | - | - | - | - | - | - | - |
-| TV5Monde Francia | - | - | - | - | - | - | - |
-| franceinfo: Francia | - | - | - | - | - | - | - |
-| Rai News 24 Italia | - | - | - | - | - | - | - |
-| DW Alemania | - | - | - | - | - | - | - |
-| Das Erste Alemania | - | - | - | - | - | - | - |
-| NDR Niedersachsen Alemania | - | - | - | - | - | - | - |
-| Sky News UK | - | - | - | - | - | - | - |
-| RTP 1 Portugal | - | - | - | - | - | - | - |
-| RTP 2 Portugal | - | - | - | - | - | - | - |
-| RTP 3 Portugal | - | - | - | - | - | - | - |
-| RTP Internacional Portugal | - | - | - | - | - | - | - |
-| LN24 Bélgica | - | - | - | - | - | - | - |
-| Vatican News | - | - | - | - | - | - | - |
-| RTCG Montenegro | - | - | - | - | - | - | - |
-| RT News | - | - | - | - | - | - | - |
-| RT Documentary | - | - | - | - | - | - | - |
-| Ikono TV | - | - | - | - | - | - | - |
-| El Sembrador TV | - | - | - | - | - | - | - |
-| Enlace TV | - | - | - | - | - | - | - |
+| TV3CAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB SAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ATV Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ATV Web Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GBC Gibraltar | - | - | - | - | - | - | Emisión eventual |
+| Euronews | ✔ | 🌐 | ✔ | ❌ | ❌ | ✔ | - |
+| RT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CNN | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Bloomberg Europe | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| France 24 Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| BFM TV Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV5Monde Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| franceinfo: Francia | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
+| Rai News 24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| DW Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTP 1 Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTP 2 Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTP 3 Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTP Internacional Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
+| RTCG Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RT News | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RT Documentary | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ikono TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Sembrador TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Enlace TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 
 ## Int. América
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| FOX News USA | - | - | - | - | - | - | - |
-| ABC News USA | - | - | - | - | - | - | - |
-| NBC News USA | - | - | - | - | - | - | - |
-| CBS News USA | - | - | - | - | - | - | - |
-| Cheddar USA | - | - | - | - | - | - | - |
-| Bloomberg EU USA | - | - | - | - | - | - | - |
-| NASA TV Public | - | - | - | - | - | - | - |
-| NASA TV Media | - | - | - | - | - | - | - |
-| NASA TV ISS Views | - | - | - | - | - | - | - |
-| The Weather Channel USA | - | - | - | - | - | - | - |
-| WeatherNation USA | - | - | - | - | - | - | - |
-| Entertainment Tonight USA | - | - | - | - | - | - | - |
-| America's Voice USA | - | - | - | - | - | - | - |
-| BUZZR TV USA | - | - | - | - | - | - | - |
-| Dabl USA | - | - | - | - | - | - | - |
-| Zee Mundo USA | - | - | - | - | - | - | - |
-| Newsmax TV USA | - | - | - | - | - | - | - |
-| CBN USA | - | - | - | - | - | - | - |
-| EWTN USA | - | - | - | - | - | - | - |
-| NTN24 América | - | - | - | - | - | - | - |
-| Canal 6 Multimedios Mexico | - | - | - | - | - | - | - |
-| Milenio Mexico | - | - | - | - | - | - | - |
-| Televisa Noticiero Mexico | - | - | - | - | - | - | - |
-| Excelsior Mexico | - | - | - | - | - | - | - |
-| Canal 11 Mexico | - | - | - | - | - | - | - |
-| Quiero TV Mexico | - | - | - | - | - | - | - |
-| Mexico Travel TV | - | - | - | - | - | - | - |
-| Turistik TV Mexico | - | - | - | - | - | - | - |
-| María Visión Mexico | - | - | - | - | - | - | - |
-| Noticias Caracol Colombia | - | - | - | - | - | - | - |
-| Teleantioquia Colombia | - | - | - | - | - | - | - |
-| Señal Colombia | - | - | - | - | - | - | - |
-| Todo Noticias Argentina | - | - | - | - | - | - | - |
-| C5N Argentina | - | - | - | - | - | - | - |
-| La Nación Argentina | - | - | - | - | - | - | - |
-| América TV Argentina | - | - | - | - | - | - | - |
-| TV Pública Argentina | - | - | - | - | - | - | - |
-| Panamericana Perú | - | - | - | - | - | - | - |
-| ATV Perú | - | - | - | - | - | - | - |
-| ATV+ Perú | - | - | - | - | - | - | - |
-| TV Perú | - | - | - | - | - | - | - |
-| TV Perú Noticias | - | - | - | - | - | - | - |
-| Canal IPe Perú | - | - | - | - | - | - | - |
-| TeleSUR Venezuela | - | - | - | - | - | - | - |
-| Globovision Venezuela | - | - | - | - | - | - | - |
-| Venezolana de Televisión | - | - | - | - | - | - | - |
-| VPI TV Venezuela | - | - | - | - | - | - | - |
-| La Tele Tuya Venezuela | - | - | - | - | - | - | - |
-| 24h Chile | - | - | - | - | - | - | - |
-| TELE13 Chile | - | - | - | - | - | - | - |
-| TC TV Ecuador | - | - | - | - | - | - | - |
-| TeleAmazonas Ecuador | - | - | - | - | - | - | - |
-| Bolivia 7.1 TV | - | - | - | - | - | - | - |
-| Bolivia 7.2 TV | - | - | - | - | - | - | - |
-| Cubavisión TV | - | - | - | - | - | - | - |
-| Trece Paraguay | - | - | - | - | - | - | - |
-| HCH Honduras | - | - | - | - | - | - | - |
-| Teletica Costa Rica | - | - | - | - | - | - | - |
-| Multimedios Costa Rica | - | - | - | - | - | - | - |
-| Trece Costa Rica | - | - | - | - | - | - | - |
-| TV Cultura Brasil | - | - | - | - | - | - | - |
+| FOX News USA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| ABC News USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NBC News USA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| CBS News USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cheddar USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Bloomberg EU USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NASA TV Public | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NASA TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NASA TV ISS Views | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| The Weather Channel USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| WeatherNation USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Entertainment Tonight USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| America's Voice USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| BUZZR TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Dabl USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Zee Mundo USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Newsmax TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| EWTN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NTN24 América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 6 Multimedios Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Televisa Noticiero Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Excelsior Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Canal 11 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Quiero TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Mexico Travel TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Turistik TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Noticias Caracol Colombia | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
+| Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Teleantioquia Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Señal Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telepacífico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Todo Noticias Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| C5N Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| La Nación Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| América TV Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
+| TV Pública Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ATV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ATV+ Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TV Perú Noticias | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Canal IPe Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TeleSUR Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Venezolana de Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| VPI TV Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La Tele Tuya Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 24h Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| TELE13 Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| TC TV Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleAmazonas Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cubavisión TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| HCH Honduras | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Teletica Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Trece Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Cultura Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Asia
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| CGTN | - | - | - | - | - | - | - |
-| CGTN News | - | - | - | - | - | - | - |
-| CGTN Documentary | - | - | - | - | - | - | - |
-| Al Jazeera Qatar | - | - | - | - | - | - | - |
-| NHK World Japan | - | - | - | - | - | - | - |
-| Arirang TV Korea | - | - | - | - | - | - | - |
-| Hispan TV Iran | - | - | - | - | - | - | - |
-| Al Arabiya Emiratos Árabes | - | - | - | - | - | - | - |
-| Ary News Pakistan | - | - | - | - | - | - | - |
-| Channel NewsAsia | - | - | - | - | - | - | - |
+| CGTN | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CGTN News | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CGTN Documentary | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Al Jazeera Qatar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| NHK World Japan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Arirang TV Korea | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Al Arabiya Emiratos Árabes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ary News Pakistan | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Channel NewsAsia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Otros
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| ABC Australia | - | - | - | - | - | - | - |
-| United Nations TV | - | - | - | - | - | - | - |
-| AfricaNews | - | - | - | - | - | - | - |
-| Channels TV Nigeria | - | - | - | - | - | - | - |
-| TVGE 1 | - | - | - | - | - | - | - |
-| Tastemade | - | - | - | - | - | - | - |
-| Miami TV | - | - | - | - | - | - | - |
-| Vaughan TV | - | - | - | - | - | - | - |
-| Locomotion TV | - | - | - | - | - | - | - |
-| 24/7 Retro TV | - | - | - | - | - | - | - |
-| Classic Arts Showcase | - | - | - | - | - | - | - |
-| American Horrors Movies | - | - | - | - | - | - | - |
-| Cachipum TV | - | - | - | - | - | - | - |
-| ACS Network | - | - | - | - | - | - | - |
-| Mr Bean 24h | - | - | - | - | - | - | - |
-| Rathergood LoL | - | - | - | - | - | - | - |
-| Emmanuel TV | - | - | - | - | - | - | - |
+| ABC Australia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| United Nations TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| AfricaNews | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Channels TV Nigeria | ▶ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| TVGE 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tastemade | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Miami TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Vaughan TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Locomotion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 24/7 Retro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Classic Arts Showcase | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| American Horrors Movies | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cachipum TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ACS Network | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Mr Bean 24h | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Rathergood LoL | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Emmanuel TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 
 ## Deportivos Int.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| Olympic Channel | - | - | - | - | - | - | - |
-| Redbull TV | - | - | - | - | - | - | - |
-| Garage TV | - | - | - | - | - | - | - |
-| MsMotor TV | - | - | - | - | - | - | - |
-| OnlyMotors | - | - | - | - | - | - | - |
-| Harley Davidson TV | - | - | - | - | - | - | - |
-| Harley Davidson Racing TV | - | - | - | - | - | - | - |
-| Harley Davidson Factory TV | - | - | - | - | - | - | - |
-| Harley Davidson Garage TV | - | - | - | - | - | - | - |
+| Olympic Channel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| MsMotor TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| OnlyMotors | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Harley Davidson TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Harley Davidson Racing TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Harley Davidson Factory TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Harley Davidson Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Musicales
 
