@@ -156,11 +156,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
 | Más TV Huelva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Axartel TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Cadena Elite Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Montilla Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -359,7 +359,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Grup Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| La 8 Mediterráneo | 🌐 | 🌐 | 🌐 | ✔ | ❌ | ✔ | - |
+| La 8 Mediterráneo | 🌐 | 🌐 | 🌐 | ✔❗ | ❌ | ✔ | - |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Alicantí TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVCS | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -588,7 +588,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | HCH Honduras | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teletica Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Trece Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Trece Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV Cultura Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Asia

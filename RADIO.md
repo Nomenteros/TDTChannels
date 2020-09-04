@@ -286,7 +286,7 @@
 | La Diez Radio | [stream](http://panel.soydigital.fm:8012/live) | [web](https://www.ladiez.es/) | [logo](https://graph.facebook.com/ladiezradio/picture?width=200&height=200) | - | - |
 | El Pejeverde | [m3u8](https://5c0956165db0b.streamlock.net/radio/lancelot.stream_aac/playlist.m3u8) | [web](http://www.elpejeverde.com/) | [logo](https://graph.facebook.com/552642618121698/picture?width=200&height=200) | - | - |
 | Radio Guiniguada | [stream](http://185.129.248.251:9874/;) | [web](http://www.radioguiniguada.com) | [logo](https://graph.facebook.com/radioguiniguada/picture?width=200&height=200) | - | - |
-| Radio Gigante | [stream](https://radio.radiogigante.com/stream/1/;) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=200&height=200) | - | WICE |
+| Radio Gigante | [stream](https://server8.emitironline.com:18163/stream) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=200&height=200) | - | - |
 | Radio San Borondón | [stream](http://srv0435.lcinternet.com:9516/stream) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | [logo](https://graph.facebook.com/413581508699797/picture?width=200&height=200) | - | WICE |
 | Radio La Guancha | [stream](http://shoutcastradiolaguancha.duckdns.org:8002/) | [web](http://www.radiolaguancha.com/?page_id=23) | [logo](https://graph.facebook.com/radiolaguancha/picture?width=200&height=200) | - | - |
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com/) | [logo](https://graph.facebook.com/mixfmradiotenerifelaradiodelacomarca/picture?width=200&height=200) | - | - |
@@ -350,7 +350,7 @@
 | esRadio Albacete | [mp3](https://servercloudim3dia.im3dia.com:8001/esradioalbacete.mp3) | [web](https://www.esradioalbacete.es/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Surco Tomelloso | [mp3](http://stream.emisorasmusicales.com:8005/rsurco.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | WICE |
 | Surco Manzanares | [mp3](http://stream.emisorasmusicales.com:8006/manzanares.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/radiosurco/picture?width=200&height=200) | - | WICE |
-| AB95 FM | [mp3](http://stream-emisorasmusicales.com:8005/ab95fm.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/ab95fm/picture?width=200&height=200) | - | WICE |
+| AB95 FM | [stream](https://node-24.zeno.fm/xs2xvmvrzwzuv) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/ab95fm/picture?width=200&height=200) | - | - |
 | POP10 FM | [mp3](http://stream.emisorasmusicales.com:8006/pop10fmalcazar.mp3) | [web](https://radiosurco.es/player/) | [logo](https://graph.facebook.com/pop10fm/picture?width=200&height=200) | - | WICE |
 | RM La Manchuela | [stream](https://cast.rmradio.es/radio/8040/stream) | [web](https://www.rmradio.es/lamanchuela/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
 | RM Quintanar del Rey | [stream](https://cast.rmradio.es:8020/stream) | [web](https://www.rmradio.es/quintanardelrey/) | [logo](https://graph.facebook.com/rmradio/picture?width=200&height=200) | - | WICE |
@@ -527,14 +527,14 @@
 | Top Radio | [stream](http://18003.live.streamtheworld.com/TOPRADIO_SC) | [web](http://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | Radio Ya | [stream](https://s20.prositel.net:9085/RadioYA) | [web](https://www.radioya.es/) | [logo](https://graph.facebook.com/radioya.es/picture?width=200&height=200) | - | - |
-| Master FM | [m3u8](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es/) | [logo](https://graph.facebook.com/lamasterfm/picture?width=200&height=200) | - | WICE |
+| Master FM | [m3u8](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | WICE |
 | Radio Sol XXI | [mp3](https://server24.streaming-pro.com:6138/radiosolxxi.mp3) | [web](http://radiosol.com/) | [logo](https://graph.facebook.com/radiosolxxi/picture?width=200&height=200) | - | - |
 | Swing FM | [stream](http://ns3.mycloud-apps.es:8003/live) | [web](https://www.swingfmradio.com/) | [logo](https://graph.facebook.com/swingfm/picture?width=200&height=200) | - | - |
 | Radio Vallekas | [stream](http://cervera.eldialdigital.com:8032/;) | [web](http://www.radiovallekas.org/) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
 | Capital Radio | [mp3](https://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3) | [web](https://www.capitalradio.es/directo) | [logo](https://graph.facebook.com/capitalradiob/picture?width=200&height=200) | - | - |
 | Radio Tentación | [mp3](http://88.26.228.190:8010/;.mp3) | [web](https://www.radiotentacion.com/) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
 | Radio Enlace | [stream](https://cervera.eldialdigital.com:25121/stream) | [web](http://www.radioenlace.org/) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200) | - | WICE |
-| Radio Inter | [stream](http://ns3.mycloud-apps.es:8030/stream) | [web](https://www.radiointer.es/) | [logo](https://graph.facebook.com/RadioIntEs/picture?width=200&height=200) | - | - |
+| Radio Inter | [stream](http://ns3.mycloud-apps.es:8030/stream) | [web](https://www.radiointer.es/) | [logo](https://graph.facebook.com/radiointerspain/picture?width=200&height=200) | - | - |
 | Radio Cigüeña | [stream](https://cervera.eldialdigital.com:25171/stream) | [web](http://www.radiociguena.org/) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | WICE |
 | Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](http://www.radioutopia.org.es/) | [logo](https://graph.facebook.com/179099278878655/picture?width=200&height=200) | - | - |
 | Peperadio | [stream](https://server10.emitironline.com:8032/) | [web](https://peperadio.es/) | [logo](https://pbs.twimg.com/profile_images/905319409992044544/x35XzF3A_200x200.jpg) | - | - |
