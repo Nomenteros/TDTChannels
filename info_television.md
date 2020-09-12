@@ -159,7 +159,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Axartel TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Cadena Elite Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -465,7 +464,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
-| TPA7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TPA7 | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | VinxTV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | EsAsturiasTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -566,6 +565,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Nación Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | América TV Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ✔ | - |
 | TV Pública Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV+ Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
