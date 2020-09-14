@@ -584,8 +584,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | HCH Honduras | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Taber TV El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teletica Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -613,7 +615,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ABC Australia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | United Nations TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | AfricaNews | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Channels TV Nigeria | ▶ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
+| Channels TV Nigeria | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TVGE 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tastemade | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Miami TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
