@@ -545,9 +545,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | EWTN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NTN24 América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 6 Multimedios Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Azteca 7 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Televisa Noticiero Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Excelsior Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| ADN40 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 11 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Quiero TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mexico Travel TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -588,6 +590,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Taber TV El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| WOW El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teletica Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
