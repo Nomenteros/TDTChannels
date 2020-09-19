@@ -50,6 +50,11 @@
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U,EXTA |
 | UD Las Palmas TV | [m3u8](https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtv/udtvlive) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | NONAV |
 | Cádiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
+| Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/esport3) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | - |
+| ETB Deportes | [m3u8](https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200) | ETBD.TV | - |
+| Aragón Deporte | [m3u8](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/aragondeporte/picture?width=200&height=200) | - | - |
+| VinxTV Asturias | [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://www.vinx.es/vinx-live/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
+| IB3 Esports | [youtube](https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/EsportsIB3/picture?width=200&height=200) | - | EMB |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com/) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | La Liga Santander | [youtube](https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA/live) | [web](https://www.laliga.com/) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
 | Real Federación Española de Fútbol | - | [web](https://www.rfef.es/) | [logo](https://graph.facebook.com/RFEF/picture?width=200&height=200) | - | W3U,EXTA |
@@ -132,7 +137,7 @@
 | Canal San Roque | [m3u8](https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8) | [web](https://multimediasanroque.com/) | [logo](https://graph.facebook.com/multimedia.sanroque/picture?width=200&height=200) | - | NONAV |
 | Onda Algeciras TV | [m3u8](https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8) | [web](https://ondaalgecirastv.com/en-directo/) | [logo](https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200) | OndaAlgeciras.TV | - |
 | Estepona TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8122/8122/master.m3u8) | [web](https://television.estepona.es/tvendirecto/) | [logo](https://graph.facebook.com/esteponatelevision/picture?width=200&height=200) | - | - |
-| OndaMezquita TV | [m3u8](https://5f4cab04444c6.streamlock.net/mezquita/mezquita/playlist.m3u8) | [web](https://www.ahoracordoba.es/ahoracordoba-en-vivo/) | [logo](https://graph.facebook.com/OndaMezquitaTV/picture?width=200&height=200) | - | - |
+| OndaMezquita TV | [m3u8](https://5f4cab04444c6.streamlock.net/mezquita/mezquita/playlist.m3u8) | [web](https://www.ahoracordoba.es/ahoracordoba-en-vivo/) | [logo](https://graph.facebook.com/OndaMezquita7TV/picture?width=200&height=200) | - | - |
 | Onda Jerez TV | - | [web](http://www.ondajerez.com/television/) | [logo](https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Canal Doñana | [m3u8](https://secure5.todostreaming.es/live/division-alm.m3u8) | [web](http://www.canaldonana.com/) | [logo](https://graph.facebook.com/donanacomunica/picture?width=200&height=200) | - | - |
 | TG7 | [youtube](https://www.youtube.com/channel/UC4svqJ0E5nUlvjo_fuzvjzA/live) | [web](https://www.granada.org/inet/tg7.nsf/byclave/endirecto) | [logo](https://graph.facebook.com/TG7tv/picture?width=200&height=200) | - | EMB |
@@ -149,11 +154,12 @@
 | Sal Televisión | [m3u8](https://www.tdtchannels.com/stream/saltv.m3u8) | [web](http://saltv.es/) | [logo](https://pbs.twimg.com/profile_images/1272169218151243777/QKzM3jFm_200x200.jpg) | - | - |
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](http://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | 101TV Antequera | [m3u8](http://37.187.7.106/las4esquinastv/live.m3u8) | [web](http://www.teleantequera.com/ver-101-tele-antequera/) | [logo](https://graph.facebook.com/812891658754713/picture?width=200&height=200) | - | - |
+| Islatel | [m3u8](https://www.youtube.com/channel/UCf4hfEfeqVTrTx7-VadIbgQ/live) | [web](http://www.islatel.es/) | [logo](https://graph.facebook.com/101523104600501/picture?width=200&height=200) | - | EMB |
 | Fuengirola TV | [m3u8](https://secure.todostreaming.es/live/nerja-livestream.m3u8) | [web](https://fuengirolatv.com/streaming/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
 | TVM Córdoba | [m3u8](https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/index.html) | [logo](https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200) | - | - |
 | Tele Gilena | [m3u8](https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8) | [web](http://www.telegilena.com/directo/) | [logo](https://pbs.twimg.com/profile_images/1249354233813622784/AstccGAT_200x200.jpg) | - | - |
 | Cancionero TV | [m3u8](http://89.140.99.41/hls/cancionero.m3u8) | [web](http://www.cancionero.es/tv/) | [logo](https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png) | - | - |
-| Canal Coín | [m3u8](http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8) | [web](https://canalcoin.com/tv-directo) | [logo](https://yt3.ggpht.com/a/AATXAJxBOpg8wglxv7mUxdPlwj-GnYRCUMtdLpQcNw=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
+| Canal Coín | [m3u8](http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8) | [web](http://canalcoin.com/tv-directo) | [logo](https://yt3.ggpht.com/a/AATXAJxBOpg8wglxv7mUxdPlwj-GnYRCUMtdLpQcNw=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
 | Trebujena TV | [m3u8](http://212.104.160.156:1935/live/trebujenatv2/master.m3u8) | [web](http://trebujena.tv/) | [logo](https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg) | - | - |
 | El Correo de Andalucía | - | [web](https://elcorreoweb.es/elcorreotv) | [logo](https://graph.facebook.com/elcorreoweb/picture?width=200&height=200) | - | NOEM |
 
@@ -162,7 +168,6 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Aragón TV | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8) | [web](http://www.aragontelevision.es/) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV.TV | - |
-| Aragón Deporte | [m3u8](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | - | - |
 | Huesca TV | [m3u8](https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8) | [web](https://www.radiohuesca.com/directo-htv) | [logo](https://graph.facebook.com/Radiohuesca/picture?width=200&height=200) | - | - |
 | Calamocha TV | [youtube](https://www.youtube.com/channel/UCl03PpRWoRjkiK5VT4uDKgA/live) | [web](http://www.mijilocatv.es/) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | EMB |
 | La Tele TV | [m3u8](https://secure3.todostreaming.es/live/generaltv-livestream1.m3u8) | [web](https://www.latele-tv.com/) | [logo](https://graph.facebook.com/LaTeleTVAragon/picture?width=200&height=200) | - | NONAV |
@@ -187,7 +192,6 @@
 | Este Canal TV | [stream](https://livestream.com/accounts/8817409/events/7051352) | [web](http://www.estecanaltv.com/este-canal-en-directo/) | [logo](https://graph.facebook.com/estecanaltv/picture?width=200&height=200) | - | EXTB |
 | RTV Mogán | [m3u8](https://5b38ce71f1f00.streamlock.net/8162/8162/playlist.m3u8) | [web](https://www.mogan.es/45-radio-television-de-mogan/3382-ver-television-mogan) | [logo](https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200) | - | - |
 | Canal 13 | - | [web](https://rtvos5.wixsite.com/canal13) | [logo](https://graph.facebook.com/RTVCANAL13/picture?width=200&height=200) | - | - |
-| Radio Gigante | [m3u8](https://gigantetv.radiogigante.com/tele/live/stream.m3u8) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=200&height=200) | - | - |
 | Canal 4 TV | [stream](https://iframe.dacast.com/b/126422/c/496014) | [web](https://canal4tvtelde.es/en-directo) | [logo](https://graph.facebook.com/canal4tvtelde/picture?width=200&height=200) | - | EMB |
 | Ahora TV | [m3u8](https://5940924978228.streamlock.net/8171/8171/playlist.m3u8) | [web](https://www.ahoratelevision.es/directos/) | [logo](https://graph.facebook.com/ahoratvtenerife/picture?width=200&height=200) | - | NONAV |
 | Lancelot TV | [m3u8 # 1](https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8) - [m3u8 # 2](http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8) | [web](https://www.lancelot.tv/directo) | [logo](https://graph.facebook.com/288850935035196/picture?width=200&height=200) | - | - |
@@ -246,7 +250,6 @@
 | TV3 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/tv3) | [logo](https://graph.facebook.com/tv3/picture?width=200&height=200) | TV3.TV | - |
 | 324 | [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/324) | [logo](https://graph.facebook.com/324cat/picture?width=200&height=200) | 324.TV | - |
 | 33 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/33) | [logo](https://graph.facebook.com/Canal33/picture?width=200&height=200) | C33.TV | - |
-| Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/esport3) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | - |
 | Super3 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/super3) | [logo](https://graph.facebook.com/clubsuper3/picture?width=200&height=200) | C33.TV | - |
 | CCMA Exclusiu 1 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:oca1_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:oca1_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/exclusiu/oca1/) | [logo](https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg) | - | - |
 | CCMA Exclusiu 2 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:oca2_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:oca2_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/exclusiu/oca2/) | [logo](https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg) | - | - |
@@ -285,7 +288,6 @@
 | TV Girona | [m3u8](http://ventdelnord.tv:8080/girona/directe.m3u8) | [web](http://ventdelnord.tv/tvgirona) | [logo](https://graph.facebook.com/tvgirona/picture?width=200&height=200) | - | - |
 | Canal 10 Empordà | [m3u8](http://ventdelnord.tv:8080/escala/directe.m3u8) | [web](http://www.canal10.cat/endirecte) | [logo](https://graph.facebook.com/canal10emporda/picture?width=200&height=200) | - | - |
 | rtvc Cardedeu | [m3u8 # 1](https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/master.m3u8) - [m3u8 # 2](https://liveingesta119.cdnmedia.tv/cardedeutvlive/smil:live.smil/master.m3u8) | [web](https://www.rtvc.cat/tele/) | [logo](https://graph.facebook.com/TelevisioCardedeu/picture?width=200&height=200) | - | UAGLI |
-| Mola TV | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | [logo](https://graph.facebook.com/molaTV/picture?width=200&height=200) | - | - |
 | etv | [m3u8 # 1](https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8) - [m3u8 # 2](https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8) | [web](https://www.etv.cat/index.php/en-directe-etv.html) | [logo](https://graph.facebook.com/etv.llobregat/picture?width=200&height=200) | - | UAGLI |
 | Vallès Visió | [m3u8 # 1](https://liveingesta118.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/master.m3u8) - [m3u8 # 2](http://liveingesta119.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/master.m3u8) | [web](https://www.vallesvisio.cat/directe/) | [logo](https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200) | - | UAGLI |
 | TV Ripollés | [m3u8 # 1](https://liveingesta118.cdnmedia.tv/tvripolleslive/smil:live.smil/master.m3u8) - [m3u8 # 2](https://liveingesta119.cdnmedia.tv/tvripolleslive/smil:live.smil/master.m3u8) | [web](https://www.corisamediagrup.com/tvr-en-directe/) | [logo](https://graph.facebook.com/televisiodelripolles/picture?width=200&height=200) | - | UAGLI |
@@ -313,7 +315,7 @@
 | - | - | - | - | - | - |
 | Telemadrid | [m3u8](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | Telemadrid.TV | - |
 | LaOtra | [m3u8](http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-laotra) | [logo](https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg) | LaOtra.TV | - |
-| Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106 FM](http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | - |
+| Webcam OndaMadrid | [m3u8 # 101.3 FM](http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8) - [m3u8 # 106.0 FM](http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | OndaMadrid.TV | - |
 | Teleganés | [m3u8](https://cdn01.yowi.tv/P18V9163O7/master.m3u8) | [web](http://www.teleganes.com/) | [logo](https://graph.facebook.com/1423419417957760/picture?width=200&height=200) | - | NONAV |
 | C33 Madrid | [m3u8](https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8) | [web](http://www.canal33.info/) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | Distrito TV | [m3u8](https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8) | [web](http://distritotv.es/videos/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | NONAV |
@@ -382,6 +384,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TVG | [m3u8](https://europa-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGAL.TV | - |
+| TVG 2 | [m3u8](https://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TVG Xabarin | [m3u8](https://infantil-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/xabarin-tv) | [logo](https://graph.facebook.com/oxabarinclub/picture?width=200&height=200) | - | - |
 | TVG Musigal | [m3u8](https://musigal-crtvg.flumotion.com/playlist.m3u8) | [web](http://musi.gal/) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TVG Cultura | [m3u8](https://cultural-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo/canles-directos-tvg/cultura) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
@@ -391,7 +394,6 @@
 | TVG Evento 3 | [m3u8](https://events3-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | NONAV |
 | TVG Evento 4 | [m3u8](https://events4-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | NONAV |
 | TVG Evento 5 | [m3u8](https://events5-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | NONAV |
-| TVG Parlamento | [m3u8](https://amodino-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/en-directo) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TV Ferrol | [m3u8](https://directo.tvferrol.es/tv.m3u8) | [web](https://directo.tvferrol.es/) | [logo](https://graph.facebook.com/tvferrol/picture?width=200&height=200) | - | - |
 | Televigo | [m3u8](https://5f4cab04444c6.streamlock.net/gcm4/gcm4/playlist.m3u8) | [web](http://www.televigo.com/) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | - | - |
 | Hermes TV | [m3u8](http://stream.bigapis.net:8080/hls/hermesvigo.m3u8) | [web](http://www.hermesvigo.com/directo-tv.php) | [logo](https://graph.facebook.com/491789551017784/picture?width=200&height=200) | - | - |
@@ -404,10 +406,8 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | IB3 | [youtube](https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live) | [web](http://ib3tv.com/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | IB3.TV | EMB |
-| IB3 Esports | [youtube](https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | - | EMB |
 | TEF | [m3u8](https://59c8647978660.streamlock.net/8176/8176/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/playlist.m3u8) | [web](http://canal4televisio.com/en-directo//) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | - |
-| Inselradio TV | - | [web](https://www.inselradio.com/player/?tv) | [logo](https://graph.facebook.com/DasInselradio/picture?width=200&height=200) | - | - |
 | Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](https://graph.facebook.com/LuxMallorca/picture?width=200&height=200) | - | W3U |
 
 ### La Rioja
@@ -432,7 +432,6 @@
 | - | - | - | - | - | - |
 | ETB 1 | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8) | [web](https://www.eitb.eus/es/television/etb1/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB1.TV | - |
 | ETB 2 | [m3u8](https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8) | [web](https://www.eitb.eus/es/television/etb2/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETB2.TV | - |
-| ETB Deportes | [m3u8](https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBD.TV | - |
 | Hamaika Telebista | [m3u8](https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8) | [web](https://www.hamaika.eus/zuzenean) | [logo](https://graph.facebook.com/HamaikaTb/picture?width=200&height=200) | - | - |
 | Goiena | [m3u8](https://zuzenean.goienamedia.eus:8443/telebista.m3u8) | [web](https://goiena.eus/telebista/zuzenekoa) | [logo](https://graph.facebook.com/goiena.eus/picture?width=200&height=200) | - | - |
 | TeleBilbao | [m3u8](https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8) | [web](https://www.telebilbao.es/directo/) | [logo](https://graph.facebook.com/312994995454199/picture?width=200&height=200) | - | NONAV |
@@ -449,7 +448,6 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | W3U |
-| VinxTV | [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://www.vinx.es/vinx-live/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
 | EsAsturiasTV | [m3u8](https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8) | [web](https://www.esasturias.tv/directo) | [logo](https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200) | - | - |
 | Canal 10 | [m3u8](https://5924d3ad0efcf.streamlock.net/elcomerciodos/elcomerciodoslive/playlist.m3u8) | [web](http://www.canal10tv.com) | [logo](https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_200x200.png) | - | - |
 
@@ -461,6 +459,7 @@
 | Popular TV Murcia | [m3u8](https://593fa17dec176.streamlock.net/gcm6/gcm6/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200) | PopularMU.TV | - |
 | RTV Vida | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](https://graph.facebook.com/vidartv/picture?width=200&height=200) | - | - |
 | TeleArchena | [m3u8](https://ott.mapeka.es:64000/live/_definst_/telearchena/playlist.m3u8?bid=mapeka&sid=1&ref=bb22a7fda046cceead5da8d964caf620) | [web](https://telearchena.es/) | [logo](https://graph.facebook.com/telearchena.es/picture?width=200&height=200) | - | - |
+| Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es/) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 
 ## Int. Europa
 
@@ -616,7 +615,7 @@
 | Cachipum TV | [m3u8](https://tls.cdnz.cl/cachipuntv/live/chunklist_w72379467.m3u8) | [web](http://cachipum.tv/) | [logo](https://graph.facebook.com/cachipumtv/picture?width=200&height=200) | - | - |
 | ACS Network | [m3u8](https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8) | [web](https://acsnetwork.tv/) | [logo](https://graph.facebook.com/acsnetworktv/picture?width=200&height=200) | - | - |
 | Mr Bean 24h | [youtube # EN](https://www.youtube.com/channel/UCkAGrHCLFmlK3H2kd6isipg/live) | [web](https://www.mrbean.com/) | [logo](https://graph.facebook.com/MrBean/picture?width=200&height=200) | - | EMB |
-| Rathergood LoL | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=96&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/lol/) | [logo](https://rathergood.co.uk/wp-content/uploads/2019/11/Capture-260x180.png) | - | - |
+| Rathergood LoL | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?ctype=0&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/lol/) | [logo](https://rathergood.co.uk/wp-content/uploads/2019/11/Capture-260x180.png) | - | - |
 | Emmanuel TV | [m3u8 # EN](https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8) | [web](https://emmanuel.tv/es/en-vivo/) | [logo](https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200) | - | NONAV |
 
 ## Deportivos Int.
@@ -626,8 +625,8 @@
 | Olympic Channel | [m3u8 # 1 EN](https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8) - [m3u8 # 2 EN](https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8) - [m3u8 # 3 EN](https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8) - [m3u8 # 4 EN](https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8) - [m3u8 # 5 EN](https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8) | [web](https://www.olympicchannel.com/en/) | [logo](https://graph.facebook.com/OlympicChannel/picture?width=200&height=200) | - | - |
 | Redbull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://graph.facebook.com/RedBull/picture?width=200&height=200) | - | - |
 | Garage TV | [m3u8](http://186.0.233.76:1935/Garage/garage.smil/.m3u8) | [web](http://elgarage.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
-| MsMotor TV | [m3u8 # IT](https://streaming.wim.tv/live/streamingautomototv/.m3u8) | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | - |
-| OnlyMotors | [m3u8 # EN](https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/index.m3u8) | [web](https://kapang.com/onlymotors/live/) | [logo](https://graph.facebook.com/onlymotors/picture?width=200&height=200) | - | - |
+| MsMotor TV | [m3u8 # IT](https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/playlist.m3u8) | [web](https://www.msmotor.tv/) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | - |
+| OnlyMotors | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/.m3u8?chname=CLOUDIETV-ONLYMOTORSTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&ctype=0&acsurl=1) | [web](https://onlymotors.tv/) | [logo](https://graph.facebook.com/onlymotors/picture?width=200&height=200) | - | - |
 | Harley Davidson TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyM.TV | - |
 | Harley Davidson Racing TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyR.TV | - |
 | Harley Davidson Factory TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyF.TV | - |
@@ -637,6 +636,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| Radio Gigante España | [m3u8](https://gigantetv.radiogigante.com/tele/live/stream.m3u8) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/radiogigantecanarias/picture?width=200&height=200) | - | - |
+| Mola TV España | [m3u8](http://ventdelnord.tv:8080/mola/directe.m3u8) | [web](http://www.molatv.cat/) | [logo](https://graph.facebook.com/molaTV/picture?width=200&height=200) | - | - |
 | RTL 102.5 Italia | [m3u8 # IT](https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8) | [web](https://www.rtl.it/radiovisione) | [logo](https://graph.facebook.com/RTL102.5/picture?width=200&height=200) | - | NONAV |
 | Kronehit Austria | [m3u8](https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8) | [web](https://www.kronehit.at/) | [logo](https://graph.facebook.com/kronehit/picture?width=200&height=200) | - | - |
 | QMusic Holanda | [m3u8 # NL](https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8) | [web](https://qmusic.nl/live/kijk) | [logo](https://graph.facebook.com/QmusicNL/picture?width=200&height=200) | - | - |
@@ -684,14 +685,14 @@
 | LoFi Hip-Hop Beats Music | [youtube](https://youtu.be/-5KAN9_CzSA) | [web](https://stzzzy.com/) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | - |
 | Beautiful Piano Music | [youtube](https://youtu.be/y7e-GC6oGhg) | [web](https://soothingrelaxation.com/) | [logo](https://graph.facebook.com/SoothingRelaxation/picture?width=200&height=200) | - | - |
 | Rathergood Radio | [m3u8 # EN](https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/index.m3u8) | [web](https://rathergood.co.uk/radio/) | [logo](https://graph.facebook.com/rathergoodradio/picture?width=200&height=200) | - | - |
-| Rathergood Dance | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=6&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCE-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/rathergood-dance/) | [logo](https://rathergood.co.uk/wp-content/uploads/2019/08/screenshot_1589465665080-260x180.jpg) | - | - |
-| Rathergood Movies | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=6&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODMOVIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/rathergood-movies-2/) | [logo](https://rathergood.co.uk/wp-content/uploads/2018/08/screenshot_1589465710062-260x180.jpg) | - | - |
-| Rathergood Hits | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=96&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODHITS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/hits/) | [logo](https://rathergood.co.uk/wp-content/uploads/2019/08/screenshot_1589465847751-260x180.jpg) | - | - |
-| Rathergood 00s | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=21&n=0&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODNOUGHTIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/00s/) | [logo](https://rathergood.co.uk/wp-content/uploads/2018/08/00s-1-1-260x180.jpg) | - | - |
-| Rathergood 90s | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=202&n=0&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOOD90S-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://vintagemusictv.com/90s/) | [logo](https://vintagemusictv.com/wp-content/uploads/2020/05/vm90s-260x180.png) | - | - |
-| Rathergood Dance Classics | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=22&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCECLASSICS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/dance-classics/) | [logo](https://rathergood.co.uk/wp-content/uploads/2018/08/screenshot_1589465917589-260x180.jpg) | - | - |
+| Rathergood Dance | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?ctype=0&chname=CLOUDIETV-RATHERGOODDANCE-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/rathergood-dance/) | [logo](https://rathergood.co.uk/wp-content/uploads/2019/08/screenshot_1589465665080-260x180.jpg) | - | - |
+| Rathergood Movies | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?ctype=0&chname=CLOUDIETV-RATHERGOODMOVIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/rathergood-movies-2/) | [logo](https://rathergood.co.uk/wp-content/uploads/2018/08/screenshot_1589465710062-260x180.jpg) | - | - |
+| Rathergood Hits | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?ctype=0&chname=CLOUDIETV-RATHERGOODHITS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/hits/) | [logo](https://rathergood.co.uk/wp-content/uploads/2019/08/screenshot_1589465847751-260x180.jpg) | - | - |
+| Rathergood 00s | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?ctype=0&chname=CLOUDIETV-RATHERGOODNOUGHTIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/00s/) | [logo](https://rathergood.co.uk/wp-content/uploads/2018/08/00s-1-1-260x180.jpg) | - | - |
+| Rathergood 90s | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?ctype=0&chname=CLOUDIETV-RATHERGOOD90S-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://vintagemusictv.com/90s/) | [logo](https://vintagemusictv.com/wp-content/uploads/2020/05/vm90s-260x180.png) | - | - |
+| Rathergood Dance Classics | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?ctype=0&chname=CLOUDIETV-RATHERGOODDANCECLASSICS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://rathergood.co.uk/dance-classics/) | [logo](https://rathergood.co.uk/wp-content/uploads/2018/08/screenshot_1589465917589-260x180.jpg) | - | - |
 | 30A Music USA | [m3u8 # EN](https://30a-tv.com/music.m3u8) | [web](https://30a-tv.com/30a/30a-tv-music-channel/) | [logo](https://graph.facebook.com/30atv/picture?width=200&height=200) | - | - |
-| Vintage Music TV | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=21&n=1&ctype=0&adsid=A&chname=CLOUDIETV-VINTAGEMUSICTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://vintagemusic.group/live-tv/watchvintagetv/) | [logo](https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200) | - | - |
+| Vintage Music TV | [m3u8 # EN](https://ssai06a.broadcastcdn.net/hlslive/m3u8?ctype=0&chname=CLOUDIETV-VINTAGEMUSICTV-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1) | [web](https://vintagemusic.group/live-tv/watchvintagetv/) | [logo](https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200) | - | - |
 | Retro Plus TV Chile | [m3u8 # EN](https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8) | [web](https://retroplustv.com/) | [logo](https://graph.facebook.com/retroplustv/picture?width=200&height=200) | - | - |
 | California Music Channel USA | [m3u8 # EN](https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8) | [web](https://www.cmc-tv.com/) | [logo](https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200) | - | - |
 | Retro Music TV Chequia | [m3u8 # EN](http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8) | [web](http://retromusic.cz/#retro_tv) | [logo](https://graph.facebook.com/retromusic/picture?width=200&height=200) | - | - |

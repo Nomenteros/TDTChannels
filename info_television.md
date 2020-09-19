@@ -65,6 +65,11 @@ Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe 
 | Betis TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | UD Las Palmas TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Cádiz CF TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Esport 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB Deportes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emiten eventualmente |
+| VinxTV Asturias | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| IB3 Esports | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | Emisión eventual. No disponible para W3U en Android TV |
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | La Liga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Real Federación Española de Fútbol | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | Emite eventualmente, posible emisión geolocalizada a España |
@@ -166,6 +171,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Sal Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Islatel | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele Gilena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -179,7 +185,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
 | Aragón TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emiten eventualmente |
 | Huesca TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Calamocha TV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | La Tele TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -204,7 +209,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Este Canal TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Radio Gigante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -263,7 +267,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Esport 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Super3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CCMA Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CCMA Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -302,7 +305,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Girona | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | rtvc Cardedeu | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
-| Mola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | etv | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
 | Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
 | TV Ripollés | ✔ | ✔ | 🌐 | ✔ | ❌ | ✔ | - |
@@ -398,6 +400,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
 | TVG | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Xabarin | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -407,7 +410,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Evento 3 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | TVG Evento 4 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | TVG Evento 5 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| TVG Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hermes TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -420,10 +422,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
 | IB3 | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| IB3 Esports | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | Emisión eventual. No disponible para W3U en Android TV |
 | TEF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Inselradio TV | - | - | - | - | - | - | - |
 | Lux Mallorca | - | - | - | - | - | - | - |
 
 ### La Rioja
@@ -448,7 +448,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - |
 | ETB 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ETB 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| ETB Deportes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hamaika Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Goiena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -465,7 +464,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
 | TPA7 | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ✔ | - |
-| VinxTV | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | EsAsturiasTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -477,6 +475,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Vida | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleArchena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 6 Totana | ▶ | ▶ | ✔ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ## Int. Europa
 
@@ -651,6 +650,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - |
+| Radio Gigante España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Mola TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - |
