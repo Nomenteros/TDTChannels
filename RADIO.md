@@ -68,6 +68,7 @@
 | Loca FM Industrial | [stream](http://audio-online.net:8019/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
 | Loca FM Drum&Bass | [stream](http://audio-online.net:8021/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | WICE |
 | Clásica FM Radio | [mp3](https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
+| digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/index.html) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
 
 ## Infantiles
 
@@ -132,6 +133,7 @@
 | SER Motril | [stream](http://escuchar.radiogranada.es:8028/motril) | [web](https://play.cadenaser.com/emisora/radio_motril) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Palma | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PALMA_DEL_RIO.mp3) | [web](https://play.cadenaser.com/emisora/radio_palma) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Poniente | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONIENTE.mp3) | [web](https://play.cadenaser.com/emisora/ser_poniente/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
+| SER Radio Valverde | [mp3](http://69.197.169.178:26654/;.mp3) | [web](http://www.radiovalverde.com/) | [logo](https://graph.facebook.com/radiovalverdeSER/picture?width=200&height=200) | - | - |
 | SER Roquetas | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ROQUETAS.mp3) | [web](https://play.cadenaser.com/emisora/ser_roquetas/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Sevilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3) | [web](https://play.cadenaser.com/emisora/radio_sevilla) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Úbeda | [stream](http://srv3031.lcinternet.com:8007/live1) | [web](https://play.cadenaser.com/emisora/radio_ubeda) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
@@ -614,6 +616,7 @@
 | LOS40 Classic Castellón | [stream](http://stream.radiocastellon.com/40cl) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200) | - | - |
 | Cadena Dial Castellón | [stream](http://stream.radiocastellon.com/dial) | [web](https://cadenaser.com/emisora/radio_castellon/) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | WICE |
 | Cadena 100 Benidorm | [stream](http://rsirena.dnsalias.com:8000/cad100benidorm) | [web](https://www.radiosirena.es/radio-online/cadena-100/) | [logo](https://graph.facebook.com/cadena100benidorm/picture?width=200&height=200) | - | WICE |
+| esRadio Alicante | [stream](http://streaming12.elitecomunicacion.es:8260/stream) | [web](http://esradioalicante.com/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | esRadio Elche | [mp3](http://ns6.emisionlocal.com:8040/;.mp3) | [web](https://www.esradioelche.com/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
 | MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com/) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | - | - |
@@ -830,6 +833,7 @@
 | Mozoilo Irratia | [mp3](http://195.154.33.95:8042/mozoiloi.mp3) | [web](http://www.gdkoirratia.com/PLAY/) | [logo](https://graph.facebook.com/GaldakaokoIrratia/picture?width=200&height=200) | - | - |
 | Naiz Irratia | [mp3](https://zuzenean.naiz.eus/naiz_irratia.mp3) | [web](https://www.naiz.eus/zuzenean.html) | [logo](https://graph.facebook.com/NAIZirratia/picture?width=200&height=200) | - | - |
 | FM Musical | [stream](http://s2.free-shoutcast.com:18204/;) | [web](https://fm-musical.com/) | [logo](https://graph.facebook.com/99fmmusical/picture?width=200&height=200) | - | - |
+| Durango Irratia | [mp3](https://durangoirratia.streaming-pro.com:6006/durangoirratia.mp3) | [web](http://www.durango-udala.net/durangoirratia) | [logo](https://pbs.twimg.com/profile_images/674943257789505537/0P8QkXHx_200x200.jpg) | - | - |
 
 ### P. de Asturias
 
