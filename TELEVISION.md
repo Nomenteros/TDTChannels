@@ -44,20 +44,21 @@
 | - | - | - | - | - | - |
 | Teledeporte | [m3u8 # GEO # 1](https://rtvelivestream.akamaized.net/tdp_dvr.m3u8) - [m3u8 # GEO # 2](https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8) | [web](https://www.rtve.es/directo/teledeporte/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | - |
 | GOL | - | [web](https://www.goltelevision.com/live) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | GOL.TV | W3U,EXTA |
+| Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/esport3) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | - |
+| ETB Deportes | [m3u8](https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200) | ETBD.TV | - |
+| Aragón Deporte | [m3u8](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) - [m3u8 # 2](https://hls-aragontv-events2.flumotion.com/playlist.m3u8) - [m3u8 # 3](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/aragondeporte/picture?width=200&height=200) | - | - |
+| VinxTV Asturias | [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://www.vinx.es/vinx-live/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
+| IB3 Esports | [youtube](https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/EsportsIB3/picture?width=200&height=200) | - | EMB |
 | RealMadrid TV | [m3u8](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8) - [m3u8 # EN](https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8) | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200) | RMTV.TV | - |
 | Barça TV | - | [web](https://barcatv.fcbarcelona.es/) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | - | NOEM |
 | Sevilla TV | - | [web](https://live.sevillafc.es/) | [logo](https://graph.facebook.com/sevillafc/picture?width=200&height=200) | SevillaTV.TV | - |
 | Betis TV | - | [web](https://www.realbetisbalompie.es/rtvbetis/directo-tv/) | [logo](https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200) | BetisTV.TV | W3U,EXTA |
 | UD Las Palmas TV | [m3u8](https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8) | [web](https://www.udlaspalmas.es/multimedia/udtv/udtvlive) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | NONAV |
 | Cádiz CF TV | [m3u8](https://player.cdnmedia.tv/undefined/cdcadizlive/smil:cadiz.smil/playlist.m3u8) | [web](https://www.cadizcf.com/cadizcf-tv) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
-| Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8) - [m3u8 # GEO](https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8) - [m3u8](https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8) | [web](https://www.ccma.cat/tv3/directe-avancat/esport3) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | - |
-| ETB Deportes | [m3u8](https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200) | ETBD.TV | - |
-| Aragón Deporte | [m3u8](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) - [m3u8 # 2](https://hls-aragontv-events2.flumotion.com/playlist.m3u8) - [m3u8 # 3](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/aragondeporte/picture?width=200&height=200) | - | - |
-| VinxTV Asturias | [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://www.vinx.es/vinx-live/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
-| IB3 Esports | [youtube](https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/EsportsIB3/picture?width=200&height=200) | - | EMB |
-| MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com/) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
+| RCD Mallorca TV | [youtube](https://www.youtube.com/c/OficialRCDMallorca/live) | [web](https://www.rcdmallorca.es/contenidos/noticias) | [logo](https://graph.facebook.com/RCDMallorcaOficial/picture?width=200&height=200) | - | - |
 | La Liga Santander | [youtube](https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA/live) | [web](https://www.laliga.com/) | [logo](https://graph.facebook.com/LaLiga/picture?width=200&height=200) | - | EMB |
 | Real Federación Española de Fútbol | - | [web](https://www.rfef.es/) | [logo](https://graph.facebook.com/RFEF/picture?width=200&height=200) | - | W3U,EXTA |
+| MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com/) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com/) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB |
 
 ## Infantiles
@@ -173,7 +174,6 @@
 | Aragón TV | [m3u8](https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8) | [web](http://www.aragontelevision.es/directo) | [logo](https://graph.facebook.com/AragonTV/picture?width=200&height=200) | AragonTV.TV | - |
 | Huesca TV | [m3u8](https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8) | [web](https://www.radiohuesca.com/directo-htv) | [logo](https://graph.facebook.com/Radiohuesca/picture?width=200&height=200) | - | - |
 | Calamocha TV | [youtube](https://www.youtube.com/channel/UCl03PpRWoRjkiK5VT4uDKgA/live) | [web](http://www.mijilocatv.es/) | [logo](https://graph.facebook.com/CalamochaTV/picture?width=200&height=200) | - | EMB |
-| La Tele TV | [m3u8](https://secure3.todostreaming.es/live/generaltv-livestream1.m3u8) | [web](https://www.latele-tv.com/) | [logo](https://graph.facebook.com/LaTeleTVAragon/picture?width=200&height=200) | - | NONAV |
 | Canal 25 Barbastro TV | [m3u8](https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8) | [web](http://www.canal25tv.es/index.php/ct-menu-item-5) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | - |
 | Canal 15tv Zaragoza | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com/) | [logo](https://graph.facebook.com/1266272630094067/picture?width=200&height=200) | - | EMB |
 
@@ -357,7 +357,6 @@
 | TeVe4 | - | [web](http://teve4.es/) | [logo](https://graph.facebook.com/teve4televisio/picture?width=200&height=200) | - | - |
 | Maestrat TV | [m3u8](https://stream.maestrat.tv/hls/stream.m3u8) | [web](https://www.maestrat.tv/) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
 | Univers TV | [m3u8](https://5c21f7ec1999d.streamlock.net/universvalencia/universvalencia/playlist.m3u8) | [web](https://www.universvalencia.es/univers-tv-en-directo/) | [logo](https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200) | - | - |
-| ON TV | [m3u8](https://streaming-audio-1.magentalabs.es:19360/ontv/ontv.m3u8) | [web](https://www.onradio.fm/on-tv/) | [logo](https://graph.facebook.com/onradio.fm/picture?width=200&height=200) | - | - |
 | Elche 7 TV | [m3u8](https://streaming.elche7tv.es/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://graph.facebook.com/Elche7Tv/picture?width=200&height=200) | - | - |
 | TV Almassora | - | [web](https://www.tvalmassora.com/en-directo/) | [logo](https://graph.facebook.com/tvalmassora/picture?width=200&height=200) | - | W3U,EMB,EXTA |
 | Onda 15 TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8028/8028/master.m3u8) | [web](https://onda15.es/) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
@@ -404,7 +403,6 @@
 | IB3 | [youtube](https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live) | [web](http://ib3tv.com/directe) | [logo](https://graph.facebook.com/IB3org/picture?width=200&height=200) | IB3.TV | EMB |
 | TEF | [m3u8](https://59c8647978660.streamlock.net/8176/8176/playlist.m3u8) | [web](https://teftv.com/la-tef-en-directe/) | [logo](https://graph.facebook.com/TEFTV/picture?width=200&height=200) | - | - |
 | Canal 4 | [m3u8](http://149.202.68.178:1935/live/peprecasens/playlist.m3u8) | [web](http://canal4televisio.com/en-directo//) | [logo](https://graph.facebook.com/canal4televisio/picture?width=200&height=200) | - | - |
-| Lux Mallorca | - | [web](https://luxmallorca.tv/) | [logo](https://graph.facebook.com/LuxMallorca/picture?width=200&height=200) | - | W3U |
 
 ### La Rioja
 
@@ -484,6 +482,8 @@
 | TGCom24 Italia | [m3u8 # IT](https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8) | [web](https://www.tgcom24.mediaset.it/video/) | [logo](https://graph.facebook.com/tgcom24/picture?width=200&height=200) | - | - |
 | Rai News 24 Italia | [m3u8 # IT](https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8) | [web](https://www.rainews.it/dl/rainews/live/ContentItem-3156f2f2-dc70-4953-8e2f-70d7489d4ce9.html) | [logo](https://graph.facebook.com/rainews.it/picture?width=200&height=200) | RaiN.TV | - |
 | La5 Italia | [m3u8 # IT](https://live2.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8) | [web](https://www.mediasetplay.mediaset.it/diretta/canale5_cC5) | [logo](https://graph.facebook.com/La5mediaset/picture?width=200&height=200) | - | - |
+| DMAX Discovery Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8) | [web](https://it.dplay.com/dmax/) | [logo](https://graph.facebook.com/dmaxitalia/picture?width=200&height=200) | - | - |
+| Real Time Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8) | [web](https://it.dplay.com/realtime/) | [logo](https://graph.facebook.com/realtimeitalia/picture?width=200&height=200) | - | - |
 | DW Alemania | [m3u8](https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8) - [m3u8 # EN](https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8) - [m3u8 # DE](https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8) | [web](https://www.dw.com/es/multimedia/tv-en-vivo/s-100837) | [logo](https://graph.facebook.com/dw.espanol/picture?width=200&height=200) | DW.TV | - |
 | Das Erste Alemania | [m3u8 # DE](https://mcdn.daserste.de/daserste/int/master.m3u8) | [web](https://live.daserste.de/) | [logo](https://graph.facebook.com/DasErste/picture?width=200&height=200) | - | - |
 | NDR Niedersachsen Alemania | [m3u8 # DE](https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8) | [web](https://www.ndr.de/fernsehen/livestream/) | [logo](https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200) | - | - |
@@ -623,6 +623,7 @@
 | Harley Davidson Racing TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyR.TV | - |
 | Harley Davidson Factory TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyF.TV | - |
 | Harley Davidson Garage TV | [m3u8 # EN](https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8) | [web](https://tv.harley-davidson.com/) | [logo](https://graph.facebook.com/harley-davidson/picture?width=200&height=200) | HarleyG.TV | - |
+| MotorTrend Italia | [m3u8 # IT](https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8) | [web](https://it.dplay.com/motor-trend/) | [logo](https://graph.facebook.com/motortrendIT/picture?width=200&height=200) | - | - |
 
 ## Musicales
 

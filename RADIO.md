@@ -242,7 +242,6 @@
 | Onda Cero Teruel | [m3u8](https://livefastly-webs.ondacero.es/teruel-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/aragon/teruel/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | Onda Cero Zaragoza | [m3u8](https://livefastly-webs.ondacero.es/zaragoza-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/aragon/zaragoza/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
 | LOS40 Huesca | [stream](https://streamingradio.radiohuesca.com:8061/radio40principales) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | WICE |
-| esRadio Aragon | [stream](http://ns6.emisionlocal.com:8038/live) | [web](https://latele-tv.com/) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | WICE |
 | MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com/) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | - | - |
 | Ebro FM | [stream](http://s2.prositel.net:7010/ebrofm) | [web](https://diarioaragones.com/) | [logo](https://pbs.twimg.com/profile_images/522841077712044032/6hH3W4_F_200x200.jpeg) | - | - |
 | Rumba FM | [mp3](http://streaming.hdserver.biz:9348/;mp3) | [web](http://www.rumba93.es/) | [logo](https://graph.facebook.com/RumbaFMZaragoza/picture?width=200&height=200) | - | - |
@@ -924,6 +923,7 @@
 | Gaydio UK | [mp3](https://listen-gaydio.sharp-stream.com/gaydiouk.mp3) | [web](https://www.gaydio.co.uk/london/radioplayer/) | [logo](https://graph.facebook.com/gaydio/picture?width=200&height=200) | - | - |
 | Radio Francia Internacional | [mp3](https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3) | [web](http://www.rfi.fr/es/) | [logo](https://graph.facebook.com/rfienespanol/picture?width=200&height=200) | - | - |
 | Rinse FM UK | [stream](https://streamer-uk.rinse.fm:8443/stream) | [web](https://rinse.fm/player/) | [logo](https://graph.facebook.com/rinsefm/picture?width=200&height=200) | - | WICE |
+| FM Pop & Rock Argentina | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3) | [web](https://fmrockandpop.com/) | [logo](https://graph.facebook.com/FmRockandPop/picture?width=200&height=200) | - | - |
 | Radio Oxigeno Perú | [mp3](https://20813.live.streamtheworld.com/RADIO_OXIGENO.mp3) | [web](https://radio.oxigeno.com.pe/) | [logo](https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200) | - | - |
 | CBN Classic Christian | [stream](https://streams.cbnradio.com/Classic-Christian-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=classicchristian&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/classic300x300.jpg) | - | - |
 | CBN Praise | [stream](https://streams.cbnradio.com/praise-128K) | [web](https://www1.cbn.com/sites/all/libraries/radio/radio_player.php?station=praise&mode=expanded) | [logo](https://www1.cbn.com/sites/all/libraries/radio/img/praise300x300.jpg) | - | - |
