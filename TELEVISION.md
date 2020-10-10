@@ -121,7 +121,7 @@
 | M95 Marbella | [m3u8](https://limited2.todostreaming.es/live/m95-livestream.m3u8) | [web](https://m95tv.es/) | [logo](https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200) | - | - |
 | Canal 45 TV | [m3u8](https://cdn01.yowi.tv/503L6OKTE2/master.m3u8) | [web](http://www.canal45tv.com/) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | NONAV |
 | PTV Málaga | [m3u8](http://149.91.98.146:1935/live/stream/playlist.m3u8) | [web](http://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200) | - | - |
-| Huelva TV | [youtube # 1](https://youtu.be/I4EpPKWPRbc) - [youtube # 2](https://www.youtube.com/channel/UCBuRu35SuTEG1PusnkvY7TA/live) | [web](http://huelvatv.com/directo/) | [logo](https://graph.facebook.com/Huelvatv/picture?width=200&height=200) | - | EMB |
+| Huelva TV | [youtube](https://youtu.be/I4EpPKWPRbc) | [web](http://huelvatv.com/directo/) | [logo](https://graph.facebook.com/Huelvatv/picture?width=200&height=200) | - | EMB |
 | Canal Sierra de Cádiz | [m3u8 # HD 1](http://217.125.136.93:8080/canalsierradecadiz1080.m3u8) - [m3u8 # HD 2](http://217.125.136.93:8080/canalsierradecadiz720.m3u8) - [m3u8 # SD](http://217.125.136.93:8080/canalsierradecadiz576.m3u8) | [web](http://www.canalsierradecadiz.com/emision-en-directo/) | [logo](https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200) | - | - |
 | Costa Noroeste TV | [m3u8](https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8) | [web](http://www.costanoroestetv.net/) | [logo](https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200) | - | - |
 | Córdoba TV | [m3u8](https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8) | [web](https://www.cordoba-tv.com/) | [logo](https://graph.facebook.com/cordobatvonline/picture?width=200&height=200) | - | NONAV |
@@ -323,7 +323,7 @@
 | Déjate de Historias TV | [m3u8](https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8) | [web](https://www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | NONAV |
 | Pride Channel | - | [web](http://pridechanneltv.com/#endirecto) | [logo](https://graph.facebook.com/PrideChannelTV/picture?width=200&height=200) | - | - |
 | Telesur Madrid | [m3u8](https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8) | [web](https://telesurmadrid.wordpress.com/) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NONAV |
-| TB Madrid | [m3u8](https://5f4cab04444c6.streamlock.net/gcm2/gcm2_480p/playlist.m3u8) | [web](https://tbmadrid.com/) | [logo](https://yt3.ggpht.com/a/AATXAJxcv6MRsFdUfhyS4JPJgeDuqnuQzZFT4aNEP6Ja=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
+| TB Madrid | [m3u8](https://5f4cab04444c6.streamlock.net/gcm2/gcm2/playlist.m3u8) | [web](https://tbmadrid.com/) | [logo](https://yt3.ggpht.com/a/AATXAJxcv6MRsFdUfhyS4JPJgeDuqnuQzZFT4aNEP6Ja=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
 | 8madrid TV | - | [web](https://www.8madrid.tv/) | [logo](https://graph.facebook.com/8madridTV/picture?width=200&height=200) | - | NOEM |
 
 ### C. Foral de Navarra
@@ -521,7 +521,7 @@
 | Zee Mundo USA | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://go.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=200&height=200) | Zee.TV | - |
 | Newsmax TV USA | [m3u8 # EN](https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8) | [web](https://www.newsmaxtv.com/) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
 | CBN USA | [m3u8](https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8) - [m3u8 # EN](https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8) | [web](https://www1.cbn.com/tv/cbn-espanol) | [logo](https://graph.facebook.com/cbnonline/picture?width=200&height=200) | - | - |
-| NTN24 América | [m3u8](https://rcnhd.cdn.net.co/live04/ntn24.m3u8) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=200&height=200) | NTN24.TV | - |
+| NTN24 América | [youtube](https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA/live) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=200&height=200) | NTN24.TV | EMB |
 | Azteca 7 Mexico | [m3u8](https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8) | [web](https://www.tvazteca.com/azteca7/) | [logo](https://graph.facebook.com/aztecasiete/picture?width=200&height=200) | - | - |
 | Canal 6 Multimedios Mexico | [m3u8](https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8) | [web](https://www.multimedios.com/video) | [logo](https://graph.facebook.com/multimediostv/picture?width=200&height=200) | - | - |
 | Milenio Mexico | [youtube](https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live) | [web](https://www.milenio.com/mileniotv) | [logo](https://graph.facebook.com/MilenioDiario/picture?width=200&height=200) | - | EMB |
@@ -555,7 +555,7 @@
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live) | [web](https://globovision.com/) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
 | Venezolana de Televisión | [m3u8](https://livestream.streamingconnect.com/hls/vtvweb.m3u8) | [web](https://vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | - |
 | Televen TV Venezuela | [m3u8](https://5f4cab04444c6.streamlock.net/televenweb/televenweb/playlis.m3u8) | [web](http://www.televen.com/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
-| VPI TV Venezuela | [m3u8](https://www.latatv.com:444/live/5dcc76a163dbe/index.m3u8) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | - |
+| VPI TV Venezuela | [youtube](https://www.youtube.com/channel/UCVFiIRuxJ2GmJLUkHmlmj4w/live) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | EMB |
 | La Tele Tuya Venezuela | [m3u8](https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8) | [web](https://lateletuya.com/) | [logo](https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200) | - | - |
 | 24h Chile | [youtube](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live) | [web](https://www.24horas.cl/envivo/) | [logo](https://graph.facebook.com/24horas.cl/picture?width=200&height=200) | - | EMB |
 | TELE13 Chile | [youtube](https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live) | [web](https://www.t13.cl/en-vivo) | [logo](https://graph.facebook.com/teletrece/picture?width=200&height=200) | - | EMB |
@@ -566,7 +566,7 @@
 | Cubavisión TV | [m3u8](https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/master.m3u8) | [web](http://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision-internacional) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | - | - |
 | HCH Honduras | [m3u8](https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8) | [web](https://hch.tv/live/) | [logo](https://graph.facebook.com/HCHTelevisionDigital/picture?width=200&height=200) | - | - |
 | Trece Paraguay | [m3u8](http://174.138.118.252/live/trece.m3u8) | [web](http://www.trece.com.py/envivo) | [logo](https://graph.facebook.com/trecepy/picture?width=200&height=200) | - | - |
-| Canal 33 El Salvador | [m3u8](https://5d32e2b9b7eed.streamlock.net:4443/tv33sv/live/master.m3u8) | [web](https://canal33.tv/home/tv-en-vivo/) | [logo](https://graph.facebook.com/CANAL33.TV/picture?width=200&height=200) | - | - |
+| Canal 33 El Salvador | [m3u8](https://5cf17f839d3ea.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8) | [web](https://canal33.tv/home/tv-en-vivo/) | [logo](https://graph.facebook.com/CANAL33.TV/picture?width=200&height=200) | - | - |
 | TRV El Salvador | [m3u8](https://panel.livetvvideo.net:1936/8182/8182/playlist.m3u8) | [web](http://www.diariotrv.com/estaticas/en-vivo.html) | [logo](https://graph.facebook.com/Noticiastrvelsalvador/picture?width=200&height=200) | - | - |
 | WOW El Salvador | [m3u8](https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/master.m3u8) | [web](https://wowelsalvador.com/) | [logo](https://graph.facebook.com/wowelsalvador/picture?width=200&height=200) | - | - |
 | Teletica Costa Rica | [stream](https://www.dailymotion.com/embed/video/x29e3wg?autoplay=1) | [web](https://www.teletica.com/vivo?canal=teletica7) | [logo](https://graph.facebook.com/Teletica/picture?width=200&height=200) | - | EMB |
