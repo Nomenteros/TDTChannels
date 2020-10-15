@@ -323,7 +323,7 @@
 | Déjate de Historias TV | [m3u8](https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8) | [web](https://www.dejatedehistorias.es/wordpress/dejate-tv-on-line/) | [logo](https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200) | Dejate.TV | NONAV |
 | Pride Channel | - | [web](http://pridechanneltv.com/#endirecto) | [logo](https://graph.facebook.com/PrideChannelTV/picture?width=200&height=200) | - | - |
 | Telesur Madrid | [m3u8](https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8) | [web](https://telesurmadrid.wordpress.com/) | [logo](https://graph.facebook.com/telesurmadrid/picture?width=200&height=200) | - | NONAV |
-| TB Madrid | [m3u8](https://5f4cab04444c6.streamlock.net/gcm2/gcm2/playlist.m3u8) | [web](https://tbmadrid.com/) | [logo](https://yt3.ggpht.com/a/AATXAJxcv6MRsFdUfhyS4JPJgeDuqnuQzZFT4aNEP6Ja=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
+| TB Madrid | [m3u8](https://5f4cab04444c6.streamlock.net/gcm2/tbmadrid.stream/playlist.m3u8) | [web](https://tbmadrid.com/) | [logo](https://yt3.ggpht.com/a/AATXAJxcv6MRsFdUfhyS4JPJgeDuqnuQzZFT4aNEP6Ja=s200-c-k-c0xffffffff-no-rj-mo) | - | - |
 | 8madrid TV | - | [web](https://www.8madrid.tv/) | [logo](https://graph.facebook.com/8madridTV/picture?width=200&height=200) | - | NOEM |
 
 ### C. Foral de Navarra
@@ -409,7 +409,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | TV Rioja | [m3u8](https://5924d3ad0efcf.streamlock.net/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](https://graph.facebook.com/tvrtelevision/picture?width=200&height=200) | TVR.TV | - |
-| Popular TV La Rioja | - | [web](https://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=200&height=200) | - | - |
+| 7 La Rioja | [m3u8](https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8) | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | - | - |
 | Parlamento de La Rioja | [youtube](https://www.youtube.com/channel/UCpAY_YgIajM3YH4Bx3SdXSw/live) | [web](https://videoteca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | EMB |
 
 ### Melilla
@@ -451,7 +451,6 @@
 | - | - | - | - | - | - |
 | 7 R. de Murcia | [m3u8](http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8) | [web](http://webtv.7tvregiondemurcia.es/) | [logo](https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200) | 7RM.TV | - |
 | Popular TV Murcia | [m3u8](https://593fa17dec176.streamlock.net/gcm6/gcm6/master.m3u8) | [web](https://www.populartvrm.com/) | [logo](https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200) | PopularMU.TV | - |
-| RTV Vida | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](https://graph.facebook.com/vidartv/picture?width=200&height=200) | - | - |
 | TeleArchena | [m3u8](https://ott.mapeka.es:64000/live/_definst_/telearchena/playlist.m3u8?bid=mapeka&sid=1&ref=bb22a7fda046cceead5da8d964caf620) | [web](https://telearchena.es/) | [logo](https://graph.facebook.com/telearchena.es/picture?width=200&height=200) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es/) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 
@@ -497,7 +496,6 @@
 | RTCG Montenegro | [m3u8](http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8) | [web](http://www.rtcg.me/tv/tv-uzivo.html) | [logo](https://graph.facebook.com/PortalRTCG/picture?width=200&height=200) | - | - |
 | RT News | [m3u8 # EN](https://rt-news-gd.secure2.footprint.net/1103.m3u8) - [m3u8 # EN UK](https://rt-uk-gd.secure2.footprint.net/1106.m3u8) - [m3u8 # EN USA](https://rt-usa-gd.secure2.footprint.net/1105.m3u8) - [m3u8 # FR](https://rt-france-gd.secure2.footprint.net/1107.m3u8) | [web](https://www.rt.com/on-air/) | [logo](https://graph.facebook.com/RTnews/picture?width=200&height=200) | - | - |
 | RT Documentary | [m3u8 # EN](https://rt-doc-gd.secure2.footprint.net/1101.m3u8) | [web](https://rtd.rt.com/on-air/) | [logo](https://graph.facebook.com/RTDocumentary/picture?width=200&height=200) | RTDoc.TV | - |
-| Ikono TV | [m3u8 # EN](https://58de7a369a9c4.streamlock.net/schedule/ngrp:ikono_stream_all/master.m3u8) | [web](http://www.ikonotv.art/) | [logo](https://graph.facebook.com/ikonoTV/picture?width=200&height=200) | - | - |
 
 ## Int. América
 
@@ -516,7 +514,7 @@
 | WeatherNation USA | [m3u8](https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8) | [web](https://www.weathernationtv.com/) | [logo](https://graph.facebook.com/WeatherNation/picture?width=200&height=200) | - | - |
 | Entertainment Tonight USA | [m3u8 # EN](https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8) | [web](https://www.etonline.com/live) | [logo](https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200) | - | - |
 | America's Voice USA | [m3u8 # EN](https://cdnapi.kaltura.com/p/2377021/sp/237702100/playManifest/entryId/0_m2pjgwiu/format/applehttp/.m3u8) | [web](https://americasvoice.news/) | [logo](https://graph.facebook.com/AmericasVoiceNews/picture?width=200&height=200) | - | NONAV |
-| BUZZR TV USA | [m3u8 # EN](https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=200&height=200) | - | - |
+| BUZZR TV USA | [m3u8 # EN](https://buzzrota-web.amagi.tv/playlist.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=200&height=200) | - | - |
 | Dabl USA | [m3u8 # EN](https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8) | [web](https://www.dabl.com/schedule) | [logo](https://graph.facebook.com/DablNetwork/picture?width=200&height=200) | - | - |
 | Zee Mundo USA | [m3u8](https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8) | [web](https://go.zeemundo.com/canal/zee-mundo-en-vivo) | [logo](https://graph.facebook.com/zeemundo/picture?width=200&height=200) | Zee.TV | - |
 | Newsmax TV USA | [m3u8 # EN](https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8) | [web](https://www.newsmaxtv.com/) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
@@ -719,13 +717,14 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| EWTN España | [m3u8](https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8) - [m3u8 # EN](https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8) | [web](https://www.ewtn.com/multimedia/live_player-es.asp) | [logo](https://graph.facebook.com/ewtnespanol/picture?width=200&height=200) | - | - |
 | RTV Diocesana Toledo España | [m3u8](https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8) | [web](http://rtvd.org/) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_200x200.jpg) | - | NONAV |
 | Abadia de Montserrat España | [m3u8 # 1](https://live-edge-lon-1.cdn.enetres.net/CDB35895D88B49599996A01201668E06022/live-misas/index.m3u8) - [m3u8 # 2](https://play.cdn.enetres.net/CDB35895D88B49599996A01201668E06022/022/playlist.m3u8) | [web](http://www.montserratcomunicacio.cat/) | [logo](https://estatics.montserratvisita.com/img/imgTxtGenerals/foto_banners_nous_base117.jpg) | - | - |
+| RTV Vida España | [m3u8](https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/tv/) | [logo](https://graph.facebook.com/vidartv/picture?width=200&height=200) | - | - |
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | TBN España | [m3u8](https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8) | [web](https://xn--tbnespaa-j3a.es/) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
 | Vatican News | [youtube](https://youtu.be/3NoLUOlSshY) | [web](https://www.vaticannews.va/es.html) | [logo](https://graph.facebook.com/vaticannews.es/picture?width=200&height=200) | - | - |
 | El Sembrador TV Europa | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8) | [web](https://elsembradoreuropa.com/tv-en-vivo) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=200&height=200) | - | - |
-| EWTN USA | [m3u8](https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8) - [m3u8 # EN](https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8) | [web](https://www.ewtn.com/multimedia/live_player-es.asp) | [logo](https://graph.facebook.com/ewtnespanol/picture?width=200&height=200) | - | - |
 | María Visión Mexico | [m3u8](https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8) | [web](https://www.mariavision.com/mariavisionenvivo) | [logo](https://graph.facebook.com/mariavision/picture?width=200&height=200) | - | - |
 | Enlace TV Costa Rica | [stream](https://livestream.com/accounts/2675843/events/1839332) | [web](https://www.enlace.org/envivo/) | [logo](https://graph.facebook.com/enlacetv/picture?width=200&height=200) | - | EXTB |
-| Emmanuel TV | [m3u8 # EN](https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8) | [web](https://emmanuel.tv/es/en-vivo/) | [logo](https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200) | - | NONAV |
+| Emmanuel TV Nigeria | [m3u8 # EN](https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8) | [web](https://emmanuel.tv/es/en-vivo/) | [logo](https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200) | - | NONAV |
