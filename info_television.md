@@ -15,7 +15,7 @@ Cualquier otra aplicación para Android y iOS es considerada que utiliza la list
 
 Para reproducir correctamente todos los enlaces, la hora de tu dispositivo debe de ser correcta, el huso horario no importa.
 
-Si deseas disponer de más información acerca de qué significa cada lista visita [https://www.tdtchannels.com/listas](TDTChannels - Listas)
+Si deseas disponer de más información acerca de qué significa cada lista visita [TDTChannels - Listas](https://www.tdtchannels.com/listas)
 
 ## Nacionales
 
@@ -579,6 +579,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telemicro República Dominicana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | HCH Honduras | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -631,6 +632,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Olympic Channel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | OnlyMotors | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -742,5 +744,5 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | El Sembrador TV Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Enlace TV Costa Rica | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Enlace TV Costa Rica | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Emmanuel TV Nigeria | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
