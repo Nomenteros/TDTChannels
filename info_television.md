@@ -54,6 +54,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | EuropaPress TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Libertad Digital TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Negocios TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Deportivos
 
@@ -117,9 +118,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Sur 1 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Algeciras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 7TV Andalucía - Almería | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
@@ -585,7 +583,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Telemicro República Dominicana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Color Visión República Dominicana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | HCH Honduras | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -658,10 +658,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Radio 105 Italia | - | - | - | - | - | - | - | - |
 | Virgin Radio Italia | - | - | - | - | - | - | - | - |
+| R 101 Italia | - | - | - | - | - | - | - | - |
 | Radio Montecarlo Italia | - | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - | - |
-| NRJ Bélgica | - | - | - | - | - | - | - | - |
+| NRJ Hits Bélgica | - | - | - | - | - | - | - | - |
 | 4FUN TV Polonia | - | - | - | - | - | - | - | - |
 | Tomorrowland TV | - | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - | - |
@@ -675,12 +676,14 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | V2Beat TV | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - | - |
+| Radio 21 Rock'n Pop Alemania | - | - | - | - | - | - | - | - |
 | RadioU TV | - | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - | - |
 | Ibiza Sonica TV | - | - | - | - | - | - | - | - |
 | Café del Mar Ibiza | - | - | - | - | - | - | - | - |
+| Sonus FM Alemania | - | - | - | - | - | - | - | - |
 | DanceStar TV | - | - | - | - | - | - | - | - |
 | Top TV Brasil | - | - | - | - | - | - | - | - |
 | HqM Hits | - | - | - | - | - | - | - | - |
