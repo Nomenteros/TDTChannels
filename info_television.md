@@ -90,6 +90,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Eventuales
 
@@ -364,11 +365,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleElx | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Intercomarcal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Grup Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | La 8 Mediterráneo | 🌐 | 🌐 | 🌐 | ✔❗ | ✔❗ | ❌ | ✔ | - |
 | Alicantí TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVCS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | tvA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisión de San Vicente | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
@@ -412,7 +414,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Eventos | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Hermes TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hermes TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Auria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Nós TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -464,7 +466,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| TPA7 | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| TPA7 | ✔! | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | Para Android, en pruebas |
 | EsAsturiasTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 10 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -565,6 +567,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Nación Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | América TV Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | TV Pública Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| TV Pública Argentina | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
