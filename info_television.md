@@ -24,17 +24,17 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Antena 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Cuatro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Telecinco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | laSexta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Neox | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión geolocalizada a España |
 | Nova | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión geolocalizada a España |
 | Mega | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión geolocalizada a España |
 | Atreseries | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| FDF | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Energy | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Divinity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Be Mad | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| FDF | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Energy | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Divinity | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Be Mad | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Paramount Network | ✔ | 🌐 | 🌐 | ✔❗ | ✔❗ | ❌ | ✔ | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
@@ -84,7 +84,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| Boing | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -531,7 +531,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | NBC News USA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | CBS News USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cheddar USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Bloomberg EU USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Bloomberg USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Public | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV ISS Views | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -659,6 +659,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Cadena Elite Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Gigante España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mola TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| EuroLatina TV España | - | - | - | - | - | - | - | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Radio 105 Italia | - | - | - | - | - | - | - | - |
 | Virgin Radio Italia | - | - | - | - | - | - | - | - |
@@ -737,7 +738,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Mega Mundial USA | - | - | - | - | - | - | - | - |
 | Telemúsica Colombia | - | - | - | - | - | - | - | - |
 | Music Top Argentina | - | - | - | - | - | - | - | - |
-| EuroLatina TV | - | - | - | - | - | - | - | - |
 | Latinos 1 TV Suiza | - | - | - | - | - | - | - | - |
 | Portal Foxmix Colombia | - | - | - | - | - | - | - | - |
 | Melody Channel Colombia | - | - | - | - | - | - | - | - |
