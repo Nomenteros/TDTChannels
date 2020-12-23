@@ -66,7 +66,7 @@
 | Loca FM Industrial | [stream](http://s02.fjperezdj.com:8076/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Drum&Bass | [stream](http://s02.fjperezdj.com:8065/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Urban | [mp3](https://locafm-live3.flumotion.com/locafm/live3.mp3) | [web](http://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
-| Clásica FM Radio | [mp3](https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
+| Clásica FM Radio | [stream](https://listen.mixlr.com/5dd4e6b89146e0c91aa873d0626099f2) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
 
 ## Infantiles
@@ -863,7 +863,7 @@
 | Onda Peñes | [mp3](http://5.135.183.124:9279/stream?type=.mp3) | [web](http://www.gaxarte.com) | [logo](https://graph.facebook.com/onda.penes/picture?width=200&height=200) | - | - |
 | Radio Ujo | [stream](http://91.126.223.105:8000/liveHD) | [web](https://www.radioujo.com/) | [logo](https://graph.facebook.com/radioujo/picture?width=200&height=200) | - | WICE |
 | Radio QK | [mp3](https://www.radioqk.org:8443/radioqk_master.mp3) | [web](https://www.radioqk.org/) | [logo](https://graph.facebook.com/radioqkRadioLibre/picture?width=200&height=200) | - | - |
-| Radio San Martín | [stream](http://91.126.223.28:9890/;) | [web](https://sanmartinradio.blogspot.com/) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
+| Radio San Martín | [stream](https://stream.zeno.fm/rd9m3ynpeg0uv/;) | [web](https://sanmartinradio.blogspot.com/) | [logo](https://graph.facebook.com/RadioSanMartin107.1FM/picture?width=200&height=200) | - | - |
 | Onda Langreo | [stream](https://usa3.lhdserver.es:8083/stream) | [web](https://ondalangreo.com/) | [logo](https://graph.facebook.com/ondalangreo/picture?width=200&height=200) | - | - |
 | Langreo Ye-Yé | [stream](https://node-10.zeno.fm/2pt7d8ycxzzuv) | [web](https://radio106.jimdofree.com/langreo-ye-y%C3%A9/) | [logo](https://image.jimcdn.com/app/cms/image/transf/dimension=300x300:format=jpg/path/scd134114b478e3ef/image/ic2677af984751827/version/1601308577/image.jpg) | - | - |
 | Radio 4G Oviedo | [stream](https://server1.radiocast.es:8000/r4govd) | [web](https://lacorredoriasuena.com/) | [logo](https://pbs.twimg.com/profile_images/1276972238009491456/cb9OVQyn_200x200.jpg) | - | - |
