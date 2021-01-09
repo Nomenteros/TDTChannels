@@ -171,6 +171,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Medial TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -179,16 +180,18 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Carmona | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | TeleGilena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Campiña Sur TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Islatel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101 Tele Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Arahal TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Onda Cádiz 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El Correo de Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
@@ -303,6 +306,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Olot TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Blau | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TV L'Hospitalet | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV del Berguedà | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTV El Vendrell | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -326,7 +330,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TV del Baix Guinardó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8tv | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| TV L'Hospitalet | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### Ceuta
 
@@ -355,8 +358,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Navarra TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Parlamento de Navarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleRibera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Parlamento de Navarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Valenciana
 
@@ -399,8 +402,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Extremeña | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Extremeña | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### Galicia
@@ -415,9 +418,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Eventos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Hermes TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Hermes TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Auria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Nós TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
@@ -453,17 +456,17 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | ETB 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ETB Eventos 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ETB Eventos 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Hamaika Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hamaika TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Goiena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TeleDonosti | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Goiena Eus | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Goierri Irrati Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Durangaldeko Telebista | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Erlo Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Oizmendi Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Urola Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Goierri Irrati TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Durangaldeko TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Erlo TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleDonosti | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Oizmendi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Urola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### P. de Asturias
 
@@ -478,8 +481,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | 7 R. de Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleArchena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 6 Totana | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Int. Europa
@@ -563,6 +566,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Teleantioquia Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Señal Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telecaribe Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Canal TRO Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Telepacífico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Todo Noticias Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | C5N Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -601,7 +605,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Teletica Costa Rica | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| TV Cultura Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Cultura Brasil | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ## Int. Asia
 
@@ -634,7 +638,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Classic Arts Showcase | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | American Horrors Movies | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cachipum TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| ACS Network | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mr Bean 24h | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Deportivos Int.
@@ -741,6 +744,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Melody Channel Colombia | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - | - |
+| Urban Revolution | - | - | - | - | - | - | - | - |
+| Onda Digital Perú | - | - | - | - | - | - | - | - |
 
 ## Religiosos
 
