@@ -474,7 +474,7 @@
 | Altafulla Ràdio | [mp3](http://streaming.enantena.com:8000/altafulla128.mp3) - [stream](https://enacast.com/altafullaradio/streams/HD) | [web](http://altafullaradio.cat/) | [logo](https://graph.facebook.com/altafulla.radio/picture?width=200&height=200) | - | - |
 | Radio Kanal BCN | [stream](https://radioserver10.profesionalhosting.com:60970/stream) | [web](https://radiokanalbarcelona.com/) | [logo](https://graph.facebook.com/radiokanalbarcelona/picture?width=200&height=200) | - | WICE |
 | La Marina FM | [stream](http://endirecte.amcl.cat:8000/lamarinafm) | [web](http://lamarina.cat/endirecte/) | [logo](https://graph.facebook.com/lamarinacat/picture?width=200&height=200) | - | WICE |
-| Mataró Ràdio | [m3u8](https://liveingesta118.cdnmedia.tv/m1tvlive/smil:mataroradio.smil/playlist.m3u8) | [web](https://mataroaudiovisual.alacarta.cat/directeR) | [logo](https://graph.facebook.com/mataroaudiovisual/picture?width=200&height=200) | - | UAGLI |
+| Mataró Ràdio | [stream](https://radio.cdnmedia.tv/radio/8030/mataroradio) | [web](https://mataroaudiovisual.alacarta.cat/directeR) | [logo](https://graph.facebook.com/mataroaudiovisual/picture?width=200&height=200) | - | - |
 | Cooltura FM | [mp3](http://streamserver1.somosdigital.net:8415/;stream.mp3) | [web](http://coolturafm.com/) | [logo](https://graph.facebook.com/coolturafm/picture?width=200&height=200) | - | - |
 | Radio Bronka | [ogg](http://stream.nonfqdn.net:8000/rbronka.ogg) | [web](http://radiobronka.info/) | [logo](https://graph.facebook.com/RadioBronka/picture?width=200&height=200) | - | - |
 | Ràdio Silenci | [mp3](http://streaming.enacast.com:8000/radiosilenci56.mp3) - [stream](https://enacast.com/radiosilenci/streams/HD) | [web](http://www.radiosilenci.cat) | [logo](https://graph.facebook.com/rsilenci/picture?width=200&height=200) | - | - |
@@ -486,7 +486,7 @@
 | RAP107 | [mp3](http://streaming.enantena.com:8000/rap56.mp3) - [stream](https://enacast.com/rap107/streams/SD) | [web](https://enacast.com/rap107/) | [logo](https://graph.facebook.com/rap107/picture?width=200&height=200) | - | - |
 | Ràdio Caldes | [mp3](http://streaming.enantena.com:8000/radiocaldes56.mp3) - [stream](https://enacast.com/radiocaldes/streams/HD) | [web](http://www.radiocaldes.cat/) | [logo](https://graph.facebook.com/RadioCaldes107.8fm/picture?width=200&height=200) | - | - |
 | Ràdio Cubelles | [mp3](http://streaming.enantena.com:8000/cubelles128.mp3) - [stream](https://enacast.com/radiocubelles/streams/HD) | [web](http://www.radiocubelles.cat/) | [logo](https://graph.facebook.com/radiocubelles/picture?width=200&height=200) | - | - |
-| Ràdio Granollers | [stream](http://eu7.fastcast4u.com/proxy/radiogranollers/?mp=/stream) | [web](http://www.gasl.cat/) | [logo](https://graph.facebook.com/RadioGranollers/picture?width=200&height=200) | - | - |
+| Ràdio Granollers | [stream](https://radio.cdnmedia.tv/radio/8120/radiogranollers) | [web](http://www.gasl.cat/) | [logo](https://graph.facebook.com/RadioGranollers/picture?width=200&height=200) | - | - |
 | Ràdio Maricel | [mp3](http://94.23.87.98:8065/;&type=mp3) | [web](http://www.radiomaricel.cat/) | [logo](https://graph.facebook.com/radiomaricel/picture?width=200&height=200) | - | - |
 | Styl Manresa | [stream](http://s2.nexuscast.com:8024/;) | [web](http://www.stylfm.com/) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
 | Styl Classics Manresa | [stream](http://s2.nexuscast.com:8042/;) | [web](http://www.stylclassics.com/) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
@@ -794,6 +794,9 @@
 | SER Rioja | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_RIOJA.mp3) | [web](https://play.cadenaser.com/emisora/radio_rioja/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | COPE Logroño | [mp3](https://wecast-b01-02.flumotion.com/copesedes/logrono.mp3) | [web](https://www.cope.es/directos/logrono) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Logroño | [m3u8](https://livefastly-webs.ondacero.es/logrono-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/rioja/rioja/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
+| Onda Cero Rioja | [m3u8](https://server10.emitironline.com:8200/stream) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
+| Europa FM Rioja | [stream](https://server10.emitironline.com:8202/stream) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
+| Melodía FM Rioja | [stream](https://server10.emitironline.com:8204/stream) | [web](https://mediosriojanos.com/medios-riojanos-directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.radioarnedo.com/escuchar-radio-online/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
 | Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es/) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | WICE |
 
