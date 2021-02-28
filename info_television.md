@@ -82,6 +82,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | AS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emisión diaria entre las 21 - 23h |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Infantiles
 
@@ -165,10 +166,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | OndaMezquita TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
-| Más TV Huelva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Telequivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
@@ -581,6 +582,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Azteca 7 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imagen TV Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| El Financiero Mexico | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Excelsior Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Televisa News Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ADN40 Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -623,7 +625,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TeleAmazonas Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Cubavisión TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cubavisión TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Telemicro República Dominicana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Color Visión República Dominicana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -654,13 +656,14 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Nippon News TV Japan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Arirang TV Korea | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | KBS World Korea | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
-| Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Al Arabiya Emiratos Árabes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ary News Pakistan | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | India Today | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | New Delhi TV 24x7 India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Republic World TV India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Channel NewsAsia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVBS News Taiwán | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | SET News Taiwán | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | UNTV News & Rescue Filipinas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTHK 31 32 Hong Kong | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
