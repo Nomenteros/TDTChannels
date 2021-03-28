@@ -308,7 +308,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Reus TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Empordà TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | BDN | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| TAC 12 | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| TAC 12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terrassa | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal 21 Ebre | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Lleida TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -530,10 +530,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTP 1 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| RTP 2 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| RTP 3 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| RTP Madeira Açores Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| RTP 1 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| RTP 2 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| RTP 3 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| RTP Madeira Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| RTP Açores Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | Porto Canal Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTÉ News Irlanda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -597,8 +598,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Pública Argentina | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| ATV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| ATV+ Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Willax Perú | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TV Perú Noticias | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -619,6 +618,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Unitel Bolivia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Red Pat Bolivia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Telemicro República Dominicana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -653,6 +653,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | KBS World Korea | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Al Arabiya Emiratos Árabes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ary News Pakistan | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
+| Geo News Pakistan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Express News Pakistan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | India Today | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | New Delhi TV 24x7 India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Republic World TV India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -661,6 +663,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVBS News Taiwán | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | SET News Taiwán | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | UNTV News & Rescue Filipinas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVK Camboya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTHK 31 32 Hong Kong | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teledifusão de Macau | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Oman TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -698,8 +701,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Olympic Channel TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
-| Olympic Channel Ceremonies | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
-| Olympic Channel On Ice | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | FIBA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -733,7 +734,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Radio Montecarlo Italia | - | - | - | - | - | - | - | - |
 | Kronehit Austria | - | - | - | - | - | - | - | - |
 | QMusic Holanda | - | - | - | - | - | - | - | - |
-| NRJ Hits Bélgica | - | - | - | - | - | - | - | - |
 | 4FUN TV Polonia | - | - | - | - | - | - | - | - |
 | Tomorrowland TV | - | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - | - |
