@@ -50,7 +50,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | - | - | - | - | - | - | - | - | - |
 | 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nius | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Euronews | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| Euronews | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El País | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -518,6 +518,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NDR Niedersachsen Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GB News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTP 1 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | RTP 2 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | RTP 3 Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
@@ -574,6 +575,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleantioquia Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Señal Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telepacifico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Telecaribe Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Canal TRO Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Todo Noticias Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -772,12 +774,13 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Worldwide Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Mediteraneo Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Rivijera Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Jeka Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Hip Hop Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Gen Z Serbia | - | - | - | - | - | - | - | - |
-| Muzzik AMVA 2020 Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Replay Serbia | - | - | - | - | - | - | - | - |
+| Muzzik ZZ TV Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Sense Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Glazzba Serbia | - | - | - | - | - | - | - | - |
+| Muzzik T REX Serbia | - | - | - | - | - | - | - | - |
+| Muzzik ZZ 4000 Serbia | - | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
 | La Karibeña Perú | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
