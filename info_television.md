@@ -43,6 +43,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Paramount Network | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | BOM Cine | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
+| UHD Spain | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Informativos
 
@@ -149,7 +150,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huelva TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Canal 45 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Málaga | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Costa Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Córdoba TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -176,7 +177,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Telequivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Telemotril | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -189,14 +189,14 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV Carmona | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | TeleGilena | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Granada | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Campiña Sur TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Islatel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Córdoba | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Sevilla | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 8 TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101 Tele Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -227,7 +227,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tindaya TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Biosfera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Biosfera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
@@ -466,10 +466,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Hamaika TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Goiena Eus | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Goierri Irrati TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Durangaldeko TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Goierri Irrati TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Durangaldeko TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Xaloa Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Erlo TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Oizmendi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Urola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -664,6 +665,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Channels TV Nigeria | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | NBS TV Uganda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVGE 1 Guinea Ecuatorial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RASD TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. Otros
 
