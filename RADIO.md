@@ -68,6 +68,7 @@
 | Loca FM Urban | [mp3](https://locafm-live3.flumotion.com/locafm/live3.mp3) | [web](http://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Clásica FM Radio | [stream](https://edge.mixlr.com/channel/asnfw) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
+| La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es/?page_id=80) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
 
 ## Infantiles
 
@@ -172,6 +173,7 @@
 | LOS40 Costa de la Luz | [stream](http://5.135.183.124:8326/stream) | [web](http://www.los40costadelaluz.com/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Guadix | [stream](http://20873.live.streamtheworld.com:3690/LOS40_ASO_GUADIX_SC) | [web](https://cadenaser.com/emisora/radio_guadix/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | LOS40 Indalo | [stream](http://212.83.164.82:8011/40indalo.mp3) | [web](http://www.seralmeria.com/onlineradio/40indalo.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
+| Europa FM Huelva | [stream](https://stm2.emiteonline.com:9001/europafmhuelva) | [web](http://www.andalucia.europafm.online/) | [logo](https://graph.facebook.com/EuropaFmAndalucia/picture?width=200&height=200) | - | - |
 | Cadena 100 Campo de Gibraltar | [mp3](https://node-07.zeno.fm/fkq1xae5bzzuv.mp3) | [web](https://www.copecampodegibraltar.com) | [logo](https://graph.facebook.com/CopeCampoDeGibraltar/picture?width=200&height=200) | - | - |
 | Cadena Dial Almería | [mp3](http://212.83.164.82:8002/dial.mp3) | [web](http://www.seralmeria.com/onlineradio/dial.php) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
 | Cadena Dial Andalucia Este | [stream](http://streaming5.elitecomunicacion.es:8226/stream) | [web](http://dialandaluciaeste.com/) | [logo](https://graph.facebook.com/cadenadial/picture?width=200&height=200) | - | - |
@@ -288,6 +290,10 @@
 | COPE Gran Canaria | [mp3](https://wecast-b03-01.flumotion.com/copesedes/laspalmas.mp3) | [web](https://www.cope.es/directos/gran-canaria) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Tenerife | [mp3](https://wecast-m01-03.flumotion.com/copesedes/tenerife.mp3) | [web](https://www.cope.es/directos/tenerife) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Las Palmas | [m3u8](https://livefastly-webs.ondacero.es/canarias-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/canarias/las-palmas/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_LasPalmas.Radio | - |
+| Europa FM Tenerife Sur / La Gomera | [stream](http://str1.mediatelekom.net:9950/live) | [web](https://www.europafmtenerife.com) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
+| Europa FM Tenerife Norte / La Palma | [stream](http://str2.mediatelekom.net:9968/) | [web](https://www.europafmtenerife.com/tenerife-norte-la-palma/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
+| Europa FM Santa Cruz | [stream](http://str1.mediatelekom.net:8010/) | [web](https://www.europafmtenerife.com/santa-cruz-la-laguna/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
+| Europa FM Lanzarote / Fuerteventura | [stream](http://str1.mediatelekom.net:8097/) | [web](https://www.europafmtenerife.com/lanzarote-fuerteventura/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Kiss FM Canarias | [mp3](http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3) | [web](http://kissfm.es/player/canarias.html) | [logo](https://graph.facebook.com/kissfm.es/picture?width=200&height=200) | - | - |
 | Radio Marca Tenerife | [stream](https://cervera.eldialdigital.com:22131/stream) | [web](https://radiomarcatenerife.com/) | [logo](https://graph.facebook.com/RadioMarcaTfe/picture?width=200&height=200) | - | WICE |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | - | WICE |
@@ -299,13 +305,14 @@
 | La Diez Radio | [stream](http://panel.soydigital.fm:8012/live) | [web](https://www.ladiez.es/) | [logo](https://graph.facebook.com/ladiezradio/picture?width=200&height=200) | - | - |
 | El Pejeverde | [m3u8](https://5c0956165db0b.streamlock.net/radio/lancelot.stream_aac/playlist.m3u8) | [web](http://www.elpejeverde.com/) | [logo](https://graph.facebook.com/552642618121698/picture?width=200&height=200) | - | - |
 | Radio Guiniguada | [stream](http://185.129.248.251:9874/;) | [web](http://www.radioguiniguada.com) | [logo](https://graph.facebook.com/radioguiniguada/picture?width=200&height=200) | - | - |
-| Radio Gigante | [stream](https://server8.emitironline.com:18163/stream) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/741011612731578/picture?width=200&height=200) | - | - |
-| Radio San Borondón | [stream](http://srv0435.lcinternet.com:9516/stream) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | [logo](https://graph.facebook.com/413581508699797/picture?width=200&height=200) | - | WICE |
+| Radio Gigante | [stream](https://server8.emitironline.com:18163/stream) | [web](https://radiogigante.com/) | [logo](https://graph.facebook.com/radiogigantecanarias/picture?width=200&height=200) | - | - |
+| Radio Carnaval Tenerife | [stream](https://eu1.lhdserver.es:2969/stream) | [web](http://factoriadecarnaval.com) | [logo](https://graph.facebook.com/factoriadecarnaval/picture?width=200&height=200) | - | - |
+| Radio San Borondón | [stream](http://srv0435.lcinternet.com:9516/stream) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | [logo](https://graph.facebook.com/RSanBorondon/picture?width=200&height=200) | - | WICE |
 | Radio La Guancha | [stream](http://shoutcastradiolaguancha.duckdns.org:8002/;) | [web](http://www.radiolaguancha.com/?page_id=23) | [logo](https://graph.facebook.com/radiolaguancha/picture?width=200&height=200) | - | - |
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com/) | [logo](https://yt3.ggpht.com/ytc/AKedOLQaktY1_Rv_MrWTve_Lj8JyaB9EektpPVByC6G0=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | Radio Teide | [stream](http://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu/) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
 | Canal 11 Radio | [stream](http://panel.soydigital.fm:8008/stream) | [web](http://www.canal11lapalma.net/escuchanos.html) | [logo](https://graph.facebook.com/189726651071598/picture?width=200&height=200) | - | - |
-| MUZ.FM | [mp3](http://185.229.9.121:8000/muzfm.mp3) | [web](http://muz.fm/?lang=es) | [logo](https://graph.facebook.com/muzfmradio/picture?width=200&height=200) | - | - |
+| MUZ.FM | [mp3](http://185.229.9.121:8000/muzfm.mp3) | [web](http://muz.fm) | [logo](https://graph.facebook.com/muzfmradio/picture?width=200&height=200) | - | - |
 
 ### Cantabria
 
@@ -324,6 +331,7 @@
 | Onda Occidental | [stream](http://server9.emitironline.com:10944/) | [web](http://www.ondaoccidental.es/) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=200&height=200) | - | - |
 | Radio Camargo | [mp3](http://91.121.77.67:8048/;.mp3) | [web](http://www.radiocamargo.es/) | [logo](https://graph.facebook.com/RadioCamargo100.4FM/picture?width=200&height=200) | - | - |
 | Distinta FM | [mp3](http://ns100.emisionlocal.com:8050/;stream.mp3) | [web](http://distintafm.es/) | [logo](https://graph.facebook.com/distintafm/picture?width=200&height=200) | - | - |
+| Radio Merindad de Campoo | [stream](http://45.80.86.10:8098/stream) | [web](http://www.radiomc.es) | [logo](https://graph.facebook.com/103380741524107/picture?width=200&height=200) | - | - |
 | Radio Santoña | [mp3](http://server10.emitironline.com:10212/radio.mp3) | [web](http://www.xn--santoa-0wa.es/escuchar-radio-santo%C3%B1a) | [logo](https://graph.facebook.com/radiosantona107.3/picture?width=200&height=200) | - | - |
 | Top FM | [stream](http://topcantabriafm.myddns.me:8080/live) | [web](http://www.topcantabriafm.com/radio-online/) | [logo](https://graph.facebook.com/259600300728660/picture?width=200&height=200) | - | WICE |
 | Cadena Mix | [stream](https://ns6.emisionlocal.com/proxy/radiomix?mp=%2Fstream) | [web](http://www.cadenamix.es/) | [logo](https://graph.facebook.com/cadenamixfm/picture?width=200&height=200) | - | - |
