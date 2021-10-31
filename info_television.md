@@ -99,6 +99,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Cartoon Network Latino | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LEGO Ninjago | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -230,9 +231,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Biosfera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Este Canal TV | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Ahora TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Telde TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -254,8 +253,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Guada TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| CanalImagen Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| InfoCanal Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| CanalImagen Almansa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| InfoCanal Almansa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Manzanares10TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -469,10 +468,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Hamaika TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele 7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Goiena Eus | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Durangaldeko TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Goierri Irrati TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 28 Kanala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Durangaldeko TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TeleBilbao | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Erlo TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Oizmendi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Urola TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -562,7 +561,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Dabl USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Zee Mundo USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Newsmax TV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NTN24 América | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 6 Multimedios Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Milenio Mexico | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -618,7 +616,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Unicanal Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nicavisión TV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Multimedios Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleDiario Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Nex TV Panamá | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | WIPR TV Puerto Rico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -809,9 +807,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Solidaria TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Betania TV España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Betania TV España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | El Sembrador TV Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Enlace TV Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Emmanuel TV Nigeria | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
