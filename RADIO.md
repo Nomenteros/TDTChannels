@@ -33,7 +33,7 @@
 | Hit FM | [mp3](https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3) | [web](https://www.hitfm.es/) | [logo](https://graph.facebook.com/hitfm.es/picture?width=200&height=200) | HitFM.Radio | - |
 | MegaStar FM | [m3u8](https://megastar-cope.flumotion.com/playlist.m3u8) | [web](https://www.megastar.fm/) | [logo](https://graph.facebook.com/MegaStarFM/picture?width=200&height=200) | MegaStar.Radio | - |
 | Melodía FM | [m3u8](https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8) | [web](https://www.melodia-fm.com/directo/) | [logo](https://graph.facebook.com/tumelodiafm/picture?width=200&height=200) | - | - |
-| Loca FM | [mp3](https://locafm-live1.flumotion.com/locafm/live1.mp3) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFM.Radio | - |
+| Loca FM | [stream](http://81.46.247.191:8045/live) | [web](http://www.locafm.com/) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFM.Radio | - |
 | Radio Clásica RNE | [m3u8](https://rtvelivestreamv3.akamaized.net/rne_r2_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-clasica/) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | RNEClasica.Radio | - |
 | Radio María | [mp3](http://dreamsiteradiocp.com:8060/;stream.mp3) | [web](https://www.radiomaria.es/directo) | [logo](https://graph.facebook.com/RadioMariaSpa/picture?width=200&height=200) | RadioMaria.Radio | - |
 
@@ -65,7 +65,7 @@
 | Loca FM Loca Pride | [stream](http://s02.fjperezdj.com:8070/live) | [web](http://www.locafm.com/loca-pride/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Industrial | [stream](http://s02.fjperezdj.com:8076/live) | [web](http://www.locafm.com/industrial/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Drum&Bass | [stream](http://s02.fjperezdj.com:8065/live) | [web](http://www.locafm.com/drum-bass/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
-| Loca FM Urban | [mp3](https://locafm-live3.flumotion.com/locafm/live3.mp3) | [web](http://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
+| Loca FM Urban | [stream](http://81.25.120.165:8015/live) | [web](http://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Clásica FM Radio | [stream](https://edge.mixlr.com/channel/asnfw) | [web](https://clasicafmradio.es/cfm-escucha/) | [logo](https://graph.facebook.com/clasicafmradio/picture?width=200&height=200) | - | - |
 | digitalHits FM | [stream](http://digitalhits.frilab.com:8000/digitalhits;) | [web](http://www.digitalhits.cat/directe/) | [logo](https://graph.facebook.com/digitalhits/picture?width=200&height=200) | - | - |
 | La Urban Radio | [mp3](https://st1.urbanrevolution.es:8443/laurbanfm.mp3) | [web](https://www.urbanrevolution.es/?page_id=80) | [logo](https://graph.facebook.com/fmurban/picture?width=200&height=200) | - | - |
