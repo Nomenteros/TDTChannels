@@ -512,7 +512,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| FOX News USA | [m3u8 # EN](https://cdn1-7p.teleuptv.net/c4d0569e-cfdc-4608-b9b4-01802c17f447/index.m3u8) | [web](https://www.foxnews.com) | [logo](https://graph.facebook.com/FOXNews/picture?width=200&height=200) | - | - |
+| FOX News USA | [m3u8 # EN](https://cdn1-7p.teleuptv.net/c4d0569e-cfdc-4608-b9b4-01802c17f447/index.m3u8) | [web](https://www.foxnews.com) | [logo](https://graph.facebook.com/FOXNews/picture?width=200&height=200) | - | UAG |
 | ABC News USA | [m3u8 # EN](https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8) | [web](https://abcnews.go.com/Live) | [logo](https://graph.facebook.com/ABCNews/picture?width=200&height=200) | - | - |
 | NBC News USA | [youtube # EN](https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live) | [web](https://www.nbcnews.com/now) | [logo](https://graph.facebook.com/NBCNews/picture?width=200&height=200) | - | EMB |
 | CBS News USA | [m3u8 # EN](https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8) | [web](https://www.cbsnews.com/live/) | [logo](https://graph.facebook.com/CBSNews/picture?width=200&height=200) | - | - |
@@ -777,7 +777,6 @@
 | RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/television/) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg) | - | - |
 | Solidaria TV España | [m3u8](https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8) | [web](https://es.solidariatv.com/en-vivo) | [logo](https://graph.facebook.com/solidariatv/picture?width=200&height=200) | - | - |
 | TBN España | [m3u8](https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt_new.stream_all/playlist_DVR.m3u8) | [web](https://xn--tbnespaa-j3a.es) | [logo](https://graph.facebook.com/TBNEspana/picture?width=200&height=200) | - | - |
-| Betania TV España | [youtube](https://www.youtube.com/channel/UCkMli1Vn4L17IoTLI0GEyHQ/live) | [web](https://www.elizagipuzkoa.org/base.php) | [logo](https://graph.facebook.com/152714321436277/picture?width=200&height=200) | - | EMB |
 | Cetelmon TV España | [m3u8](http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8) | [web](https://www.cetelmon.tv) | [logo](https://graph.facebook.com/cetelmon.television/picture?width=200&height=200) | - | - |
 | Vatican News | [youtube](https://www.youtube.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ/live) | [web](https://www.vaticannews.va/es.html) | [logo](https://graph.facebook.com/vaticannews.es/picture?width=200&height=200) | - | EMB |
 | El Sembrador TV Europa | [m3u8](https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8) | [web](https://elsembradoreuropa.com/tv-en-vivo) | [logo](https://graph.facebook.com/elsembradoresne/picture?width=200&height=200) | - | - |
