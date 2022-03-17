@@ -97,7 +97,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Cartoon Network Latino | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cartoon Network Latino | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -176,6 +176,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 8TV Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Carmona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101 TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -198,6 +199,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | Aragón TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Aragón Noticias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Calamocha TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 25 Barbastro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 15tv Zaragoza | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -437,7 +439,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | TV Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7 La Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Parlamento de La Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Parlamento de La Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual |
 
 ### Melilla
 
@@ -519,7 +521,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTÉ News Irlanda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televixin Malta | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TRT Haber Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTCG Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTCG SAT Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televizija Eslovenia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVR Int. Rumania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RÚV Islandia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -800,6 +802,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Enlace TV Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Emmanuel TV Nigeria | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Emmanuel TV Nigeria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Redevida Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 3ABN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
