@@ -57,6 +57,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Libertad Digital TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Negocios TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7NN Noticias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El Confidencial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Deportivos
 
@@ -159,12 +160,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | OndaMezquita 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | PTV Linares | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Telequivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
+| Telequivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Telemotril | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Medial TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -237,8 +238,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Castilla-La Mancha Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Hellín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Guadalajara Media | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Guada TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Guada TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalImagen Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
@@ -381,13 +381,13 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Burriana TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Tevequatre TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Almassora | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐❗ | No disponible para W3U en Android TV |
+| TV Almassora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda 15 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -607,7 +607,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Unicanal Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nicavisión TV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | WTV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 33 El Salvador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 33 El Salvador | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | TeleDiario Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Nex TV Panamá | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -727,7 +727,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | The K-POP Korea | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
 | Rock TV Romania | - | - | - | - | - | - | - | - |
-| Radio 21 Rock'n Pop Alemania | - | - | - | - | - | - | - | - |
 | RadioU TV | - | - | - | - | - | - | - | - |
 | First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - | - |
