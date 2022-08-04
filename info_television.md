@@ -78,7 +78,6 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | RCD Espanyol de Barcelona TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emite eventualmente |
 | Cádiz CF TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | RCD Mallorca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emite eventualmente |
-| UD Las Palmas TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LaLiga Santander | ▶ | ▶ | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | LaLiga SmartBank | ▶ | ▶ | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Real Federación Española de Fútbol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emite eventualmente, posible emisión geolocalizada a España |
@@ -118,7 +117,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Radio Nacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Del 40 al 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Sábados de 10 a 14 |
-| De sábado con Christian Gálvez | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Sábados de 9 a 14 |
 
 ## Autonómicos
 
@@ -466,7 +464,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | TPA7 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| EsAsturiasTV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | El Comercio Audiovisual | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### R. de Murcia
@@ -491,7 +488,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Euronews Internacional | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | CNN Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bloomberg Europe | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| France 24 Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| France 24 Francia | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | BFM TV Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV5Monde Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | franceinfo: Francia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
