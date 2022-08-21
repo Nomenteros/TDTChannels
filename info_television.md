@@ -55,7 +55,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Libertad Digital TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Negocios TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Negocios TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 7NN Noticias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Confidencial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -126,7 +126,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Emite en directo a través de Facebook |
+| 7TV Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite, previa subscripción en su web |
 | Jerez TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -152,10 +152,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Lebrija TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Jerez TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| OndaMezquita 7 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| OndaMezquita 7 TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | PTV Linares | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Écija Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
@@ -213,6 +214,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Biosfera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Este Canal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Telde TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -326,7 +328,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| Ceuta TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ceuta TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite en su web |
 | RTVCE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Faro | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
@@ -340,7 +342,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Teleganés | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Déjate de Historias TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Telesur Madrid | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Telesur Madrid | No emite en directo por Internet |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GCM TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nesting TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -376,15 +378,18 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | telesafor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Tevequatre TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Almassora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda 15 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 3 Biar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ràdio Bocairent TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro Valencia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ciudades Del Ocio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisión de Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -494,8 +499,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | franceinfo: Francia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | CNEWS Francia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Rai News 24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| DMAX Discovery Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Real Time Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Sport Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tg La 7 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tg Lad 7 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | DW Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Das Erste Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | WDR Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -507,6 +513,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTP 3 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP Madeira Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP Açores Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| CNN Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | Porto Canal Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTÉ News Irlanda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -514,7 +521,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TRT Haber Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTCG SAT Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televizija Eslovenia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVR Int. Rumania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RÚV Islandia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 1+1 Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -588,7 +594,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Red Pat Bolivia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Cubavisión TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Cubavisión TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Telemicro República Dominicana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Color Visión República Dominicana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -601,12 +607,11 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Canal 33 El Salvador | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | TeleDiario Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Trece Costa Rica | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| WIPR TV Puerto Rico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CNN Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | SBT Interior Brasil | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Rede Massa Brasil |  ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Trinidad and Tobago Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Trinidad and Tobago Television | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ## Int. Asia
 
@@ -661,7 +666,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Tastemade | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fashion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Miami TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Locomotion TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Classic Arts Showcase | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | American Horrors Movies | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mr Bean 24h | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
@@ -680,8 +684,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| OnlyMotors | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| MotorTrend Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Best Cable Sports Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Musicales
@@ -695,6 +697,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | EuroLatina TV España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Spektra TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | STZ Telebista España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| VIVA RTV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTL 102.5 Italia | - | - | - | - | - | - | - | - |
 | Virgin Radio Italia | - | - | - | - | - | - | - | - |
 | R 101 Italia | - | - | - | - | - | - | - | - |
