@@ -275,8 +275,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con Super3 |
 | Super3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con 33 |
-| CCMA Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| CCMA Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CCMA Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| CCMA Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| CCMA Exclusiu 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -541,7 +542,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CourtTV USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Public | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NASA TV Media | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| NASA TV ISS Views | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | The Weather Channel USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | WeatherNation USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Entertainment Tonight USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
