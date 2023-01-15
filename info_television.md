@@ -166,7 +166,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101 TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 8TV Jerez | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Hoy Jerez | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -217,6 +217,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Telde TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Fuerteventura TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Afortunadas TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cantabria
@@ -284,7 +285,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | betevé | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Fibracat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -345,7 +345,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Déjate de Historias TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Telesur Madrid | No emite en directo por Internet |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| GCM TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Nesting TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | IBEROAMERICA TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -403,6 +403,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | - | - | - | - | - | - | - | - | - |
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | NONAV |
 | TV Extremeña | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Nuestra Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Zafra TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cáceres Tevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -414,6 +415,9 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | TVG | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Xabarin | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Pequerrech@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Cativ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Mociñ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -785,7 +789,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Betania TV España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Cetelmon España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| El Sembrador TV Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ESNE | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Enlace TV Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
