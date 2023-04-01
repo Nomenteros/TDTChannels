@@ -61,6 +61,7 @@
 | RCD Espanyol de Barcelona TV | [youtube](https://www.youtube.com/espanyoltv/live) | [web](https://www.rcdespanyol.com) | [logo](https://graph.facebook.com/RCDEspanyol/picture?width=200&height=200) | - | - |
 | Cádiz CF TV | - | [web](https://tv.cadizcf.com/directo) | [logo](https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200) | - | - |
 | RCD Mallorca TV | [youtube](https://www.youtube.com/c/OficialRCDMallorca/live) | [web](https://www.rcdmallorca.es/contenidos/videos) | [logo](https://graph.facebook.com/RCDMallorcaOficial/picture?width=200&height=200) | - | - |
+| UD Las Palmas TV | [m3u8](https://cdn306.fractalmedia.es/live318/hls/cudtv/master.m3u8) | [web](https://playud.udlaspalmas.es/es/udtv-en-directo) | [logo](https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200) | - | - |
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) | [web](https://www.marca.com) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com) | [logo](https://graph.facebook.com/diarioas/picture?width=200&height=200) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB |
@@ -293,7 +294,7 @@
 | Canal Reus TV | [m3u8](https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8?DVR) | [web](http://www.canalreustv.cat) | [logo](https://graph.facebook.com/canalreustelevisio/picture?width=200&height=200) | - | UAGLI |
 | El 9 TV | [m3u8](https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://el9nou.cat/el9tv/) | [logo](https://graph.facebook.com/el9nou/picture?width=200&height=200) | - | UAGLI |
 | Empordà TV | [m3u8](https://liveingesta318.cdnmedia.tv/empordatvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://www.empordadigital.cat/directe/) | [logo](https://graph.facebook.com/empordatv/picture?width=200&height=200) | - | UAGLI |
-| BDN | [m3u8](https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://www.bdncom.cat/directe/) | [logo](https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_200x200.jpg) | - | UAGLI |
+| BDN | [m3u8](https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8?DVR) | [web](https://www.bdncom.cat/directe/) | [logo](https://pbs.twimg.com/profile_images/1633827789844680708/s_0AFwp6_200x200.jpg) | - | UAGLI |
 | TAC 12 | [m3u8](https://ingest1-video.streaming-pro.com/nimble/tac12/playlist.m3u8) | [web](https://www.tac12.tv/en-directe) | [logo](https://graph.facebook.com/tacdotze/picture?width=200&height=200) | - | - |
 | Canal Terrassa | [m3u8](https://liveingesta318.cdnmedia.tv/canalterrassatvlive/smil:canalterrassatv.smil/playlist.m3u8?DVR) | [web](https://terrassadigital.cat/televisio/) | [logo](https://graph.facebook.com/canalterrassa/picture?width=200&height=200) | - | UAGLI |
 | Canal 21 Ebre | [m3u8](https://liveingesta318.cdnmedia.tv/canal21ebrelive/smil:canal21.smil/playlist.m3u8?DVR) | [web](https://www.canal21ebre.com/en-directe/) | [logo](https://graph.facebook.com/canal21televisio/picture?width=200&height=200) | - | UAGLI |
@@ -382,7 +383,7 @@
 | Burriana TV | [m3u8](https://www.burrianateve.com/hls/btv.m3u8) | [web](https://www.burrianateve.com/burrianateve-en-directe/) | [logo](https://graph.facebook.com/burrianateve/picture?width=200&height=200) | - | - |
 | Distrito TV Valencia | [m3u8](https://live.yowi.tv/90fcb0a637f74c14e323/master.m3u8) | [web](https://eldistrito.es/distrito-tv-llega-a-la-comunidad-valenciana-a-traves-de-la-tdt/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | NONAV |
 | telesafor | [m3u8](http://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://graph.facebook.com/Tele7Safor/picture?width=200&height=200) | - | - |
-| Elche 7 TV | [m3u8](https://elche7tv.gestec-video.com/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://graph.facebook.com/elche7hd/picture?width=200&height=200) | - | NONAV |
+| Elche 7 TV | [m3u8](https://elche7tv.gestec-video.com/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://pbs.twimg.com/profile_images/1543985670066245632/cX_NvIkT_200x200.jpg) | - | NONAV |
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | Tevequatre TV | [m3u8](https://live.yowi.tv/cd05f7e9533c73d701d0_teve4/index.m3u8) | [web](https://teve4.com/directe/) | [logo](https://pbs.twimg.com/profile_images/438700741801177088/MdnaVxtC_200x200.png) | - | NONAV |
 | Maestrat TV | [m3u8](https://stream.maestrat.tv/hls/stream.m3u8) | [web](https://www.maestrat.tv/directe) | [logo](https://graph.facebook.com/maestrat.tv/picture?width=200&height=200) | - | - |
@@ -487,7 +488,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 7 R. de Murcia | [youtube](https://www.youtube.com/@la7tele/live) | [web](https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html) | [logo](https://graph.facebook.com/la7tele/picture?width=200&height=200) | 7RM.TV | EMB |
-| Popular TV Murcia | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8) | [web](https://www.populartvmurcia.com) | [logo](https://pbs.twimg.com/profile_images/1617483558364274688/WmkcLasK_200x200.jpg) | PopularMU.TV | - |
+| Popular TV Murcia | [m3u8](https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8) | [web](https://www.populartvmurcia.com) | [logo](https://pbs.twimg.com/profile_images/1633748275521105920/o_45zyRx_200x200.jpg) | PopularMU.TV | - |
 | Canal 1 Mar Menor Torre Pacheco | [m3u8](https://directo.tuwebtv.es/canal1.m3u8) | [web](https://www.tuwebtv.es/directo.php) | [logo](https://graph.facebook.com/tuwebtv/picture?width=200&height=200) | - | - |
 | Arabi TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8) | [web](https://www.arabitv.es/en-directo/) | [logo](https://yt3.googleusercontent.com/c6kb-kHU27wqpuH7CF4wJqdiczouiXr4zJ1R0lZ6N-2jZscZ9_gn77gDUIykoQLzE56fbxIZhIA=s200) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
