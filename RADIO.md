@@ -265,12 +265,13 @@
 | COPE Pirineos | [stream](http://85.25.217.22:8110/stream) | [web](http://www.radioribagorza.es/copeonline.html) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Teruel | [mp3](https://wecast02-h-cloud.flumotion.com/copesedes/teruel.mp3) | [web](https://www.cope.es/directos/teruel) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Zaragoza | [mp3](https://wecast01-h-cloud.flumotion.com/copesedes/zaragoza.mp3) | [web](https://www.cope.es/directos/zaragoza) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Más Zaragoza | [mp3](https://wecast16-h-cloud.flumotion.com/copesedes/zaragoza-mas.mp3) | [web](https://www.cope.es/directos/cope-mas-zaragoza) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Cope Alto Aragón | [stream](http://server8.emitironline.com:18081/radio) | [web](https://players.emitironline.com/v6/index.php?url=https://server8.emitironline.com:18081/radio&volume=90&autoplay=true&title=Cope%20Alto%20Aragon) | [logo](https://graph.facebook.com/cope.altoaragon/picture?width=200&height=200) | - | - |
 | Onda Cero Cinca | [aac](https://sonando-us.digitalproserver.com/litera.aac) | [web](https://www.ondacerocinca.es) | [logo](https://graph.facebook.com/ondacerocinca/picture?width=200&height=200) | - | - |
 | Onda Cero Huesca | [m3u8](https://livefastly-webs.ondacero.es/huesca-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/aragon/huesca/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Huesca.Radio | - |
 | Onda Cero Teruel | [m3u8](https://livefastly-webs.ondacero.es/teruel-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/aragon/teruel/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Teruel.Radio | - |
 | Onda Cero Zaragoza | [m3u8](https://livefastly-webs.ondacero.es/zaragoza-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/aragon/zaragoza/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Zaragoza.Radio | - |
-| LOS40 Huesca | [stream](https://streamingradio.radiohuesca.com:8061/radio40principales) | [web](https://www.radiohuesca.com/en-directo.html) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | WICE |
+| LOS40 Zaragoza | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ZARAGOZA.mp3) | [web](https://los40.com/tag/zaragoza/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | - | - |
 | MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | - | - |
 | Radio La Comarca | [mp3](https://radioonlinelacomarca.net:8100/ser.mp3) | [web](https://www.lacomarca.net/radio-streaming/?channel=radio-la-comarca) | [logo](https://graph.facebook.com/lacomarcanews/picture?width=200&height=200) | - | - |
 | Ebro FM | [stream](http://s2.prositel.net:7010/ebrofm) | [web](https://diarioaragones.com) | [logo](https://pbs.twimg.com/profile_images/522841077712044032/6hH3W4_F_200x200.jpeg) | - | - |
@@ -434,7 +435,7 @@
 | Onda Cero Segovia | [m3u8](https://livefastly-webs.ondacero.es/segovia-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/castilla-y-leon/segovia/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Segovia.Radio | - |
 | Onda Cero Valladolid | [m3u8](https://livefastly-webs.ondacero.es/valladolid-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/castilla-y-leon/valladolid/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Valladolid.Radio | - |
 | Onda Cero Zamora | [m3u8](https://livefastly-webs.ondacero.es/zamora-pull/audio/master.m3u8) | [web](https://www.ondacero.es/emisoras/castilla-y-leon/zamora/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Zamora.Radio | - |
-| LOS40 León | [stream](http://www.radioleon.com:8000/radio) | [web](http://www.40leon.es/directo/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | los40.Radio | - |
+| LOS40 León | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_LEON.mp3) | [web](http://www.40leon.es/directo/) | [logo](https://graph.facebook.com/los40/picture?width=200&height=200) | los40.Radio | - |
 | Europa FM Medina | [stream](https://server10.emitironline.com:8102/;) | [web](https://www.ondacerotierrasdemedina.es/escuchar-europafm-medina-del-campo-en-directo/) | [logo](https://graph.facebook.com/EuropaFmAndalucia/picture?width=200&height=200) | - | - |
 | esRadio Castilla y León | [aac](https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.aac) | [web](https://esradio.libertaddigital.com/castilla-y-leon/directo.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
 | esRadio Soria | [stream](https://srv6021.dns-lcinternet.com:10256/stream) | [web](https://esradio.libertaddigital.com/castilla-y-leon/soria.html) | [logo](https://graph.facebook.com/esradio/picture?width=200&height=200) | - | - |
@@ -780,9 +781,9 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Radio Galega Música | [mp3](http://wecast-m02-03.flumotion.com/radiogalega-musica/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
-| Son Galicia Radio | [mp3](http://wecast-m02-04.flumotion.com/songalicia/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
-| Radio Picariña | [stream](http://ondemand-crtvg-origin.flumotion.com/videos/rg_infantil/flumotion/amodino.mp3) | [web](http://www.crtvg.es/en-directo/canles-directos-rg/radio-picarina) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
+| Radio Galega | [mp3](http://wecast-b02-03.flumotion.com/radiogalega/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | RadioGalega.Radio | - |
+| Radio Galega Música | [mp3](https://wecast-b03-02.flumotion.com/radiogalega-musica/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/rg-musica) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
+| Son Galicia Radio | [mp3](https://wecast-b03-01.flumotion.com/songalicia/live.mp3) | [web](http://www.crtvg.es/rg/rg-en-directo/canle/son-galicia) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
 | Radio Nacional Galicia | [stream](https://dispatcher.rndfnk.com/crtve/rne1/gal/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_gal-live/3893549/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Galicia | [stream](https://dispatcher.rndfnk.com/crtve/rne5/lcg/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_gal-live/3894729/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio Marca Vigo | [mp3](https://streaming.enacast.com/radiomarcavigoHD.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
@@ -826,6 +827,7 @@
 | Radio Negreira | [stream](https://srv7031.dns-lcinternet.com/8030/stream) | [web](http://concellodenegreira.gal) | [logo](https://graph.facebook.com/radionegreira/picture?width=200&height=200) | - | - |
 | Radio Fene | [stream](https://srv7031.dns-lcinternet.com/8086/stream) | [web](https://www.radiofusion.eu/emisora/radio-fene) | [logo](https://graph.facebook.com/Radiofene/picture?width=200&height=200) | - | - |
 | +Buena FM | [stream](https://sonic.mediatelekom.net/8156/stream) | [web](https://masbuenafm.com) | [logo](https://graph.facebook.com/masbuenafm/picture?width=200&height=200) | - | - |
+| Verbena FM | [stream](https://streaming12.elitecomunicacion.es:8222/stream) | [web](https://verbenafm.com/) | [logo](https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg) | - | - |
 | Radiofusión | [stream](https://srv7031.dns-lcinternet.com/8032/stream) | [web](https://www.radiofusion.eu) | [logo](https://graph.facebook.com/Radiofusionga/picture?width=200&height=200) | - | - |
 
 ### Illes Balears
