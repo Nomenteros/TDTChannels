@@ -242,6 +242,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal 4 Telde TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fuerteventura TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tele Carnaval | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Afortunadas TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cantabria
@@ -265,7 +266,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | InfoCanal Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Manzanares10TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 2000 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -744,7 +744,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Ocko Chequia | - | - | - | - | - | - | - | - |
 | Ocko Star Chequia | - | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - | - |
-| NumberOne Turquía | - | - | - | - | - | - | - | - |
+| NumberOne Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | m2o Italia | - | - | - | - | - | - | - | - |
 | ON TV Portugal | - | - | - | - | - | - | - | - |
 | NRG91 Grecia | - | - | - | - | - | - | - | - |
