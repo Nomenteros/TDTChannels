@@ -171,7 +171,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Luz Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Lebrija TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Jerez TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | OndaMezquita 7 TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -208,7 +207,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Trebujena TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Play Andalucía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | La Fábrica TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -332,10 +330,10 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTV El Vendrell | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Cugat Mèdia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| VOTV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| VOTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Ulldecona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal Taronja Osona i Moianés | ✔ | ✔ | ✔ | - | - | - | ✔ | - |
-| Mataró Audiovisual | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| tvmataró | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTV Vilafranca | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV de Girona | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Piera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -400,7 +398,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Castelló | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Levante TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV de San Vicente | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
