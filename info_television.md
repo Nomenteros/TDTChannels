@@ -38,6 +38,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| GH VIP 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DMAX | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -82,6 +83,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | Emisión diaria entre las 21 - 23h |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 
 ## Infantiles
 
@@ -89,6 +91,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | - | - | - | - | - | - | - | - | - |
 | Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| Kidz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -158,7 +161,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal 45 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Málaga | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Córdoba TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 101TV Sevilla | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| 101TV Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Costa Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleonuba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -192,6 +195,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -265,7 +269,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalImagen Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| InfoCanal Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -349,7 +352,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Fitel Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV10 Sesrovires | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| 25 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Les càmeres d'El Temps | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -374,7 +376,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Telesur Madrid | No emite en directo por Internet |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| IBEROAMERICA TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Foral de Navarra
 
@@ -553,7 +554,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTP Madeira Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP Açores Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | CNN Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
-| Porto Canal Portugal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Porto Canal Portugal | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Digi24 Rumanía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVP Polonia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
@@ -566,6 +567,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 1+1 Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Ukraine 24 Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ICTV Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| ICTV Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Current Time TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Int. América
