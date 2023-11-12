@@ -251,14 +251,13 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
-| GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TV Canaria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ |  |
+| GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | La 1 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Biosfera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -441,6 +440,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Veteve | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Enguera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| 33TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Extremadura
@@ -523,7 +523,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | W3U | más info |
 | - | - | - | - | - | - | - | - | - |
 | TPA7 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Comercio Audiovisual | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 
 ### R. de Murcia
 
@@ -635,9 +634,9 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Willax Perú | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| TV Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| TV Perú Noticias | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Canal IPe Perú | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| TV Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| TV Perú Noticias | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Canal IPe Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | TeleSUR Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Venezolana de Televisión | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
