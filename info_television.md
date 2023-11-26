@@ -23,24 +23,24 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | - | - | - | - | - | - | - | - | - |
 | La 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | La 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| Antena 3 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Cuatro | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Telecinco | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| laSexta | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Neox | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Nova | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Mega | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Atreseries | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| FDF | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Energy | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Divinity | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| Be Mad | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Antena 3 | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Cuatro | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Telecinco | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| laSexta | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Neox | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Nova | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Mega | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Atreseries | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| FDF | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Energy | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Divinity | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| Be Mad | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
-| mtmad 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
-| GH VIP 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| mtmad 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| GH VIP 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| DMAX | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
+| DMAX | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Paramount Network | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | BOM Cine | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -340,12 +340,12 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | BDN | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TAC 12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terrassa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 21 Ebre | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| Canal 21 Ebre | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Lleida TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV Costa Brava | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | La Xarxa | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | Olot TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| Canal Blau | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| Canal Blau | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV L'Hospitalet | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | TV del Berguedà | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -355,8 +355,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | VOTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Ulldecona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal Taronja Osona i Moianés | ✔ | ✔ | ✔ | - | - | - | ✔ | - |
-| tvmataró | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
-| RTV Vilafranca | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
+| tvmataró | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| RTV Vilafranca | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | TV de Girona | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Piera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Cardedeu | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -549,13 +549,14 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | GBC Gibraltar | - | - | - | - | - | - | - | Emisión eventual |
 | Euronews Internacional | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | CNN Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| National Geographic Wild | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Bloomberg Europe | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | France 24 Francia | ✔ | 🌐 | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | BFM TV Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV5Monde Francia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | franceinfo: Francia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | CNEWS Francia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Rai News 24 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Rai News 24 Italia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Sport Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La7 Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La7d Italia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -734,7 +735,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Olympic Channel TV | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | FIBA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
-| Redbull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Red Bull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Channel Fight | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
