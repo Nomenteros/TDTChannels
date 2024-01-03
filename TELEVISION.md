@@ -523,8 +523,8 @@
 | EITB Basque | [m3u8](https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/eitb-basque/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBSAT.TV | - |
 | TVG América | [m3u8](https://america-crtvg.flumotion.com/playlist.m3u8) | [web](http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-america) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
 | Telemadrid Internacional | [m3u8](https://new-international-23.secure2.footprint.net/index.m3u8) | [web](https://www.telemadrid.es/emision-en-directo-telemadrid-int/) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | - |
-| ATV Andorra | [m3u8](https://videos.rtva.ad/live/rtva/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | EXTA |
-| ATV Web Andorra | [m3u8](https://videos.rtva.ad/live/web/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVCW.TV | EXTA |
+| ATV Andorra | [m3u8](https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C021/021/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | EXTA |
+| ATV Web Andorra | [m3u8](https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/022/playlist.m3u8) | [web](https://www.andorradifusio.ad/endirecte/canalweb) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVCW.TV | EXTA |
 | Lòria TV Andorra | [youtube](https://www.youtube.com/channel/UCCCnrECJpv84QKM4olodZOQ/live) | [web](http://loriatv.com) | [logo](https://graph.facebook.com/LoriaTV/picture?width=200&height=200) | - | EMB |
 | GBC Gibraltar | - | [web](https://www.gbc.gi/tv/watch-live) | [logo](https://graph.facebook.com/GBCNewsroom/picture?width=200&height=200) | - | - |
 | Euronews Internacional | [youtube # EN](https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live) - [youtube # FR](https://www.youtube.com/channel/UCW2QcKZiU8aUGg4yxCIditg/live) - [youtube # PT](https://www.youtube.com/channel/UCUmEPYxmnyQDeRUcFkslmQw/live) | [web](https://es.euronews.com/live) | [logo](https://graph.facebook.com/es.euronews/picture?width=200&height=200) | - | EMB |
@@ -586,7 +586,7 @@
 | America's Voice USA | [m3u8 # EN](https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8) | [web](https://americasvoice.news) | [logo](https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200) | - | - |
 | BUZZR TV USA | [m3u8 # EN](https://buzzr-samsungus.amagi.tv/playlist.m3u8) | [web](https://buzzrtv.com/watch) | [logo](https://graph.facebook.com/BUZZRtv/picture?width=200&height=200) | - | - |
 | Newsmax TV USA | [m3u8 # EN](https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8) | [web](https://www.newsmaxtv.com) | [logo](https://graph.facebook.com/newsmax/picture?width=200&height=200) | - | - |
-| America TeVe USA | [m3u8](https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8) | [web](https://www.americateve.com/vivo) | [logo](https://graph.facebook.com/americateve/picture?width=200&height=200) | - | - |
+| America TeVe USA | [m3u8](https://live.gideo.video/americateve2/master.m3u8) | [web](https://www.americateve.com/vivo) | [logo](https://graph.facebook.com/americateve/picture?width=200&height=200) | - | - |
 | NTN24 América | [youtube](https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA/live) | [web](https://www.ntn24.com/en-vivo/) | [logo](https://graph.facebook.com/NTN24/picture?width=200&height=200) | NTN24.TV | EMB |
 | Canal 6 Multimedios Mexico | [m3u8](https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8) | [web](https://www.multimedios.com/video) | [logo](https://graph.facebook.com/multimediostv/picture?width=200&height=200) | - | - |
 | Milenio Mexico | [youtube](https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live) | [web](https://www.milenio.com/mileniotv) | [logo](https://graph.facebook.com/MilenioDiario/picture?width=200&height=200) | - | EMB |
@@ -722,7 +722,7 @@
 | Stadium USA | [m3u8 # EN](https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/8036529875f74c81b5f50851bffbc421/playlist_ssaiM.m3u8) | [web](https://watchstadium.com/live/) | [logo](https://graph.facebook.com/watchstadium/picture?width=200&height=200) | - | - |
 | Garage TV Argentina | [m3u8](https://stream1.sersat.com/hls/garagetv.m3u8) | [web](http://elgarage.com) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | MsMotor TV | - | [web](https://www.msmotor.tv) | [logo](https://graph.facebook.com/msmotortv/picture?width=200&height=200) | - | W3U,EXTA |
-| Best Cable Sports Perú | - | [web](https://bestcableperu.com.pe/tv6.html) | [logo](https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200) | - | W3U,EXTA |
+| Best Cable Sports Perú | - | [web](https://bestcableperu.com.pe/lima/enVivo/bestCableSports) | [logo](https://pbs.twimg.com/profile_images/1574548998999998464/IK17LZ5K_200x200.jpg) | - | W3U,EXTA |
 
 ## Musicales
 
@@ -799,7 +799,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | EWTN España | [m3u8](https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8) - [m3u8 # EN](https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8) | [web](https://ewtn.es/en-directo/) | [logo](https://graph.facebook.com/ewtnespanol/picture?width=200&height=200) | EWTN.TV | - |
-| RTV Diocesana Toledo España | [m3u8](https://live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8) | [web](http://rtvd.org) | [logo](https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_200x200.jpg) | - | - |
+| RTV Diocesana Toledo España | [m3u8](https://live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8) | [web](http://rtvd.org) | [logo](https://pbs.twimg.com/profile_images/1730156030795939840/NtRBSxdr_200x200.jpg) | - | - |
 | Abadia de Montserrat España | [youtube](https://www.youtube.com/channel/UCFrlaCzXVVlK_eiVNvYoezA/live) | [web](https://abadiamontserrat.cat/montserrat-tv/) | [logo](https://estatics.montserratvisita.com/img/imgTxtGenerals/foto_banners_nous_base117.jpg) | - | EMB |
 | Ecclesia COPE España | [m3u8](https://cope-religion-video.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/religion) | [logo](https://graph.facebook.com/ecclesiacope/picture?width=200&height=200) | - | - |
 | RTV Vida España | [m3u8](https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8) | [web](https://vidartv.com/television/) | [logo](https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg) | - | - |
