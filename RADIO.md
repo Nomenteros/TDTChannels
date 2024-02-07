@@ -325,7 +325,7 @@
 | Radio San Borondón | [stream](http://s3radio.hostingwebcloud.com:8053/stream) | [web](http://www.sanborondon.info/images/_streamer/rsb.html) | [logo](https://graph.facebook.com/RSanBorondon/picture?width=200&height=200) | - | WICE |
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com) | [logo](https://yt3.ggpht.com/ytc/AKedOLQaktY1_Rv_MrWTve_Lj8JyaB9EektpPVByC6G0=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | La Mueve | [mp3](https://relay.stream.enacast-cloud.com:40227/lamuevefmHD.mp3) | [web](https://www.lamueve.com) | [logo](https://graph.facebook.com/lamueveradio/picture?width=200&height=200) | - | - |
-| Onda Gran Canaria | [stream](https://cast2.shoutcasting.uk/8016/stream) | [web](https://www.ondagrancanaria.com) | [logo](https://graph.facebook.com/OndaGranCanaria/picture?width=200&height=200) | - | - |
+| Onda Gran Canaria | [stream](https://cast2.shoutcasting.uk/8030/stream) | [web](https://www.ondagrancanaria.com) | [logo](https://pbs.twimg.com/profile_images/1752020883143573505/gpI6G0Ku_200x200.png) | - | - |
 | Radio Teide | [stream](http://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
 
 ### Cantabria
@@ -566,7 +566,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| OndaMadrid | [m3u8 # 101.3 FM](https://tvradio-1-23.secure2.footprint.net/master.m3u8) - [m3u8 # 106 FM](https://ondamadrid-1-23.secure2.footprint.net/master.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | - | - |
+| OndaMadrid | [m3u8 # 101.3 FM](https://tvradio-1-23-secure2.akamaized.net/master.m3u8) - [m3u8 # 106 FM](https://ondamadrid-1-23-secure2.akamaized.net/master.m3u8) | [web](http://www.telemadrid.es/emision-en-directo-ondamadrid) | [logo](https://graph.facebook.com/ondamadridradio/picture?width=200&height=200) | - | - |
 | Radio Nacional Madrid | [stream](https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_mad-live/3893534/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Madrid | [stream](https://dispatcher.rndfnk.com/crtve/rne5/mad/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_mad-live/3894730/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER Henares | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3) | [web](https://cadenaser.com/ser-henares/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Henares.Radio | - |
@@ -749,7 +749,6 @@
 | Radio Benicarló | [mp3](https://streaming.enacast.com/radiobenicarlo128.mp3) | [web](https://www.radiobenicarlo.org) | [logo](https://pbs.twimg.com/profile_images/1544316931175550979/6M8VF3dz_200x200.jpg) | - | - |
 | Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://costafm.es/cassettefm/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2021/05/Cassette.png?fit=200%2C200) | - | - |
 | Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | WICE |
-| Standfy FM | [mp3 # 1](https://stream.standfymedia.net/radio/8000/standfy#.mp3) - [mp3 # 2](https://stream.standfymedia.net/radio/8010/standfy_classic#.mp3) - [mp3 # 3](https://stream.standfymedia.net/radio/8020/standfy_dance#.mp3) - [mp3 # 4](https://stream.standfymedia.net/radio/8030/standfy_rock#.mp3) - [mp3 # 5](https://stream.standfymedia.net/radio/8040/standfy_urban#.mp3) | [web](https://www.standfy.es/play/) | [logo](https://graph.facebook.com/standfyav/picture?width=200&height=200) | - | - |
 | Remember Radio | [stream](https://pr1cen101.emisionlocal.com/proxy/rememberfm?mp=/LIVE) | [web](https://www.rememberradio.es/Inicio.htm) | [logo](https://graph.facebook.com/rememberradiocs/picture?width=200&height=200) | - | - |
 
 ### Extremadura
