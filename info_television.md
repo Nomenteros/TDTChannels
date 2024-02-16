@@ -37,7 +37,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | Be Mad | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | DMAX | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
+| El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cortan la emisión eventualmente |
 | mtmad 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | GH VIP 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | Operación Triunfo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -170,7 +170,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Accesible | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CarnavalSur | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Cine Andaluz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Andalucía Cocina | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Andalucía Turismo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite, previa subscripción en su web |
@@ -485,6 +484,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TEF | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fibwi Diario | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| SAM Ibiza | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### La Rioja
 
