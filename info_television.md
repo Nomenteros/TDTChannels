@@ -84,6 +84,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| MyPadel TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Infantiles
 
@@ -189,7 +190,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Interalmería TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tuya La Janda TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Más Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| TV Centro Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Centro Andalucía | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal San Roque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -389,6 +390,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Telesur Madrid | No emite en directo por Internet |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 4 TV Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Red | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### C. Foral de Navarra
@@ -430,7 +432,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Almassora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda 15 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 3 Biar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Ràdio Bocairent TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ràdio Bocairent TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudades Del Ocio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -529,7 +531,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 7 R. de Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Popular TV Murcia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 1 Mar Menor Torre Pacheco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Arabi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Arabí TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 6 Totana | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ## Int. Europa
@@ -820,7 +822,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Solidaria TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Betania TV España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Cetelmon España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | ESNE | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
