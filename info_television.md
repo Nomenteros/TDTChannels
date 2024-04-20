@@ -53,7 +53,7 @@ Si deseas disponer de más información acerca de qué significa cada lista visi
 | El País | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Libertad Digital TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| Libertad Digital TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Negocios TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | El Confidencial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -123,11 +123,12 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Aquí no hay quién viva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Física o química | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Crimen | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Época | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE 4 Estrellas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Cuéntame | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Docs | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Viajes  | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE La promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Series | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -235,6 +236,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Cancionero TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Manilva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| La Vega Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Onda Cádiz 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -425,6 +427,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Información TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Tele Safor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -738,12 +741,14 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | FIBA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | World Padel Tour | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Red Bull TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Motorsport.tv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Meridiano Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
-| Channel Fight | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Stadium USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Garage TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MsMotor TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Best Cable Sports Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| MoreThanSports TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Int. Table Soccer Federation | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Musicales
 
