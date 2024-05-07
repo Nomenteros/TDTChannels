@@ -129,6 +129,8 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTVE Viajes  | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE La promesa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Series | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Eurovisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
@@ -137,6 +139,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Ministros) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Senado | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Nacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cero | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -393,12 +396,13 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleganés | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Déjate de Historias TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Déjate de Historias TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telesur Madrid | No emite en directo por Internet |
 | C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 TV Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Red | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| LIRA TV | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Foral de Navarra
 
@@ -434,7 +438,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Tele Safor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Tevequatre TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tevequatre TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Almassora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -470,10 +474,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TVG Pequerrech@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Cativ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Mociñ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Musigal | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Cultura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TVG Momentos G | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Eventos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TVG Mira Radio Galega | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -585,7 +587,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Digi24 Rumanía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVP Polonia | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| RTÉ News Irlanda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTÉ News Irlanda | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Televixin Malta | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TRT Haber Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTCG SAT Montenegro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -625,7 +627,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Once Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Quiero TV Mexico | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Mexico Travel TV | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Turistik TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Estrella TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Noticias Caracol Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -656,7 +658,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TELE13 Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Meganoticias Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TC TV Ecuador | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| TeleAmazonas Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleAmazonas Ecuador | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Red Pat Bolivia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -697,7 +699,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Geo News Pakistan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Express News Pakistan | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | India Today | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| New Delhi TV 24x7 India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| New Delhi TV 24x7 India | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶ | - |
 | Times Now India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Republic World TV India | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Hispan TV Iran | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
