@@ -135,6 +135,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele Top Series | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
+| Canal Quickie | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Moncloa (Presidente) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -553,6 +554,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | EITB Basque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemadrid Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GCM Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ATV Web Andorra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Lòria TV Andorra | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -796,7 +798,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - | - |
 | Beautiful Piano Music | - | - | - | - | - | - | - | - |
 | 30A Music USA | - | - | - | - | - | - | - | - |
-| Vintage Music TV | - | - | - | - | - | - | - | - |
 | Retro Plus TV Chile | - | - | - | - | - | - | - | - |
 | California Music Channel USA | - | - | - | - | - | - | - | - |
 | Retro Music TV Chequia | - | - | - | - | - | - | - | - |
@@ -811,9 +812,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Muzzik Glazzba Serbia | - | - | - | - | - | - | - | - |
 | Muzzik Flashback Serbia | - | - | - | - | - | - | - | - |
 | Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
-| La Karibeña Perú | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
-| Onda Digital Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Portal Foxmix Chile | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
