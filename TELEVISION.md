@@ -358,7 +358,6 @@
 | TV Sabadell Vallès | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8) | [web](https://tvsabadell-valles.cat/directe/) | [logo](https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200) | - | UAGLI,REFI1 |
 | Fitel Television | [m3u8](https://tv.mywifisocial.es/live.m3u8) | [web](https://fiteltelevision.com/directe/) | [logo](https://graph.facebook.com/FitelTelevision/picture?width=200&height=200) | - | - |
 | TV de Sant Martí | [youtube](https://www.youtube.com/channel/UCGXp77nMffJ9lk5If2dYj3w/live) | [web](https://granviaradio8.wixsite.com/rtvsm/directe) | [logo](https://graph.facebook.com/1397103013646307/picture?width=200&height=200) | - | EMB |
-| Infociudades TV Catalunya | [m3u8](https://consultant1267.cloudhostservers.com:3150/hybrid/play.m3u8) | [web](https://consultant1267.cloudhostservers.com/broadcaster/infociudadestvcat/hybrid/player) | [logo](https://yt3.googleusercontent.com/3i65n-hibtpav8e1WwaXQXTIpSBfPY7l-blPvnu33QW8fdBo9lv-5aH8cL_Hv0aTvVbCfX_7ZLo=s200) | - | - |
 
 ### Ceuta
 
@@ -633,7 +632,7 @@
 | TeleSUR Venezuela | [m3u8](https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
 | Globovision Venezuela | [youtube](https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live) | [web](https://globovision.com) | [logo](https://graph.facebook.com/globovision/picture?width=200&height=200) | - | EMB |
 | Venezolana de Televisión | [stream](https://www.dailymotion.com/embed/video/x8rtkvs?autoplay=1) | [web](https://www.vtv.gob.ve/en-vivo/) | [logo](https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200) | - | EMB |
-| Televen TV Venezuela | [m3u8](https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8) | [web](http://www.televen.com/enlinea/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
+| Televen TV Venezuela | [m3u8](https://d1diljksr5gd01.cloudfront.net/out/v1/99eaf10d0ece490fb8bd12eb6389daff/index.m3u8) | [web](http://www.televen.com/enlinea/) | [logo](https://graph.facebook.com/TelevenTV/picture?width=200&height=200) | - | - |
 | VPI TV Venezuela | [m3u8](https://ott.streann.com/loadbalancer/services/public/channels-secure/5d23d5882cdce61dae029fd8/playlist.m3u8) | [web](https://vpitv.com/en-vivo/) | [logo](https://graph.facebook.com/vpitv/picture?width=200&height=200) | - | - |
 | La Tele Tuya Venezuela | [stream](https://www.dailymotion.com/embed/video/x8my9op?autoplay=1) | [web](https://teletuya.net/en-vivo/) | [logo](https://graph.facebook.com/TeleTuya/picture?width=200&height=200) | - | EMB |
 | Canal Antigua Guatemala | [m3u8](https://streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/playlist.m3u8) | [web](https://canalantigua.tv) | [logo](https://graph.facebook.com/canalantigua/picture?width=200&height=200) | - | - |
@@ -685,7 +684,7 @@
 | New Delhi TV 24x7 India | [m3u8 # EN](https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8) | [web](https://www.ndtv.com/video/live/channel/ndtv24x7) | [logo](https://graph.facebook.com/ndtv/picture?width=200&height=200) | - | - |
 | Times Now India | [youtube](https://www.youtube.com/channel/UCckHqySbfy5FcPP6MD_S-Yg/live) | [web](https://timesofindia.indiatimes.com/live-tv) | [logo](https://graph.facebook.com/Timesnow/picture?width=200&height=200) | - | EMB |
 | Republic World TV India | [m3u8 # EN](https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8) | [web](https://www.republicworld.com/livetv) | [logo](https://graph.facebook.com/RepublicWorld/picture?width=200&height=200) | - | - |
-| Hispan TV Iran | [m3u8](https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://pbs.twimg.com/profile_images/1759453715432374272/3qAi5Kat_200x200.jpg) | - | - |
+| Hispan TV Iran | [m3u8](https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8) | [web](https://www.hispantv.com/directo) | [logo](https://pbs.twimg.com/profile_images/1645382928422109184/lUdeHBAs_200x200.jpg) | - | - |
 | Channel NewsAsia | [m3u8 # EN](https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8) | [web](https://www.channelnewsasia.com/watch) | [logo](https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200) | - | - |
 | TVBS News Taiwán | [youtube # ZH](https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ/live) | [web](https://news.tvbs.com.tw/live/news4live) | [logo](https://graph.facebook.com/tvbsfb/picture?width=200&height=200) | - | EMB |
 | SET News Taiwán | [youtube # ZH # 1](https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live) - [youtube # ZH # 2](https://www.youtube.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA/live) | [web](https://live.setn.com) | [logo](https://graph.facebook.com/setnews/picture?width=200&height=200) | - | EMB |
@@ -793,7 +792,7 @@
 | Muzzik Glazzba Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/dfk) | [logo](https://graph.facebook.com/muzzik.television/picture?width=200&height=200) | - | UAG |
 | Muzzik Flashback Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-8/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/adr) | [logo](https://graph.facebook.com/muzzik.television/picture?width=200&height=200) | - | UAG |
 | Muzzik OKK Serbia | [m3u8](https://muzzik-live.morescreens.com/mts-2/playlist.m3u8) | [web](https://muzzik.spectar.tv/#/okk) | [logo](https://graph.facebook.com/muzzik.television/picture?width=200&height=200) | - | UAG |
-| Top Latino TV Perú | [m3u8](https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8) | [web](https://toplatino.net/tv/) | [logo](https://graph.facebook.com/toplatinotv/picture?width=200&height=200) | - | - |
+| Top Latino TV Perú | - | [web](https://toplatino.net/tv/) | [logo](https://graph.facebook.com/toplatinotv/picture?width=200&height=200) | - | W3U,EXTA |
 | La Mega Mundial USA | [m3u8](https://server40.servistreaming.com:3477/stream/play.m3u8) | [web](https://www.lamegamundial.com) | [logo](https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200) | - | W3U,EXTA,NONAV |
 | Portal Foxmix Chile | [m3u8](https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8) | [web](https://www.portalfoxmix.cl/tv/) | [logo](https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200) | - | - |
 | Ditty TV USA | [m3u8 # EN](https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8) | [web](https://dittytv.com/watch/) | [logo](https://graph.facebook.com/DittyTV/picture?width=200&height=200) | - | - |
