@@ -122,7 +122,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Equipo de investigación | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Aquí no hay quién viva | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Física o química | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Crimen | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE 4 Estrellas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Cuéntame | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Somos Cine | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -184,7 +183,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Huelva TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Huelva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 45 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -271,7 +270,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 4 Telde TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Noroeste TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Fuerteventura TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Factoría de Carnaval | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -378,6 +376,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Fitel Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| Infociudades TV Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Ceuta
 
@@ -431,7 +430,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Vega Baja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV 4 Vall de Uxó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV 4 Vall de Uxó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Información TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
@@ -461,7 +460,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Extremadura | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | La emisión 2 corresponde a la emisión 'web' que ofrecen |
 | TV Extremeña | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Nuestra Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Zafra TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 
 ### Galicia
@@ -578,6 +576,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Tagesschau24 Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GB News UK | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| RTP Internacional Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP 1 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP 2 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | RTP 3 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
@@ -654,7 +653,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Venezolana de Televisión | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | VPI TV Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Tele Tuya Venezuela | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Canal Antigua Guatemala | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Antigua Guatemala | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | 24h Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TELE13 Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Meganoticias Chile | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
@@ -665,7 +664,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Red Pat Bolivia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| Telemicro República Dominicana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telemicro República Dominicana | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
 | Color Visión República Dominicana | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | HCH Honduras | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | ABC TV Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |

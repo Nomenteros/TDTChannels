@@ -95,7 +95,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Sur Radio Andalucía | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/19988-canal-sur-radio) | [logo](https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200) | - | - |
+| Canal Sur Radio | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/19988-canal-sur-radio) | [logo](https://graph.facebook.com/CanalSurRadioAndalucia/picture?width=200&height=200) | - | - |
 | Flamenco Radio | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel7.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/19987-flamenco-radio) | [logo](https://graph.facebook.com/FlamencoRadio/picture?width=200&height=200) | - | - |
 | Radio Andalucía Información | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel6.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/37911-rai) | [logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RadioAndaluc%C3%ADaInformaci%C3%B3n.png/240px-RadioAndaluc%C3%ADaInformaci%C3%B3n.png) | - | - |
 | Canal Sur Radio Musica | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel10.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/20775-canal-sur-musica) | [logo](https://myradioonline.es/public/uploads/radio_img/canal-sur-radio-musica/play_250_250.jpg) | - | - |
@@ -463,6 +463,8 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| RAC1 | [mp3 # 1](https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3) - [mp3 # 2](https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3) | [web](https://www.rac1.cat) | [logo](https://graph.facebook.com/rac1oficial/picture?width=200&height=200) | RAC1.Radio | - |
+| Catalunya Ràdio | [m3u8](https://directes-radio-int.ccma.cat/live-content/catalunya-radio-hls/master.m3u8) | [web](https://www.ccma.cat/3cat/directes/catalunya-radio/) | [logo](https://graph.facebook.com/catradio/picture?width=200&height=200) | CATRadio.Radio | - |
 | Catalunya Informació | [m3u8](https://directes-radio-int.ccma.cat/live-content/catalunya-informacio-hls/master.m3u8) | [web](https://www.ccma.cat/3cat/directes/catalunya-informacio/) | [logo](https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png) | - | - |
 | Cat Música | [m3u8](https://directes-radio-int.ccma.cat/live-content/catalunya-musica-hls/master.m3u8) | [web](https://www.ccma.cat/3cat/directes/catalunya-musica/) | [logo](https://graph.facebook.com/catmusica/picture?width=200&height=200) | - | - |
 | iCat | [m3u8](https://directes-radio-int.ccma.cat/live-content/icat-hls/master.m3u8) | [web](https://www.ccma.cat/3cat/directes/icat/) | [logo](https://pbs.twimg.com/profile_images/1602642217574834177/r2nHsVE4_200x200.jpg) | - | - |
@@ -716,6 +718,9 @@
 | Motiva | [mp3](https://stream.mediasector.es/radio/8120/motiva.mp3) | [web](https://motivafm.es) | [logo](https://i2.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/04/motiva.png?resize=200%2C200) | - | - |
 | Radio 6 | [mp3](https://webradios.mediasector.es/radio/8150/radio6.mp3) | [web](https://www.emisorasmusicales.net/emisoras/radio6/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2020/05/Radio-6.png?fit=200%2C200) | - | - |
 | Corazón FM | [mp3](https://stream.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3) | [web](https://www.emisorasmusicales.net/emisoras/corazon-fm/) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2022/11/Corazon_1000x1000-con-fondo.png?fit=200%2C200) | - | - |
+| Comboi | [mp3](https://stream.mediasector.es/listen/comboi/comboi.mp3) | [web](https://www.emisorasmusicales.net/emisoras/comboi/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/04/23134127/LOGO-DEF.-COMBOI-1000x1000px-RGB-200x200.png) | - | - |
+| Hallo FM | [mp3](https://stream.emisorasmusicales.net/listen/hallo_fm/hallofm.mp3) | [web](https://www.emisorasmusicales.net/emisoras/radio-hallo/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2023/08/31105659/radioHallo-1200x1200-f-200x200.png) | - | - |
+| Sol Latino | [mp3](https://stream.emisorasmusicales.net/listen/sol-latino/sol-latino.mp3) | [web](https://www.emisorasmusicales.net/emisoras/sol-latino/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/04/11131523/Sol-Latino-200x200.png) | - | - |
 | Radio Sirena COPE Benidorm | [stream](http://rsirena.dnsalias.com:8000/rsirenacope) | [web](https://www.radiosirena.es/radio-online/radio-sirena/) | [logo](https://graph.facebook.com/radiosirena/picture?width=200&height=200) | - | WICE |
 | TVB Radio | [stream](http://streaming.tvt-datos.es:8000/radio) | [web](http://www.televisionvegabaja.es/tvb-radio/) | [logo](https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200) | - | WICE |
 | BOM Radio Benidorm | [stream](http://stream.netservers.ovh:8000/bomradiobenidorm.ogg?/directo) | [web](https://radio4gbenidorm.com) | [logo](https://graph.facebook.com/BOMRadioOficial/picture?width=200&height=200) | - | - |
@@ -776,7 +781,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Radio Galega | [mp3](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | RadioGalega.Radio | - |
+| Radio Galega | [m3u8](https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8) | [web](https://agalegaaudio.gal/videos/120144-radio-galega) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | RadioGalega.Radio | - |
 | Radio Galega Música | [m3u8](https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8) | [web](https://www.agalegaaudio.gal/videos/81609-rgmusica) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
 | Son Galicia Radio | [m3u8](https://crtvg-songalicia-hls.flumotion.cloud/playlist.m3u8) | [web](https://www.agalegaaudio.gal/videos/81610-rsong) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
 | Radio Picariña | [m3u8](https://crtvg-picarina-schlive.flumotion.cloud/crtvglive/smil:channel11PRG.smil/playlist.m3u8) | [web](https://www.agalegaaudio.gal/videos/117823-radio-picarina) | [logo](https://graph.facebook.com/aradiogalega/picture?width=200&height=200) | - | - |
