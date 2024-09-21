@@ -294,7 +294,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canarias Radio | [mp3](https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3) | [web](https://rtvc.es/audio/directo-radio/) | [logo](https://graph.facebook.com/CanariasRadioLaAutonomica/picture?width=200&height=200) | - | - |
+| Canarias Radio | [mp3](https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3) | [web](https://rtvc.es/audio/directo-radio/) | [logo](https://graph.facebook.com/LaRadioCanaria/picture?width=200&height=200) | - | - |
 | Radio Nacional Canarias | [stream](https://dispatcher.rndfnk.com/crtve/rne1/cnr/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_ten-live/3893530/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Canarias - Las Palmas | [stream](https://dispatcher.rndfnk.com/crtve/rne5/lpa/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_ten-live/3893530/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio 5 Canarias - Santa Cruz de Tenerife | [stream](https://dispatcher.rndfnk.com/crtve/rne5/ten/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_cnr-live/3894726/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
@@ -553,6 +553,7 @@
 | Colera Ràdio | [stream](https://servidor24-5.brlogic.com:7494/live) | [web](https://coleraradio.com) | [logo](https://graph.facebook.com/101812002056328/picture?width=200&height=200) | - | - |
 | U Ràdio | [mp3](https://streaming.enacast.com/radioulldecona128.mp3) | [web](https://www.uradio.cat) | [logo](https://graph.facebook.com/uradiofm/picture?width=200&height=200) | - | - |
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
+| amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/1245054974628892673/tjBDH_-q_200x200.jpg) | - | - |
 
 ### Ceuta
 
@@ -740,7 +741,7 @@
 | Onda 15 Radio | [stream](https://streaming12.elitecomunicacion.es:8628/stream) | [web](https://www.onda15.es) | [logo](https://graph.facebook.com/Onda15Radio/picture?width=200&height=200) | - | - |
 | Costafm Alicante | [mp3](https://cdn4.onstream.audio:6064/stream.mp3) | [web](https://www.costafm.es) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://www.ondaazultorrevieja.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
-| Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://cassettefm.es) | [logo](https://i0.wp.com/www.emisorasmusicales.net/wp-content/uploads/2021/05/Cassette.png?fit=200%2C200) | - | - |
+| Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
 | Radio 90FM | [stream](https://node-33.zeno.fm/015h6n8vfzzuv) | [web](https://radio90fmvalencia.wixsite.com/90fm) | [logo](https://static.wixstatic.com/media/f5b851_67e1cadb04a642e2a353a636264ca548~mv2.png) | - | WICE |
 | Radio Malibú | [mp3](https://cdn4.onstream.audio:9158/maliburadio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Litoral FM | [mp3](https://stream.mediasector.es/radio/8310/litoralfm.mp3) | [web](https://radiolitoral.com) | [logo](https://graph.facebook.com/Laradiolitoral/picture?width=200&height=200) | - | - |
@@ -972,6 +973,7 @@
 | APQ Radio | [stream # 1](http://stm1.emiteonline.com:8012/apqradio) - [stream # 2](http://stm1.emiteonline.com:8013/apqradio2) | [web](http://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | WICE |
 | Radio Líder | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | La Mega FM | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://yt3.googleusercontent.com/vSWjeYIVxQD-Ba_LLzcZb70Sy1vKwhIqDA0-kTBGvsrbjNPmMcIhJC9JcomFZDtiLnjOHqUx1A=s200) | - | - |
+| Guateque FM | [stream](https://online.vibacomunicacion.com:5030/stream) | [web](https://guatequefm.com) | [logo](https://play-lh.googleusercontent.com/29cOsGnQ8A3a-FJ1EkqBDVrMCIMWcQBORIWcmygreM9fNjU5C3Pci0CNDYDrv1NPPPD1=w200-h200) | - | - |
 
 ### R. de Murcia
 
