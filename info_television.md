@@ -1,4 +1,4 @@
-# Estado de los canales de televisión
+betevé # Estado de los canales de televisión
 
 A continuación puedes ver el estado de las emisiones, en qué sitios funciona y en cuales no. Esta lista no refleja 
 los cambios que puedan ocurrir en las emisoras de forma puntual. Además, se actualiza de forma manual. Puedes ver en la 
@@ -41,7 +41,9 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | DMAX | ✔❗ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Presenta incompatibilidades en Fire TV |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cortan la emisión eventualmente |
+| GH 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | mtmad 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
+| RNE para todos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | DKISS | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
 | Paramount Network | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -135,7 +137,6 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Mitele Top Series | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
-| GH 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | Canal Quickie | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -213,7 +214,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Écija Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Málaga 24h TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ✔ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -221,7 +221,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Diez TV Las Villas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Bailén TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Costa del Sol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -239,7 +238,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 8 TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tele Jerez | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Manilva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
@@ -343,7 +341,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 | - |
-| betevé | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| betevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Televisió | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terres de l'Ebre | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal TE24 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -415,7 +413,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - | - |
 | Navarra TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TeleRibera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Xaloa Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Navarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### C. Valenciana
@@ -434,7 +431,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| TV de San Vicente | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV 4 Vall de Uxó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Distrito TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -778,53 +774,59 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | STZ Telebista España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| One TV España | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| RTL 102.5 Italia | - | - | - | - | - | - | - | - |
-| Kronehit Austria | - | - | - | - | - | - | - | - |
-| QMusic Holanda | - | - | - | - | - | - | - | - |
-| 4FUN TV Polonia | - | - | - | - | - | - | - | - |
+| Café del Mar Ibiza | - | - | - | - | - | - | - | - |
 | Tomorrowland TV | - | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - | - |
+| RTL 102.5 Italia | - | - | - | - | - | - | - | - |
+| Number1 FM Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Kronehit Austria | - | - | - | - | - | - | - | - |
+| 4FUN TV Polonia | - | - | - | - | - | - | - | - |
+| QMusic Holanda | - | - | - | - | - | - | - | - |
 | Ocko Chequia | - | - | - | - | - | - | - | - |
 | Ocko Star Chequia | - | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - | - |
-| NumberOne Turquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | m2o Italia | - | - | - | - | - | - | - | - |
-| ON TV Portugal | - | - | - | - | - | - | - | - |
-| NRG91 Grecia | - | - | - | - | - | - | - | - |
-| V2Beat TV | - | - | - | - | - | - | - | - |
-| The K-POP Korea | - | - | - | - | - | - | - | - |
-| Power TV Turquía | - | - | - | - | - | - | - | - |
 | Rock TV Romania | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
-| RadioU TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| First Music Channel Bielorrusia | - | - | - | - | - | - | - | - |
+| On TV Portugal | - | - | - | - | - | - | - | - |
+| NRG91 Grecia | - | - | - | - | - | - | - | - |
 | Otto FM Italia | - | - | - | - | - | - | - | - |
+| Retro Music TV Chequia | - | - | - | - | - | - | - | - |
+| Power TV Turquía | - | - | - | - | - | - | - | - |
+| CMC Croacia | - | - | - | - | - | - | - | - |
+| Sky Folk Macedonia | - | - | - | - | - | - | - | - |
+| 1Muz Bielorrusia | - | - | - | - | - | - | - | - |
+| RU.TV Rusia | - | - | - | - | - | - | - | - |
+| Muzzik TV Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Pop Star Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Worldwide Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Jeka Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Tiktak Serbia | - | - | - | - | - | - | - | - |
+| Muzzik ZZ TV Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Sense Serbia | - | - | - | - | - | - | - | - |
+| Muzzik MTS Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Flashback Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Moba Serbia | - | - | - | - | - | - | - | - |
+| Muzzik Electro Serbia | - | - | - | - | - | - | - | - |
+| V2Beat TV | - | - | - | - | - | - | - | - |
 | Ibiza Global TV | - | - | - | - | - | - | - | - |
-| Café del Mar Ibiza | - | - | - | - | - | - | - | - |
 | Sonus FM Alemania | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | DanceStar TV | - | - | - | - | - | - | - | - |
+| Dance TV Estonia | - | - | - | - | - | - | - | - |
+| The K-POP Korea | - | - | - | - | - | - | - | - |
 | The Good Life Radio | - | - | - | - | - | - | - | - |
 | LoFi Hip-Hop Beats Music | - | - | - | - | - | - | - | - |
 | Beautiful Piano Music | - | - | - | - | - | - | - | - |
-| 30A Music USA | - | - | - | - | - | - | - | - |
-| Retro Plus TV Chile | - | - | - | - | - | - | - | - |
-| California Music Channel USA | - | - | - | - | - | - | - | - |
-| Retro Music TV Chequia | - | - | - | - | - | - | - | - |
-| Muzzik TV Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Rock&Roll Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Cafe&Club Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Worldwide Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Rivijera Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Jeka Serbia | - | - | - | - | - | - | - | - |
-| Muzzik ZZ TV Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Sense Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Glazzba Serbia | - | - | - | - | - | - | - | - |
-| Muzzik Flashback Serbia | - | - | - | - | - | - | - | - |
-| Muzzik OKK Serbia | - | - | - | - | - | - | - | - |
+| VM Latino Costa Rica | - | - | - | - | - | - | - | - |
+| Venus Media Paraguay | - | - | - | - | - | - | - | - |
 | Top Latino TV Perú | - | - | - | - | - | - | - | - |
 | La Mega Mundial USA | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
-| Portal Foxmix Chile | - | - | - | - | - | - | - | - |
+| 30A Music USA | - | - | - | - | - | - | - | - |
 | Ditty TV USA | - | - | - | - | - | - | - | - |
+| RadioU TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
+| Retro Plus TV Chile | - | - | - | - | - | - | - | - |
+| California Music Channel USA | - | - | - | - | - | - | - | - |
+| Portal Foxmix Chile | - | - | - | - | - | - | - | - |
 | Spirit TV USA | - | - | - | - | - | - | - | - |
 
 ## Religiosos
