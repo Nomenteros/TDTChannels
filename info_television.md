@@ -146,9 +146,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | Radio Nacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Cero | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Del 40 al 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Sábados de 10 a 14 |
 | COPE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Rock FM | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Streaming
 
@@ -452,6 +450,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Veteve | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Enguera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | 33TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Alfafar TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Extremadura
@@ -596,8 +595,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | San Marino RTV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | N1 Croacia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | VizionPlus Albania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Channel 24 Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 1+1 Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
-| Ukraine 24 Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ICTV Ucrania | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | ICTV Ucrania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Current Time TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -652,6 +651,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | TV Perú Noticias | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Canal IPe Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| NET Channel Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleSUR Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Venezolana de Televisión | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
