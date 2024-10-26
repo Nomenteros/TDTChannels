@@ -166,7 +166,7 @@
 | Huelva TV | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8) | [web](https://alacarta.huelvatv.com/directo/) | [logo](https://graph.facebook.com/Huelvatv/picture?width=200&height=200) | HuelvaTV.TV | NONAV |
 | Canal Sierra de Cádiz | [m3u8](https://s.emisoras.tv:8081/sierradecadiz/index.m3u8) | [web](https://www.canalsierradecadiz.com) | [logo](https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200) | - | - |
 | Canal 45 TV | [m3u8](https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8) | [web](https://www.canal45tv.com) | [logo](https://graph.facebook.com/canal45television/picture?width=200&height=200) | - | - |
-| PTV Málaga | [m3u8](https://streamer.zapitv.com/PTV-malaga/index.m3u8) | [web](https://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTVMalaga/picture?width=200&height=200) | - | - |
+| PTV Málaga | [m3u8](https://streamer.zapitv.com/PTV-malaga/index.m3u8) | [web](https://ptvtelecom.com/canales/malaga.html) | [logo](https://graph.facebook.com/PTVMalaga/picture?width=200&height=200) | - | UAG |
 | Córdoba TV | - | [web](https://www.cordoba-tv.com/en-directo) | [logo](https://graph.facebook.com/cordobatvonline/picture?width=200&height=200) | - | W3U,EXTA |
 | 101TV Sevilla | [m3u8](https://liveingesta318.cdnmedia.tv/101televisionlive/smil:rtmp02.smil/playlist.m3u8?DVR) | [web](https://www.101tvsevilla.es/directo/) | [logo](https://graph.facebook.com/101TVSevilla/picture?width=200&height=200) | - | UAG,REFI1 |
 | Costa Noroeste TV | [m3u8](https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8) | [web](https://www.costanoroestetv.net) | [logo](https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200) | CostaNO.TV | - |
@@ -185,7 +185,7 @@
 | Canal Luz Televisión | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8) | [web](https://canalluztelevision.es/en-directo) | [logo](https://graph.facebook.com/canalluztelevision/picture?width=200&height=200) | - | - |
 | Canal Doñana | [m3u8](https://secure5.todostreaming.es/live/division-alm.m3u8) | [web](https://www.canaldonana.com) | [logo](https://yt3.ggpht.com/ytc/AAUvwniAZB2q-vXPojR8-s48qBkScsAsVmJBpZSs6ZkMwA=s200) | - | - |
 | Axarquía TV | [youtube](https://www.youtube.com/channel/UC0N3U1saaQQWMt2rRPbU0DQ/live) | [web](https://www.youtube.com/channel/UC0N3U1saaQQWMt2rRPbU0DQ) | [logo](https://graph.facebook.com/AxarquiaTV/picture?width=200&height=200) | - | EMB |
-| PTV Linares | [m3u8](https://streamer.zapitv.com/ptv-linarez/index.m3u8) | [web](https://www.ptvtelecom.com/canales/linares.html) | [logo](https://graph.facebook.com/tvlinares/picture?width=200&height=200) | - | - |
+| PTV Linares | [m3u8](https://streamer.zapitv.com/ptv-linarez/index.m3u8) | [web](https://www.ptvtelecom.com/canales/linares.html) | [logo](https://graph.facebook.com/tvlinares/picture?width=200&height=200) | - | UAG |
 | Telécija | [stream](https://player.twitch.tv/?channel=telecija&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://ecijadigital.es) | [logo](https://graph.facebook.com/telecija.televisioncomarcal/picture?width=200&height=200) | - | EMB |
 | Écija Comarca TV | [youtube](https://www.youtube.com/channel/UCXwvKOSEF5TK1Y8TMq1pzNA/live) | [web](https://tvm.ecija.es) | [logo](https://graph.facebook.com/ecijacomarcatelevision/picture?width=200&height=200) | - | EMB |
 | Marbella TV | [m3u8](https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8) | [web](https://rtvmarbella.tv/tv-en-directo/) | [logo](https://graph.facebook.com/RTVMarbella/picture?width=200&height=200) | MarbellaTV.TV | - |
@@ -207,10 +207,10 @@
 | Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](https://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | CanalMalaga.TV | - |
 | 101TV Axarquía | [m3u8](https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8) | [web](https://www.101tv.es/directo-axarquia-almijara/) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | 101Axarquía.TV | - |
 | Mijas 3.40 TV | [m3u8](https://streaming004.gestec-video.com/hls/MIJAS.m3u8) | [web](https://mijascomunicacion.com/mijas-340-tv-en-directo/) | [logo](https://graph.facebook.com/Mijas340TV/picture?width=200&height=200) | Mijas340TV.TV | - |
-| PTV Granada | [m3u8](https://streamer.zapitv.com/PTV-granada/index.m3u8) | [web](https://ptvtelecom.com/canales/granada.html) | [logo](https://graph.facebook.com/PTVGranada/picture?width=200&height=200) | - | - |
+| PTV Granada | [m3u8](https://streamer.zapitv.com/PTV-granada/index.m3u8) | [web](https://ptvtelecom.com/canales/granada.html) | [logo](https://graph.facebook.com/PTVGranada/picture?width=200&height=200) | - | UAG |
 | Fuengirola TV | [m3u8](https://streaming004.gestec-video.com/hls/FTV.m3u8) | [web](https://fuengirolatv.com/directo-ftv/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
-| PTV Sevilla | [m3u8](https://streamer.zapitv.com/PTV_sevilla/index.m3u8) | [web](https://ptvtelecom.com/canales/sevilla.html) | [logo](https://graph.facebook.com/SevillaPTV/picture?width=200&height=200) | - | - |
-| PTV Córdoba | [m3u8](https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8) | [web](https://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCOR/picture?width=200&height=200) | - | NONAV |
+| PTV Sevilla | [m3u8](https://streamer.zapitv.com/PTV_sevilla/index.m3u8) | [web](https://ptvtelecom.com/canales/sevilla.html) | [logo](https://graph.facebook.com/SevillaPTV/picture?width=200&height=200) | - | UAG |
+| PTV Córdoba | [m3u8](https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8) | [web](https://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCOR/picture?width=200&height=200) | - | UAG |
 | Canal Coín | [m3u8](https://canalcoin.garjim.es/hls/directo.m3u8) | [web](https://canalcoin.com/tv-directo/) | [logo](https://graph.facebook.com/106272064368271/picture?width=200&height=200) | CanalCoin.TV | - |
 | TVM Córdoba | [m3u8](https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8) | [web](https://www.cordoba.es/emision_directo/) | [logo](https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200) | - | - |
 | Tele Jerez | [m3u8](https://5d8d85cf2c308.streamlock.net:1936/TeleJerez/endirecto/playlist.m3u8) | [web](https://player.telejerez.es/live/directo) | [logo](https://graph.facebook.com/TeleJerez/picture?width=200&height=200) | - | NONAV |
@@ -429,7 +429,7 @@
 | Veteve | [stream](https://player.twitch.tv/?channel=veteve&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://veteve.es) | [logo](https://yt3.googleusercontent.com/dUy97uBRPzF6LrRPXs72Terta2gamHMK3morI-yaPZ-9np4CMRU63OWhd0ujZC5AJM9oP8yfmA=s200) | - | EMB |
 | Enguera TV | [stream](https://player.twitch.tv/?channel=engueratv&parent=tdtchannels.com&parent=www.tdtchannels.com) | [web](https://www.enguera.es/content/enguera-tv) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWP8ahafBlFAbCsP3tT17ooK6arGKNmcx6VES4o=s200) | - | EMB |
 | 33TV Valencia | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream.m3u8) | [web](https://karyganet.com/33-tv/) | [logo](https://karyganet.com/wp-content/uploads/tv-33.jpg) | - | - |
-| Alfafar TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3576/live/alfafartvlive.m3u8) | [web](https://www.youtube.com/@alfafartv) | [logo](https://graph.facebook.com/Alfafartv/picture?width=200&height=200) | - | - |
+| Alameda Televisión | [m3u8](https://streamtv2.elitecomunicacion.cloud:3576/live/alfafartvlive.m3u8) | [web](https://www.youtube.com/@alfafartv) | [logo](https://yt3.googleusercontent.com/_wkvYCuwL9FqcdkqZDHKAOG3hst-BKz4rf1WVoudqqeePBErOf-0xL7j9wCcoBB_dx4ehaog9yc=s200) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
 
 ### Extremadura
@@ -701,10 +701,15 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
+| Medi1 TV Marruecos | [m3u8 # 1](https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR) - [m3u8 # 2](https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR) - [m3u8 # 3](https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR) | [web](https://medi1tv.com) | [logo](https://graph.facebook.com/Medi1TV/picture?width=200&height=200) | - | - |
+| SNRT Al Aoula Marruecos | - | [web](https://snrtlive.ma/fr/al-aoula) | [logo](https://graph.facebook.com/AlAoulaTVMaroc/picture?width=200&height=200) | - | W3U,EXTA |
+| SNRT Laayoune El Aaiún Marruecos | - | [web](https://snrtlive.ma/fr/laayoune) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_lmtJVOIgmbIZIBq75f-RE14vGPXH6I5Ldx68nUeGioig=s200) | - | W3U,EXTA |
+| SNRT Arryadia Marruecos | - | [web](https://snrtlive.ma/fr/arryadia) | [logo](https://graph.facebook.com/ArryadiaTVMaroc/picture?width=200&height=200) | - | W3U,EXTA |
+| SNRT Athaqafia Marruecos | - | [web](https://snrtlive.ma/fr/athaqafia) | [logo](https://yt3.googleusercontent.com/b4uDfV0KUwJbiq3TQWwVhICbwdygqtyrNM1ND2MBzJTUw7JsCTKsr7VKNNlfRClAMXWCFTPbpg=s200) | - | W3U,EXTA |
+| SNRT Al Maghribia Marruecos | - | [web](https://snrtlive.ma/fr/almaghribia) | [logo](https://pbs.twimg.com/profile_images/1387335238947414017/CVzIRZfG_200x200.png) | - | W3U,EXTA |
 | AfricaNews | [youtube # EN](https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live) | [web](https://www.africanews.com/live/) | [logo](https://graph.facebook.com/africanews.channel/picture?width=200&height=200) | - | EMB |
 | Joy News TV Ghana | [youtube # EN](https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live) | [web](https://www.myjoyonline.com/media/joy-news-live) | [logo](https://graph.facebook.com/JoyNewsOnTV/picture?width=200&height=200) | - | EMB |
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
-| NBS TV Uganda | [m3u8 # EN](https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBS_Live_stream_ze/5-20-hls/live.m3u8) | [web](https://nbs.ug/live/) | [logo](https://graph.facebook.com/nbstelevision/picture?width=200&height=200) | - | - |
 | TVGE 1 Guinea Ecuatorial | [m3u8](https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8) | [web](https://www.tvgelive.gq/live.php) | [logo](https://www.tvgelive.gq/images/logo-dark.png) | - | - |
 | RASD TV | [m3u8](https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
 | SenTV Senegal | [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/Sentv) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | W3U,EMB,EXTA |
