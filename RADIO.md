@@ -346,7 +346,7 @@
 | Ason FM | [stream](http://ns100.emisionlocal.com:8064/live) | [web](https://www.asonfm.com) | [logo](https://graph.facebook.com/asonfm/picture?width=200&height=200) | - | WICE |
 | Radio Santoña | [mp3](https://server10.emitironline.com:10212/radio.mp3) | [web](https://www.santoña.es) | [logo](https://graph.facebook.com/radiosantona107.3/picture?width=200&height=200) | - | - |
 | Cadena Mix | [stream](https://ns6.emisionlocal.com/proxy/radiomix?mp=%2Fstream) | [web](http://www.cadenamix.es) | [logo](https://graph.facebook.com/cadenamixfm/picture?width=200&height=200) | - | - |
-| Cantabria Radio | [stream](https://cantabria.radioca.st/stream) | [web](https://cantabriaradio.com) | [logo](https://graph.facebook.com/cantabriaradio/picture?width=200&height=200) | - | - |
+| Cantabria Radio | [stream](https://cantabria.radioca.st/stream) | [web](https://cantabriaradio.com) | [logo](https://pbs.twimg.com/profile_images/1618937329086857216/y7k5obyb_200x200.jpg) | - | - |
 
 ### Castilla-La Mancha
 
@@ -555,6 +555,7 @@
 | U Ràdio | [mp3](https://streaming.enacast.com/radioulldecona128.mp3) | [web](https://www.uradio.cat) | [logo](https://graph.facebook.com/uradiofm/picture?width=200&height=200) | - | - |
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/1245054974628892673/tjBDH_-q_200x200.jpg) | - | - |
+| 7deRàdio | [stream](https://stream.7deradio.cat/proxy/7deradio/stream) | [web](https://7deradio.cat) | [logo](https://graph.facebook.com/7deradio/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
