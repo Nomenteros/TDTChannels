@@ -240,6 +240,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Cancionero TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Manilva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| El MIRA TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | La Vega Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Cofradias 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Onda Cádiz 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -380,7 +381,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | ✔ | - |
 | Fitel Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV de Sant Martí | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
+| TV Gran Vía Radio | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Ceuta
 
@@ -650,7 +651,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Pública Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Canal 9 Argentina | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Exitosa Noticias Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Panamericana Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Panamericana Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Willax Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | TV Perú | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Perú Noticias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
