@@ -41,7 +41,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | DMAX | ✔❗ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Presenta incompatibilidades en Fire TV |
 | TRECE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Toro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cortan la emisión eventualmente |
-| GH 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
+| GH DÚO 24h | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | 🌐 |
 | mtmad 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | 🌐 | Posible emisión geolocalizada a España |
 | RNE para todos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Ten | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
@@ -236,7 +236,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Tele Jerez | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Manilva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -453,7 +452,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Veteve | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Enguera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | 33TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Alameda Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Extremadura
@@ -551,7 +549,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - | - |
 | TVE Int. Europa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión geolocalizada a Europa |
 | TV3.CAT | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| EITB Basque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ETB Basque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG América | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemadrid Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GCM Internacional | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -661,7 +659,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TeleSUR Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Globovision Venezuela | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Venezolana de Televisión | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
-| Televen TV Venezuela | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
+| Televen TV Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a Europa |
 | VPI TV Venezuela | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Tele Tuya Venezuela | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Canal Antigua Guatemala | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
@@ -800,7 +798,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Rock TV Romania | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | On TV Portugal | - | - | - | - | - | - | - | - |
 | NRG91 Grecia | - | - | - | - | - | - | - | - |
-| Otto FM Italia | - | - | - | - | - | - | - | - |
 | Retro Music TV Chequia | - | - | - | - | - | - | - | - |
 | Power TV Turquía | - | - | - | - | - | - | - | - |
 | CMC Croacia | - | - | - | - | - | - | - | - |
