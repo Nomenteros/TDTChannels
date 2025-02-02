@@ -321,7 +321,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 987 Live | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión eventual |
 | Canal 54 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TV Aranda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 9 Soria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Junta Castilla y León | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Cataluña
@@ -428,7 +427,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | La 8 Mediterráneo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Alacantí TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| TV Castelló | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| TV Castelló | ▶ | ▶ | ▶ | ❌ | ❌ | ❌ | - |
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -498,7 +497,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | TV Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7 La Rioja | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| 7 La Rioja | ▶ | ▶ | ▶ | ❌ | ❌ | ❌ | - |
 | Parlamento de La Rioja | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual |
 | Cocina Familiar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
@@ -527,6 +526,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | GUKA TB | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Oizmendi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Urola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| STZ Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### P. de Asturias
 
@@ -682,7 +682,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | LaTele Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telefuturo Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Unicanal Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Unicanal Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Noticias NPY Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Nicavisión TV Nicaragua | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | WTV Nicaragua | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -782,7 +782,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Cadena Elite España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Molahits TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Urban TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| STZ Telebista España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ibiza Global TV España | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
@@ -798,6 +797,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Ocko Star Chequia | - | - | - | - | - | - | - |
 | Ocko Expres Chequia | - | - | - | - | - | - | - |
 | m2o Italia | - | - | - | - | - | - | - |
+| Radio Capital Italia | - | - | - | - | - | - | - |
+| Radio ZETA Italia | - | - | - | - | - | - | - |
 | Rock TV Romania | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | On TV Portugal | - | - | - | - | - | - | - |
 | NRG91 Grecia | - | - | - | - | - | - | - |
