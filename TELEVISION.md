@@ -108,7 +108,7 @@
 | RTVE Somos Cine | [m3u8](https://ztnr.rtve.es/ztnr/6909845.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-cine/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_SomosCine.TV | - |
 | RTVE Viajes | [m3u8](https://ztnr.rtve.es/ztnr/6987938.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-viajes/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Viajes.TV | - |
 | RTVE La promesa | [m3u8](https://ztnr.rtve.es/ztnr/2472039.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-promesa/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Promesa.TV | - |
-| RTVE Benidorm Fest | [m3u8](https://ztnr.rtve.es/ztnr/2472035.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-benidormfest/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Epoca.TV | - |
+| RTVE Premios Goya | [m3u8](https://ztnr.rtve.es/ztnr/2472035.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-premiosgoya/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Epoca.TV | - |
 | RTVE Series | [m3u8](https://ztnr.rtve.es/ztnr/6922467.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-series/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Series.TV | - |
 | RTVE Conciertos Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6924117.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/conciertos-radio-3/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Conciertos_R3.TV | - |
 | RTVE Late Xou | [m3u8](https://ztnr.rtve.es/ztnr/2472037.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-latexou/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_LateXou.TV | - |
@@ -287,7 +287,7 @@
 | La 7 | - | [web](https://www.cyltv.es/live/La7) | [logo](https://graph.facebook.com/cyltv/picture?width=200&height=200) | La7.TV | EXTA |
 | La 8 Avila | - | [web](https://www.cyltv.es/live/La8Avila) | [logo](https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg) | La8CYL.TV | EXTA |
 | La 8 Bierzo | - | [web](https://www.cyltv.es/Live/La8Bierzo) | [logo](https://graph.facebook.com/La8Bierzo/picture?width=200&height=200) | La8CYL.TV | EXTA |
-| La 8 Burgos | - | [web](https://www.cyltv.es/live/La8Burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | La8CYL.TV | EXTA |
+| La 8 Burgos | - | [web](https://www.cyltv.es/live/La8Burgos) | [logo](https://graph.facebook.com/La8Burgos/picture?width=200&height=200) | La8CYL_Burgos.TV | EXTA |
 | La 8 Leon | - | [web](https://www.cyltv.es/live/La8Leon) | [logo](https://pbs.twimg.com/profile_images/1367754156711288839/c01QAS89_200x200.jpg) | La8CYL.TV | EXTA |
 | La 8 Palencia | - | [web](https://www.cyltv.es/live/La8Palencia) | [logo](https://graph.facebook.com/La8Palencia/picture?width=200&height=200) | La8CYL.TV | EXTA |
 | La 8 Salamanca | - | [web](https://www.cyltv.es/live/La8Salamanca) | [logo](https://graph.facebook.com/la8salamanca/picture?width=200&height=200) | La8CYL.TV | EXTA |
