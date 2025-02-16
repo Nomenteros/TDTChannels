@@ -88,7 +88,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Futsalmafer.tv | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Futsalmafer.tv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Infantiles
 
@@ -98,6 +98,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Kidz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Disney Channel | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cartoon Network Latino | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -224,7 +225,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Costa del Sol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Sal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Carmona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -241,7 +242,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Manilva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | PTV Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MIRA TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| La Vega Televisión | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cofradias 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Onda Cádiz 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -351,11 +351,11 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | BDN | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | TAC 12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Terrassa | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 21 Ebre | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Canal 21 Ebre | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | Necesita registro web en Xarxa+ |
 | Lleida TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | TV Costa Brava | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Xarxa | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
-| Olot TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
+| Olot TV  | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | Necesita registro web en Xarxa+ |
 | Canal Blau | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | Necesita registro web en Xarxa+ |
 | Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | TV L'Hospitalet | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
@@ -374,7 +374,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal 10 Empordà | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Pirineus TV | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | - |
 | Vallès Visió | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| TV del Ripollès | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| TV del Ripollès | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | Necesita registro web en Xarxa+ |
 | etv | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Mar TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -449,7 +449,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Ciudades Del Ocio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Veteve | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Enguera TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | 33TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Corts Valencianes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
