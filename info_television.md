@@ -67,7 +67,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | Teledeporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| GOL Play | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| GOL Play | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | Emite en su web, bajo registro |
 | Esport 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | ETB Deportes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Aragón Deporte | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emite eventualmente |
@@ -204,42 +204,44 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Centro Andalucía | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | - |
 | Canal San Roque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Televisión Alhaurín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Televisión Alhaurín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Luz Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Almería 24h TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Cadena Joven TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Linares | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Écija Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Diez TV Úbeda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Diez TV Las Villas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Costa del Sol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Carmona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Écija Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Manilva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 101TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Carmona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Diez TV Las Villas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Diez TV Úbeda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Vivamóvil TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Manilva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | PTV Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | MIRA TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Cofradias 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -782,8 +784,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Molahits TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Urban TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Verbena TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RM TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ibiza Global TV España | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Spektra TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Café del Mar Ibiza España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Tomorrowland TV | - | - | - | - | - | - | - |
 | Radio Italia TV | - | - | - | - | - | - | - |
