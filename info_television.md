@@ -133,6 +133,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTVE Saber y ganar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Late Xou | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Talent | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
@@ -182,7 +183,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Andalucía Turismo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 7TV Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite, previa subscripción en su web |
 | Jerez TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| 101TV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Málaga | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Onda Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huelva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -190,7 +191,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal 45 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Córdoba TV | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | - |
-| 101TV Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Sevilla | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Costa Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleonuba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -221,6 +222,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Granada | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | 101TV Costa del Sol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -386,7 +388,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | Ceuta TV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite en su web |
-| RTVCE | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVCE | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | El Faro | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### C. de Madrid
