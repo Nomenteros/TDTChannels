@@ -187,7 +187,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Onda Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huelva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Canal Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8TV Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8TV Chiclana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 45 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Córdoba TV | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | - |
@@ -256,26 +257,28 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Calamocha TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal 25 Barbastro TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Antena Aragón | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Cortes de Aragón | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### Canarias
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | TV Canaria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ |  |
-| GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | La 1 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Canarias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mírame TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Noroeste TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Fuerteventura TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Noroeste TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Factoría de Carnaval | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Afortunadas TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Parlamento de Canarias | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### Cantabria
 
@@ -286,6 +289,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | De Laredu Lin TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Popular TV Cantabria | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Tevecan 9 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Parlamento de Cantabria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### Castilla-La Mancha
 
@@ -303,6 +307,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 2000 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Gobierno de Castilla-La Mancha | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 
 ### Castilla y León
 
@@ -407,6 +412,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal 4 TV Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Red | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | LIRA TV | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | - |
+| Asamblea de Madrid | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### C. Foral de Navarra
 
@@ -462,6 +468,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Extremeña | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Nuestra Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Villafranca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Asamblea de Extremadura | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### Galicia
 
@@ -481,6 +488,8 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Hermes TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Anove TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Auria TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Parlamento de Galicia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Xunta de Galicia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Illes Balears
 
@@ -491,6 +500,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal 4 TV Mallorca | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Fibwi Diario | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | SAM Ibiza | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Parlament de les Illes Balears | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### La Rioja
 
@@ -527,12 +537,14 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Oizmendi TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Urola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | STZ Telebista | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Eusko Legebiltzarra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### P. de Asturias
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | TPA7 | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Junta General del Principado de Asturias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### R. de Murcia
 
@@ -543,6 +555,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal 1 Mar Menor Torre Pacheco | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Arabí TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 6 Totana | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Asamblea Regional de Murcia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Int. Europa
 
