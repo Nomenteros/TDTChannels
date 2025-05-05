@@ -245,7 +245,7 @@
 | Radio Ciudad Roquetas | [mp3](https://broadcast.radioponiente.org:8040/;.mp3) | [web](https://www.radiociudadroquetas.es/es/radio-ciudad) | [logo](https://graph.facebook.com/radiociudadroquetas/picture?width=200&height=200) | - | - |
 | Central FM | [mp3](https://s29.myradiostream.com/4922/listen.mp3) | [web](https://www.centralfm.com) | [logo](https://graph.facebook.com/131322746891532/picture?width=200&height=200) | - | - |
 | Onda Mencía Radio | [stream](https://streaming12.elitecomunicacion.es:8146/stream) | [web](https://escucha.ondamenciaradio.com) | [logo](https://graph.facebook.com/OndaMenciaRadio/picture?width=200&height=200) | - | - |
-| Onda Loja Radio | [stream](https://antares.dribbcast.com/proxy/ondaloja/stream) | [web](https://ondaloja.es) | [logo](https://graph.facebook.com/370465614347/picture?width=200&height=200) | - | - |
+| Onda Loja Radio | [stream](https://stream.radiofutura.es:8090/stream) | [web](https://ondaloja.es) | [logo](https://graph.facebook.com/370465614347/picture?width=200&height=200) | - | - |
 | Radio Arcos | [mp3](https://streaming2.elitecomunicacion.es:8098/stream?type=.mp3) | [web](https://www.radioarcos.com) | [logo](https://graph.facebook.com/RadioArcos/picture?width=200&height=200) | - | - |
 | Chocolate FM | [mp3](https://streaming2.elitecomunicacion.es:8082/live.mp3) | [web](https://www.chocolatefm.com) | [logo](https://graph.facebook.com/ydimequetegusta/picture?width=200&height=200) | - | - |
 | Granada FM | [stream](https://streaming2.elitecomunicacion.es:8028/stream) | [web](https://granadafm.es) | [logo](https://pbs.twimg.com/profile_images/1572284910198722561/2BQxFxMX_200x200.jpg) | - | - |
@@ -404,12 +404,12 @@
 | Locactiva Radio | [stream](https://pr1cen101.emisionlocal.com/proxy/locactivaradio?mp=/stream) | [web](https://www.locactivaradio.es) | [logo](https://graph.facebook.com/LOCACTIVARADIO/picture?width=200&height=200) | - | - |
 | Radio Kolor | [stream](https://stream20.usastreams.com/8122/stream) | [web](https://www.radiokolor.es) | [logo](https://graph.facebook.com/kolor.cuenca/picture?width=200&height=200) | - | - |
 | Radio Mora | [stream](https://server10.emitironline.com:9075/radio) | [web](https://radiomora.es) | [logo](https://graph.facebook.com/rmorafm/picture?width=200&height=200) | - | - |
-| La Única FM | [stream](https://antares.dribbcast.com/proxy/launica/stream) | [web](https://www.launicafm.com) | [logo](https://graph.facebook.com/182268477588/picture?width=200&height=200) | - | - |
+| La Única FM | [stream](https://stream.radiofutura.es:8010/stream) | [web](https://www.launicafm.com) | [logo](https://graph.facebook.com/182268477588/picture?width=200&height=200) | - | - |
 | Onda Polígono Toledo | [stream](https://icecast.ondapoligono.org/stream) | [web](https://www.ondapoligono.org) | [logo](https://graph.facebook.com/ondapoligono/picture?width=200&height=200) | - | - |
 | Radio Chinchilla | [stream](https://streaming2.elitecomunicacion.es:8114/stream) | [web](http://www.radiochinchilla.com/repro.htm) | [logo](https://graph.facebook.com/RadioChinchilla/picture?width=200&height=200) | - | - |
 | Pedro Muñoz FM | [mp3](https://radio.pedromunozfm.com:8443/endirecto.mp3) | [web](https://www.pedromunozfm.com/nuevaweb/) | [logo](https://graph.facebook.com/pedromunozfm/picture?width=200&height=200) | - | - |
 | Radio Arrebato | [stream](http://srv0510.emisorasonline.com:8025/stream) | [web](https://www.radioarrebato.net) | [logo](https://graph.facebook.com/radioarrebato107.4/picture?width=200&height=200) | - | - |
-| ONE FM | [mp3](https://azura.streamingradio.online/listen/one_fm/onefm.mp3) | [web](https://directo.onefm.es) | [logo](https://graph.facebook.com/OneFM.es/picture?width=200&height=200) | - | - |
+| ONE FM | [mp3](https://stream.onefm.es:8000/onefm.mp3) | [web](https://onefm.es/) | [logo](https://graph.facebook.com/OneFM.es/picture?width=200&height=200) | - | - |
 | Radio Serranía | [mp3](https://stream.zeno.fm/suyydyfgwf9uv) | [web](https://www.radioserrania.es) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnacipw8b-DXWbR9fOFT5EwWOd3-QFrv0zdUHTlnh6Q&s) | - | - |
 
 ### Castilla y León
@@ -695,7 +695,7 @@
 | COPE Alicante | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/alicante.mp3) | [web](https://www.cope.es/directos/alicante) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Castellón | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/castellon.mp3) | [web](https://www.cope.es/directos/castellon) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Castellón-Vinaroz | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/vinaroz.mp3) | [web](https://www.cope.es/directos/castellon-vinaroz) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Denia | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/denia.mp3) | [web](https://www.cope.es/directos/denia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Denia | [mp3](https://wecast02-h-cloud.flumotion.com/copesedes/denia.mp3) | [web](https://www.cope.es/directos/denia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Elche | [stream](https://stream-159.zeno.fm/fh1dewq8pxduv) | [web](https://www.copeelche.com) | [logo](https://graph.facebook.com/CopeElche/picture?width=200&height=200) | - | - |
 | COPE Onda Naranja | [stream](https://str1.mediatelekom.net:8100/stream) | [web](https://ondanaranjacope.com/player) | [logo](https://graph.facebook.com/ondanaranjacope/picture?width=200&height=200) | - | - |
 | COPE Valencia | [mp3](https://wecast14-h-cloud.flumotion.com/copesedes/valencia.mp3) | [web](https://www.cope.es/directos/valencia) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
@@ -728,7 +728,7 @@
 | Play Radio Valencia | [stream](https://playradiovalencia.es/stream/) | [web](https://playradiovalencia.es) | [logo](https://graph.facebook.com/Playradiovalencia/picture?width=200&height=200) | - | - |
 | La Jungla Radio Valencia | [stream](https://sonic.sistemahost.es/8268/stream) | [web](https://lajunglavalencia.com) | [logo](https://graph.facebook.com/lajunglaradiovlc/picture?width=200&height=200) | - | - |
 | Capital Radio Valencia | [m3u8](https://capitalradio-valencia-hls.flumotion.com/capitalradio/valencia-source/playlist.m3u8) | [web](https://www.capitalradio.es/valencia) | [logo](https://pbs.twimg.com/profile_images/1256866004145242113/WZVY4CoE_200x200.jpg) | - | - |
-| Relax FM | [stream](https://server9.emitironline.com:19288/) | [web](https://relaxfm.es) | [logo](https://pbs.twimg.com/profile_images/1629684463507570690/k6cWRSGU_200x200.jpg) | - | - |
+| Relax FM | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RELAX_FM.mp3) | [web](https://relaxfm.es) | [logo](https://pbs.twimg.com/profile_images/1629684463507570690/k6cWRSGU_200x200.jpg) | - | - |
 | Activa FM | [mp3](https://stream.mediasector.es/radio/8000/activafm.mp3) | [web](https://emisorasmusicales.net/activa/) | [logo](https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200) | - | - |
 | + Activa | [mp3](https://stream.mediasector.es/radio/8110/mas-activa.mp3) | [web](https://www.emisorasmusicales.net/emisoras/mas-activa/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2020/05/11022613/activa--200x200.png) | - | - |
 | La Mega FM | [mp3](https://stream.mediasector.es/radio/8020/lamega.mp3) | [web](https://emisorasmusicales.net/lamega/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023732/LaMega-200x200.png) | - | - |
@@ -780,7 +780,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Canal Extremadura Radio | [m3u8](https://ingest2-video.streaming-pro.com/icecast/canalextremadura/playlist.m3u8) | [web](https://www.canalextremadura.es/directo/radio) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | - | - |
+| Canal Extremadura Radio | [m3u8](https://canalextremadura-audio.flumotion.cloud/canalextremaduralive/smil:channel1.smil/playlist.m3u8) | [web](https://www.canalextremadura.app/videos/182647-canal-radio-24h) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | - | - |
 | Radio Nacional Extremadura | [stream](https://dispatcher.rndfnk.com/crtve/rne1/ext/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_ext-live/3893533/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Extremadura | [stream](https://dispatcher.rndfnk.com/crtve/rne5/cce/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_ext-live/3894783/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER Cáceres | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CACERES.mp3) | [web](https://cadenaser.com/ser-caceres/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Caceres.Radio | - |
@@ -907,7 +907,7 @@
 | esRadio Arnedo | [stream](https://stream20.usastreams.com/8154/stream) | [web](https://www.radioarnedo.com) | [logo](https://graph.facebook.com/ondarioja.radioarnedo/picture?width=200&height=200) | - | - |
 | Radio Logroño | [stream](https://stream.zeno.fm/19buxw48djlvv) | [web](https://radiologrono.es) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.canalebro.com/radioonline/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
-| Onda Ocio | [stream](https://radioserver10.profesionalhosting.com:23334/stream) | [web](https://www.ondaocio.es) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | - |
+| Onda Ocio | [stream](https://radio.ondaocio.es:8300/ondaocioweb) | [web](https://www.ondaocio.es) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | - |
 
 ### Melilla
 

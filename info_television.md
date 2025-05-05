@@ -85,6 +85,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión diaria entre las 21 - 23h |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| A1 Padel 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Futsalmafer.tv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -132,8 +133,7 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | RTVE Conciertos Radio 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Late Xou | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTVE Talent | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Dia de la Tierra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTVE Dia del Libro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTVE Eurovisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Mitele Comedia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele Viajes | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Mitele En la Calle | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
@@ -386,7 +386,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Sant Cugat | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Fitel Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Gran Vía Radio | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 22TV Televisió de Solsona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ### Ceuta
 
