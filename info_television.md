@@ -224,7 +224,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 101TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Granada | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| 101TV Costa del Sol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Costa del Sol | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 9 la Loma TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -688,7 +688,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Red Pat Bolivia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Telemicro República Dominicana | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| Telemicro República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Color Visión República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | HCH Honduras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | ABC TV Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -704,7 +704,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | CNN Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | SBT Interior Brasil | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Rede Massa Brasil | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Rede Massa Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Trinidad and Tobago Television | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Int. Asia
