@@ -134,10 +134,10 @@ Estos canales emiten a ciertas horas del día, únicamente. Están especializado
 | La Revuelta (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Saber y ganar (RTVE) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Somos Cine (RTVE)| ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Comedia (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| En la calle (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
-| Top Series (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
-| Viajes (Mitele) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
+| Comedia (Mediaset Infinity) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| En la calle (Mediaset Infinity) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
+| Top Series (Mediaset Infinity) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
+| Viajes (Mediaset Infinity) | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España  |
 | Canal Quickie | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal Parlamento | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Congreso de los Diputados | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -218,7 +218,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| CostadelSol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 101TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -272,6 +271,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | GranCanariaTV.com | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Canal 4 Tenerife | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Lancelot TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tenerife Plus+ TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | NORTEvisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | RTV Mogán | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Este Canal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
@@ -388,6 +388,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TV Sabadell Vallès | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Fitel Television | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 22TV Televisió de Solsona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| 3CAT Les càmeres d'El Temps  | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Ceuta
 
@@ -517,7 +518,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
-| Melilla TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Melilla TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Popular TV Melilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### País Vasco
