@@ -186,7 +186,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 101TV Málaga | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Onda Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Huelva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Huelva TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8TV Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8TV Chiclana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 45 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -366,7 +366,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Blau | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | Necesita registro web en Xarxa+ |
 | Canal Taronja Central | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | TV L'Hospitalet | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| TV del Berguedà | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
+| TV del Berguedà | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | Necesita registro web en Xarxa+ |
 | RTV El Vendrell | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Canal Taronja Anoia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Cugat Mèdia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
@@ -594,12 +594,12 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Tagesschau24 Alemania | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Sky News UK | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | GB News UK | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| RTP Internacional Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP 1 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP 2 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP 3 Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP Madeira Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| RTP Açores Portugal | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
+| RTP Internacional Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP 1 Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP 2 Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP 3 Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP Madeira Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| RTP Açores Portugal | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | CNN Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Porto Canal Portugal | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | LN24 Bélgica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -860,15 +860,16 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
-| EWTN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Diocesana Toledo España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Radio María España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Abadia de Montserrat España | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Ecclesia COPE España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Solidaria TV España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Vida España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| RTV Diocesana Toledo España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TBN España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cetelmon España | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Vatican News | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| EWTN | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | ESNE | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
