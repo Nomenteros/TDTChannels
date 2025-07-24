@@ -53,6 +53,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Euronews | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El País | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -83,11 +84,11 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | AS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión diaria entre las 21 - 23h |
+| Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| A1 Padel 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | FedHielo TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| A1 Padel 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
-| Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Mundo Nautica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Mundo Náutica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Futsalmafer.tv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Infantiles
@@ -97,16 +98,20 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | Boing | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | Clan | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
 | Kidz | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
+| SX3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña. Emisión eventual, comparte señal con 33 |
 | Pequeradio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Disney Channel | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Pocoyó | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Warner Bros Kids | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cartoon Network Latino | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Nickelodeon | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Bluey | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| ZAZ TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| What a Toon TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| LEGO Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Talking Tom and Friends | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Little Baby Bum | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Masha y el Oso | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Eventuales
 
@@ -334,15 +339,13 @@ Estos canales emiten a ciertas horas del día, únicamente.
 
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
-| TV3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 324 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con SX3 |
-| SX3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España. Emisión eventual, comparte señal con 33 |
-| 3CAT Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 3CAT Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 3CAT Exclusiu 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 3CAT Joc de Cartes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
-| 3CAT Plats bruts | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España |
+| TV3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
+| 33 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña. Emisión eventual, comparte señal con SX3 |
+| 3CAT Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
+| 3CAT Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
+| 3CAT Exclusiu 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
+| 3CAT Joc de Cartes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 3CAT Plats bruts | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -404,15 +407,15 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | - | - | - | - | - | - | - | - |
 | Telemadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
 | LaOtra | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Cierran la emisión eventualmente |
-| Webcam OndaMadrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleganés | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Red | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Distrito TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Déjate de Historias TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Telesur Madrid | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | No emite en directo por Internet |
-| C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| OndaMadrid Webcam | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 TV Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Red | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| EsTuTele | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| iPROtv | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| C33 Madrid | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LIRA TV | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | - |
 | Asamblea de Madrid | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
@@ -429,33 +432,33 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal | Android | iOS | Navegador | M3U/M3U8 | M3U8+MPD | Enigma2 | más info |
 | - | - | - | - | - | - | - | - |
 | À Punt | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7 TeleValencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Intercomarcal TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| 7 TeleValencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleElx | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Ribera TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 8 La Marina TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | La 8 Mediterráneo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Alacantí TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Castelló | ▶ | ▶ | ▶ | ❌ | ❌ | ❌ | - |
 | TV Artequatre | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| 12TV Alicante | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Levante TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| TV 4 La Vall | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Distrito TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Información TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Tele Safor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Tevequatre TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Maestrat TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Burriana TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Información TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| TV 4 La Vall | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Distrito TV Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Elche 7 TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Tele Safor | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 56 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Univers TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TV Almassora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Radio Buñol TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| TV Almassora | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Tevequatre TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Onda 15 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 3 Biar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ràdio Bocairent TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Punt 3 Vall Uixó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudades Del Ocio TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Onda Valencia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Une Vinalopó | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -652,7 +655,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Mexico Travel TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Estrella TV Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TELE 10 Nayarit Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Noticias Caracol Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Noticias Caracol Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telepacifico Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
