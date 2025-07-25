@@ -59,7 +59,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | La Vanguardia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Agencia EFE | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Libertad Digital TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Negocios TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Negocios TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | El Confidencial | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Deportivos
@@ -84,6 +84,7 @@ Haz click [aquí](https://www.tdtchannels.com/listas) si de saber de más inform
 | MARCA | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | AS | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | El 10 del Barça | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | Emisión diaria entre las 21 - 23h |
+| Kings League | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Cazaflix | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | A1 Padel 24h | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | Posible emisión geolocalizada a España |
 | OKLIGA TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -164,16 +165,16 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Auronplay | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TheGrefg | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Rubius | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Illojuan | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Juansguarnizo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Elxokas | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Alexby11 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| IamCristinini | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| biyin | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| LOLITOFDEZ | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Shadoune666 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Kings League | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Gerard Romero | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Illojuan | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Elxokas | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Guanyar | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| IamCristinini | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| biyin_ | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Mixwell | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Juansguarnizo | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Knekro | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| LOLITOFDEZ | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 
 ## Autonómicos
 
@@ -184,73 +185,72 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Canal Sur Andalucía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur 2 Accesible | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Sur Más Noticias | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Andalucía Cocina | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Andalucía Turismo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 7TV Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite, previa subscripción en su web |
 | Jerez TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | 101TV Málaga | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Onda Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Huelva TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Andalucía Cocina | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Andalucía Turismo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8TV Sierra de Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 8TV Chiclana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal 45 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| M95 Marbella | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Córdoba TV | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | - |
-| 101TV Sevilla | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
+| 7TV Andalucía | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Emite, previa subscripción en su web |
+| Tuya La Janda TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal 45 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Costa Noroeste TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Teleonuba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Córdoba TV | ✔ | ✔ | 🌐 | ❌ | ❌ | ❌ | - |
+| 101TV Sevilla | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | CanalCosta | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Condavisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Uvitel TV | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | - |
+| Cadena Joven TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Interalmería TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Tuya La Janda TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Almería 24h TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Más Jerez | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TV Centro Andalucía | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | - |
 | Canal San Roque | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Onda Algeciras TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Estepona TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Televisión Alhaurín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Luz Televisión | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Doñana | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Axarquía TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Marbella TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Almería 24h TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Cadena Joven TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Linares | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | TeleQuivir | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Torrevisión | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | 101TV Antequera | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 101TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 101TV Granada | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
-| 101TV Costa del Sol | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Linares | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Torremolinos TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telemotril | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Telécija | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| TG7 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| RTV Tarifa | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Sal TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| 9 la Loma TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
-| Écija Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Manilva TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | Canal Málaga | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Axarquía | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 9 la Loma TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Écija Comarca TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | PTV Sevilla | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Fuengirola TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | PTV Granada | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| PTV Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Carmona | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| MIRA TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
+| 101TV Cádiz | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Andújar | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Las Villas | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Diez TV Úbeda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Mijas 3.40 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Canal Coín | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVM Córdoba | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 101TV Costa del Sol | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| 101TV Granada | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
+| 101TV Ronda | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cancionero TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | PTV Almería | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| MIRA TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Cofradias 24h | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
-| Onda Cádiz 24h | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Parlamento de Andalucía TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ### Aragón
@@ -308,11 +308,11 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Visión 6 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Imás TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | CanalImagen Almansa | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Ciudad Real TV | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
+| Alcarria TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 4 Mancha Centro | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal 2000 | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| TeleToledo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Gobierno de Castilla-La Mancha | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 
 ### Castilla y León
@@ -349,6 +349,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 24h Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Ràdio 4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Emisión eventual |
 | Bon Dia TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Parlament | 🌐 | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | betevé | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -658,7 +659,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Noticias Caracol Colombia | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Teleantioquia Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Canal Capital Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Telepacifico Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Telepacifico Colombia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Canal Telecaribe Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Canal TRO Colombia | ✔ | ✔ | 🌐 | ✔ | ✔ | ❌ | - |
 | Citytv Colombia | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
@@ -876,7 +877,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | ESNE | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | CBN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | María Visión Mexico | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
-| Enlace TV Costa Rica | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
+| Enlace TV Costa Rica | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Emmanuel TV Nigeria | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | - |
 | Redevida Brasil | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 3ABN USA | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
