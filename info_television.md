@@ -344,7 +344,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | 3CAT Exclusiu 1 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
 | 3CAT Exclusiu 2 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
 | 3CAT Exclusiu 3 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Posible emisión geolocalizada a España y/o Cataluña |
-| 3CAT Joc de Cartes | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| 3CAT El búnquer | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | 3CAT Plats bruts | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 1 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | La 2 Catalunya | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -489,6 +489,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | TVG Mociñ@s | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Eventos | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TVG Mira Radio Galega | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Corenta anos da TVG | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TV Ferrol | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | TeleVigo | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Telemiño | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
@@ -700,7 +701,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | HCH Honduras | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | ABC TV Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | LaTele Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
-| Trece Paraguay | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Trece Paraguay | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Telefuturo Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Unicanal Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | Noticias NPY Paraguay | ▶ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
