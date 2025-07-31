@@ -27,8 +27,8 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | 24h | [m3u8 # 1](https://ztnr.rtve.es/ztnr/1694255.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8) - [m3u8 # 3](https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8) | [web](https://www.rtve.es/play/videos/directo/24h/) | [logo](https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg) | 24Horas.TV | GEO |
-| 324 | [m3u8](https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/324/) | [logo](https://graph.facebook.com/324cat/picture?width=200&height=200) | 324.TV | - |
 | Euronews | [m3u8](https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8) - [youtube](https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live) | [web](https://es.euronews.com/live) | [logo](https://graph.facebook.com/es.euronews/picture?width=200&height=200) | Euronews.TV | EMB |
+| 324 | [m3u8](https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/324/) | [logo](https://graph.facebook.com/324cat/picture?width=200&height=200) | 324.TV | - |
 | El País | [m3u8](https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8) - [youtube](https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live) | [web](https://elpais.com) | [logo](https://graph.facebook.com/elpais/picture?width=200&height=200) | ElPais.TV | EMB |
 | La Vanguardia | [youtube](https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live) | [web](https://www.lavanguardia.com) | [logo](https://graph.facebook.com/LaVanguardia/picture?width=200&height=200) | - | EMB |
 | Agencia EFE | [youtube](https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live) | [web](https://www.efe.com) | [logo](https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200) | - | EMB |
@@ -397,7 +397,7 @@
 | 7 TeleValencia | [m3u8](https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8) | [web](https://7televalencia.com/directo-7televalencia/) | [logo](https://pbs.twimg.com/profile_images/1876660632478437376/rbEqYeqC_200x200.jpg) | 7Televalencia.TV | - |
 | TeleElx | [m3u8](https://tvdirecto.teleelx.es/stream/teleelx.m3u8) | [web](https://teleelx.es/directo/) | [logo](https://graph.facebook.com/teleelx/picture?width=200&height=200) | TeleElx.TV | NONAV |
 | Ribera TV | [m3u8](https://common01.todostreaming.es/live/ribera-livestream.m3u8) | [web](https://www.riberatelevisio.com/en-directe/) | [logo](https://graph.facebook.com/grup.televisio/picture?width=200&height=200) | - | - |
-| La 8 Mediterráneo | [m3u8](https://streaming004.gestec-video.com/hls/8TV.m3u8) | [web](https://laocho.tv/tv-en-directo/) | [logo](https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200) | 8M.TV | - |
+| La 8 Mediterráneo | [m3u8](https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8) | [web](https://laocho.tv/tv-en-directo/) | [logo](https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200) | 8M.TV | - |
 | Alacantí TV | [m3u8](https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8) | [web](https://www.alacantitv.com/en-directo/) | [logo](https://graph.facebook.com/alacantitv/picture?width=200&height=200) | - | NONAV |
 | 12TV Alicante | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16126&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&ssai_enabled=1&content_channel=12tv&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB1&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&content_id=mirametv_live) | [web](https://webtv.12tv.es) | [logo](https://graph.facebook.com/12tv.es/picture?width=200&height=200) | - | - |
 | TV Castelló | [stream](https://player.kick.com/televisiocastello) | [web](https://tvcs.tv/en-directe/) | [logo](https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200) | - | EMB |
@@ -523,7 +523,6 @@
 | Arabí TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8) | [web](https://www.arabitv.es/en-directo/) | [logo](https://graph.facebook.com/arabitvyecla/picture?width=200&height=200) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 | Asamblea Regional de Murcia | [youtube](https://www.youtube.com/channel/UCGWt3Hunyq2i8Qso_de8x5g/live) | [web](https://www.asambleamurcia.es) | [logo](https://graph.facebook.com/asambleamurcia/picture?width=200&height=200) | - | EMB |
-
 
 ## Int. Europa
 
@@ -651,7 +650,7 @@
 | Oromar TV Ecuador | [m3u8](https://stream.oromar.tv/hls/oromartv_hi/index.m3u8) | [web](https://oromartv.com/tv-en-vivo/) | [logo](https://graph.facebook.com/oromartv/picture?width=200&height=200) | - | EMB |
 | Bolivia 7.1 TV | [m3u8](https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8) | [web](https://www.boliviatv.bo/principal/vivo71.php) | [logo](https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200) | - | EXTA |
 | Bolivia 7.2 TV | [m3u8](https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8) | [web](https://www.boliviatv.bo/principal/vivo72.php) | [logo](https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200) | - | EXTA |
-| Red Pat Bolivia | [m3u8](https://ssh101stream.ssh101.com/akamaissh101/ssh101/patscz/playlist.m3u8) | [web](https://www.redpat.tv/envivoscz) | [logo](https://graph.facebook.com/patboliviahd/picture?width=200&height=200) | - | - |
+| Red Pat Bolivia | [m3u8](https://www.redpat.tv/proxy/index.m3u8) | [web](https://www.redpat.tv/envivoscz) | [logo](https://graph.facebook.com/patboliviahd/picture?width=200&height=200) | - | - |
 | Cubavisión TV | [m3u8](https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8) | [web](https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | Cubavision.TV | REF,NONAV |
 | CDN 37 República Dominicana | - | [web](https://cdn.com.do/envivo/) | [logo](https://graph.facebook.com/cdn.com.do/picture?width=200&height=200) | - | EXTA |
 | Telemicro República Dominicana | - | [web](https://telemicro.com.do/players/5bot/) | [logo](https://pbs.twimg.com/profile_images/1587264071346393089/-FeTL7C8_200x200.jpg) | - | EXTA |
