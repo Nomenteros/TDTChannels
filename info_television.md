@@ -776,6 +776,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Best Cable Sports Perú | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | - |
 | MoreThanSports TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Int. Table Soccer Federation | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Bike Channel | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 
 ## Musicales
 
@@ -825,7 +826,6 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Muzzik Moba Serbia | - | - | - | - | - | - | - |
 | Muzzik Electro Serbia | - | - | - | - | - | - | - |
 | V2Beat TV | - | - | - | - | - | - | - |
-| Sonus FM Alemania | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | - |
 | DanceStar TV | - | - | - | - | - | - | - |
 | Dance TV Estonia | - | - | - | - | - | - | - |
 | The K-POP Korea | - | - | - | - | - | - | - |
