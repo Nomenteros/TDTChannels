@@ -339,7 +339,7 @@
 | MIX FM Radio | [stream](https://server10.emitironline.com:8064/stream) | [web](https://www.mixfm-radio.com) | [logo](https://yt3.ggpht.com/ytc/AKedOLQaktY1_Rv_MrWTve_Lj8JyaB9EektpPVByC6G0=s200-c-k-c0x00ffffff-no-rj) | - | - |
 | La Mueve | [mp3](https://sunaer-stream.com:7113/LA_MUEVE_CADENA_HD) | [web](https://lamueve.com/radio-online/) | [logo](https://graph.facebook.com/lamueveradio/picture?width=200&height=200) | - | - |
 | 9 Radio | [stream](https://app.sonicpanelradio.com/8072/stream) | [web](https://9radio.es) | [logo](https://graph.facebook.com/9radiocanarias/picture?width=200&height=200) | - | - |
-| Radio Teide | [stream](https://c01.lexycast.de:5070/.mp3) | [web](https://www.radioteide.eu) | [logo](https://graph.facebook.com/RadioTeide/picture?width=200&height=200) | - | - |
+| Radio 6 Tenerife | [stream](https://ns6.emisionlocal.com/proxy/radio6?mp=/stream) | [web](https://www.radio6tenerife.com/) | [logo](https://graph.facebook.com/radio6tenerife/picture?width=200&height=200) | - | - |
 | Radio Marca Lanzarote | [m3u8](https://5c0956165db0b.streamlock.net/radio/marca.stream_aac/playlist.m3u8) | [web](https://lancelot.es/radio.php) | [logo](https://graph.facebook.com/RadioMarcaLanzarote/picture?width=200&height=200) | - | - |
 
 ### Cantabria
@@ -1000,7 +1000,7 @@
 | Xtrema FM | [stream](https://server1.radiocast.es/listen/xtrema_fm/xtremafm) | [web](https://www.xtremafm.es) | [logo](https://graph.facebook.com/xtremafm/picture?width=200&height=200) | - | - |
 | APQ Radio | [stream # 1](https://stm2.emiteonline.com:9012/apqradio) - [stream # 2](https://stm2.emiteonline.com:9013/apqradio2) | [web](https://www.apqradio.es) | [logo](https://graph.facebook.com/APQRadio.es/picture?width=200&height=200) | - | - |
 | La Mega FM Asturias | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://play-lh.googleusercontent.com/c_sl-yRJP4jzCPQjkLe0xFWuGj6Xe6JaoShibnsuV98KnDkM7Ao54DsLD_1orN2eyDbC=w200) | - | - |
-| Guateque FM | [stream](https://online.vibacomunicacion.com:5066/stream) | [web](https://guatequefm.com) | [logo](https://play-lh.googleusercontent.com/29cOsGnQ8A3a-FJ1EkqBDVrMCIMWcQBORIWcmygreM9fNjU5C3Pci0CNDYDrv1NPPPD1=w200-h200) | - | - |
+| Guateque FM | [stream](https://eu1.lhdserver.es:3219/stream) | [web](https://guatequefm.com) | [logo](https://play-lh.googleusercontent.com/29cOsGnQ8A3a-FJ1EkqBDVrMCIMWcQBORIWcmygreM9fNjU5C3Pci0CNDYDrv1NPPPD1=w200-h200) | - | - |
 | Radio Líder Asturias | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/en-directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
 | Vinx FM | [stream](https://server1.radiocast.es/listen/vinxfm/low) | [web](https://vinxfm.es/) | [logo](https://pbs.twimg.com/profile_images/1888012730822430721/_hz7OMLm_200x200.jpg) | - | - |
 | La Cheverisima Radio | [stream](https://samuel.i-radio.co:9000/lacheverisima) | [web](https://lacheverisimaradio.com) | [logo](https://play-lh.googleusercontent.com/paqCGWhxPmfQOzkssgQHBiAW60j3zi04Hq9K2UWM_oddr-X-ZriB6OK-K0Xr8lmP4A=w200) | - | - |
