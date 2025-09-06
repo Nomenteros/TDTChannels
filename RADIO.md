@@ -301,7 +301,7 @@
 | Radio Huesca Sabiñánigo | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SABINANIGO.mp3) | [web](https://cadenaser.com/radio-sabinanigo/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | Radio Huesca Sariñena | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SARINENA.mp3) | [web](https://cadenaser.com/radio-sarinena/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | Radio Mai | [stream # 1](http://radio.indaloweb.es:8001/live) - [stream # 2](http://radiomai.duckdns.org:8020/live) | [web](https://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=200&height=200) | - | - |
-| LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvqfZvUbQjrdsnFIhtqLy-mnkjBicLHHflgy5HWPCmyQqsYDZ) | - | - |
+| LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://play-lh.googleusercontent.com/pRLw0KpuXGQxblfGu8kwMNx0rrOurCW7YBaZiHYTojJkBe0uzQOd3AKvCsbBYMyOOpzp=w200-h200) | - | - |
 | Hit Radio Zona Oriental | [stream](http://stm1.emiteonline.com:8004/hitelgrado) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/HitRadioElGrado/picture?width=200&height=200) | - | - |
 | Vale Radio | [mp3](https://azura7.emisiononline.es/listen/vale_radio/radio.mp3) | [web](https://www.valeradio.es/reproductor/index.php) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
 
@@ -626,7 +626,6 @@
 | Onda Fuenlabrada | [mp3](https://radioserver12.profesionalhosting.com/proxy/pkg78581/stream.mp3) | [web](https://ondafuenlabrada.es/emision/) | [logo](https://yt3.ggpht.com/gE-Z3WmqCumfCBtWDXUuYM1mmpbutOff_s2Su1F6raG2kKaXQVAtqnI_DLp5KR7PA6oS9EeMxZY=s200) | - | - |
 | Peperadio | [stream](https://server10.emitironline.com:8032/) | [web](https://peperadio.es) | [logo](https://peperadio.es/Content/images/logo.png) | - | - |
 | Espacio 4 FM | [stream](https://stream.zeno.fm/fz0bc82wn0hvv) | [web](https://www.espacio4fm.com) | [logo](https://graph.facebook.com/Espacio4Fm/picture?width=200&height=200) | - | - |
-| Círculo de Bellas Artes Madrid | [m3u8](https://play.cdn.enetres.net/863690D2607511E098B669C2DFD72085028/02984/playlist.m3u8) | [web](https://www.circulobellasartes.com/radiocirculo/) | [logo](https://pbs.twimg.com/profile_images/1575774106863210496/aixsYXCE_200x200.jpg) | - | - |
 | Radio Almenara | [stream](https://cervera.eldialdigital.com:25211/stream) | [web](https://radioalmenara.net) | [logo](https://graph.facebook.com/RadioAlmenara/picture?width=200&height=200) | - | - |
 | Onda Merlín C Radio | [mp3](https://radio.radiobot.org/listen/omc/directo.mp3) | [web](https://www.omcradio.org/escuchanos/) | [logo](https://graph.facebook.com/OmcRadio/picture?width=200&height=200) | - | - |
 | Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](https://www.radiomorata.com) | [logo](https://graph.facebook.com/radiomorata/picture?width=200&height=200) | - | - |
@@ -767,9 +766,9 @@
 | Costa FM Alicante | [mp3](https://stream.costafm.es/listen/costafm/radio.mp3) | [web](https://www.costafm.es) | [logo](https://graph.facebook.com/costafm/picture?width=200&height=200) | - | - |
 | Onda Azul Torrevieja | [mp3](https://usa3.lhdserver.es:8199/stream?type=.mp3) | [web](https://www.ondaazultorrevieja.es) | [logo](https://pbs.twimg.com/profile_images/691063766784577536/3-ftz8tQ_200x200.jpg) | - | - |
 | Radio Onda 15 Castalla | [mp3](https://azc.standfy.com/radio/8200/onda15) | [web](https://www.onda15.com) | [logo](https://graph.facebook.com/radiocastalla/picture?width=200&height=200) | - | - |
-| Cassette FM | [mp3](https://cdn4.onstream.audio:9154/cassettefm.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
+| Cassette FM | [mp3](https://stream.emisorasmusicales.net/listen/cassete_fm/cassettefm.mp3) | [web](https://cassettefm.es) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png) | - | - |
 | Radio 90FM | [stream](https://stream.radio90.fm:2002/web) | [web](https://www.radio90.fm) | [logo](https://pbs.twimg.com/profile_images/1502655409575890945/iDYjAczK_200x200.jpg) | - | - |
-| Radio Malibú | [mp3](https://cdn4.onstream.audio:9158/maliburadio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
+| Radio Malibú | [mp3](https://stream.emisorasmusicales.net/listen/malibu-radio/malibu-radio.mp3) | [web](https://www.radiomalibu.es) | [logo](https://graph.facebook.com/radiomalibufm/picture?width=200&height=200) | - | - |
 | Litoral FM | [mp3](https://stream.emisorasmusicales.net/radio/8310/litoralfm.mp3) | [web](https://radiolitoral.com) | [logo](https://graph.facebook.com/Laradiolitoral/picture?width=200&height=200) | - | - |
 | Litoral Oro | [mp3](https://stream.emisorasmusicales.net/listen/litoral_oro/litoral-oro.mp3) | [web](https://radiolitoral.com/emisoras/litoral-oro) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/11/06182836/Logo-Litoral-ORO-200x200.jpg) | - | - |
 | Ràdio Calp | [mp3](https://stream.emisorasmusicales.net/listen/radio-calp/radio-calp.mp3) | [web](https://www.emisorasmusicales.net/emisoras/radio-calp/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/10/24105437/Logo-Radio-Calp-05-200x200.jpg) | - | - |
@@ -910,7 +909,6 @@
 | esRadio Arnedo | [stream](https://stream20.usastreams.com/8154/stream) | [web](https://www.radioarnedo.com) | [logo](https://graph.facebook.com/ondarioja.radioarnedo/picture?width=200&height=200) | - | - |
 | Radio Logroño | [stream](https://stream.zeno.fm/19buxw48djlvv) | [web](https://radiologrono.es) | [logo](https://graph.facebook.com/radiologrono/picture?width=200&height=200) | - | - |
 | Canal Ebro | [mp3](http://streaming.capsulaimposible.com:8000/stream/2/canalebro.mp3) | [web](https://www.canalebro.com/radioonline/) | [logo](https://graph.facebook.com/canalebro/picture?width=200&height=200) | - | - |
-| Onda Ocio | [stream](https://radio.ondaocio.es:8300/ondaocioweb) | [web](https://www.ondaocio.es) | [logo](https://graph.facebook.com/ondaocio/picture?width=200&height=200) | - | - |
 
 ### Melilla
 
