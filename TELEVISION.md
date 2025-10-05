@@ -44,8 +44,8 @@
 | GOL Play | - | [web](https://app.golstadium.com/w/golplay) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | GOL.TV | REG |
 | Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/esport3/) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | GEO |
 | ETB Deportes | [m3u8](https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8) - [m3u8 # 2](https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8) - [m3u8 # 3](https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200) | ETBD.TV | - |
-| Aragón Deporte | [m3u8 # 1](https://cartv-streaming.aranova.es/hls/live/adeportes_deporte5.m3u8) - [m3u8 # 2](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte6.m3u8) - [m3u8 # 3](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) - [m3u8 # 4](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte2.m3u8) - [m3u8 # 5](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8) - [m3u8 # 6](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte4.m3u8) - [stream](https://player.twitch.tv/?channel=aragondeporte&parent=play.tdtchannels.com) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/aragondeporte/picture?width=200&height=200) | AragonD.TV | - |
-| Vinx TV Asturias | [m3u8](https://live.astreaming.es/Vinx/index.m3u8) - [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://vinxtv.es/en-directo/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | - | EMB |
+| Aragón Deporte | [m3u8 # 1](https://cartv-streaming.aranova.es/hls/live/adeportes_deporte7.m3u8) - [m3u8 # 2](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte6.m3u8) - [m3u8 # 3](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte5.m3u8) - [m3u8 # 4](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte4.m3u8) - [m3u8 # 5](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8) - [m3u8 # 6](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte2.m3u8) - [m3u8 # 7](https://cartv-streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) - [stream](https://player.twitch.tv/?channel=aragondeporte&parent=play.tdtchannels.com) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/aragondeporte/picture?width=200&height=200) | AragonD.TV | - |
+| Vinx TV Asturias | [m3u8](https://live.astreaming.es/Vinx/index.m3u8) - [youtube](https://www.youtube.com/channel/UCJDjXO0kv_ZOtLntIO0d4bw/live) | [web](https://vinxtv.es/en-directo/) | [logo](https://graph.facebook.com/VinxTV/picture?width=200&height=200) | Vinx.TV  | EMB |
 | IB3 Esports | [youtube](https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live) | [web](https://ib3.org/directe) | [logo](https://graph.facebook.com/EsportsIB3/picture?width=200&height=200) | - | EMB |
 | Real Madrid TV | [m3u8 # ES](https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8) - [m3u8 # EN](https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8) - [stream](https://player.twitch.tv/?channel=realmadrid&parent=play.tdtchannels.com) | [web](https://www.realmadrid.com/real-madrid-tv) | [logo](https://graph.facebook.com/RealMadrid/picture?width=200&height=200) | RMTV.TV | GEO |
 | Barça TV | - | [web](https://www.fcbarcelona.es/es/culers) | [logo](https://graph.facebook.com/fcbarcelona/picture?width=200&height=200) | - | NOEM |
@@ -101,11 +101,15 @@
 | La Revuelta (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/16464388.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-larevuelta/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Epoca.TV | - |
 | Saber y ganar (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/6922467.m3u8) | [web](https://www.rtve.es/play/videos/directo/play-saberyganar) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Series.TV | - |
 | Somos Cine (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/6909845.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-cine/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_SomosCine.TV | - |
+| Cocina (RTVE) | [m3u8](https://ztnr.rtve.es/ztnr/16656232.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-rtve/play-cocina/) | [logo](https://graph.facebook.com/rtveplay/picture?width=200&height=200) | RTVE_Cocina.TV | - |
 | Comedia (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-comedia/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Comedia.TV | EXTA |
 | En la calle (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-en-la-calle/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Calle.TV | EXTA |
 | Top Series (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-top-series/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Series.TV | EXTA |
 | Viajes (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-viajes/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Viajes.TV | EXTA |
+| Uno de GH20 24h 1 - Gran Hermano (Mediaset Infinity) | - | [web](https://www.mediasetinfinity.es/directo/gh-24h-1/) | [logo](https://pbs.twimg.com/profile_images/1960061865922371584/t9uA0-Tu_200x200.jpg) | - | EXTA,GEO |
+| Uno de GH20 24h 2 - Gran Hermano (Mediaset Infinity) | - | [web](https://www.mediasetinfinity.es/directo/gh-24h-2/) | [logo](https://pbs.twimg.com/profile_images/1960061865922371584/t9uA0-Tu_200x200.jpg) | - | EXTA,GEO |
 | Canal Quickie | [stream](https://player.twitch.tv/?channel=canalquickie&parent=play.tdtchannels.com) - [youtube](https://www.youtube.com/channel/UCCuPIAKDI8wp-WD0wiFXa7g/live) | [web](https://linktr.ee/canalquickie) | [logo](https://pbs.twimg.com/profile_images/1838908963850481665/Cuhce_U0_200x200.jpg) | - | EMB |
+| Operación Triunfo | [youtube](https://www.youtube.com/channel/UCc1sAhdaLjfJi11X1awO-yg/live) | [web](https://www.youtube.com/@operaciontriunfo) | [logo](https://graph.facebook.com/operaciontriunfo/picture?width=200&height=200) | - | EMB |
 | Canal Parlamento | [m3u8](https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8) | [web](https://www.congreso.es/actualidad/canal-parlamento) | [logo](https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200) | - | - |
 | Congreso de los Diputados | [m3u8 # 1](https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8) - [m3u8 # 2](https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8) - [m3u8 # 3](https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8) - [m3u8 # 4](https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8) - [m3u8 # 5](https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8) | [web](https://www.congreso.es/es/congreso-en-directo) | [logo](https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200) | - | - |
 | La Moncloa (Presidente) | [m3u8](https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg) | [web](https://www.lamoncloa.gob.es/multimedia/videos/presidente/Paginas/2020/directo.aspx) | [logo](https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200) | - | - |
@@ -142,7 +146,7 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Canal Sur Andalucía | [m3u8 # 1](https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8) - [m3u8 # 2](https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8) - [youtube](https://www.youtube.com/channel/UChtLgH7ZJLqLGWJpBnzy9Lg/live) | [web](https://www.canalsurmas.es/videos/131772-canal-sur-andalucia) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalSurA.TV | - |
-| Canal Sur 2 Accesible | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/77595-canal-sur-2-accesible) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
+| Canal Sur 2 Accesible | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/77595-canal-sur-2-accesible) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | CanalSurA.TV | - |
 | Canal Sur Más Noticias | [m3u8](https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8) | [web](https://www.canalsurmas.es/videos/131524-canal-sur-mas-live-14) | [logo](https://graph.facebook.com/CanalSurNoticias/picture?width=200&height=200) | - | - |
 | Jerez TV | [youtube](https://www.youtube.com/channel/UCHVquS6wXQAsESO2bwZ7esw/live) | [web](https://jereztelevision.com) | [logo](https://graph.facebook.com/jerez.television/picture?width=200&height=200) | - | EMB |
 | 101TV Málaga | [m3u8](https://liveingesta318.cdnmedia.tv/101televisionlive/smil:rtmp01.smil/playlist.m3u8?DVR) - [youtube](https://www.youtube.com/channel/UCJzt0XyxSwpsNODokzG4iRw/live) | [web](https://www.101tv.es/endirecto101tv/) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | 101Malaga.TV | UAG,REFI1 |
@@ -187,7 +191,7 @@
 | RTV Tarifa | [youtube](https://www.youtube.com/channel/UCx5_sA41mFHsZio4umTH3Qw/live) | [web](https://www.facebook.com/RTVTARIFA/) | [logo](https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200) | - | EMB |
 | Sal TV | [m3u8](https://play.agenciastreaming.com:8081/saltv/index.m3u8) | [web](https://www.saltv.es/programacion/) | [logo](https://graph.facebook.com/SalTelevision/picture?width=200&height=200) | - | - |
 | Manilva TV | [m3u8](https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/tracks-v1a1/mono.m3u8) | [web](https://www.rtvmanilva.com/tvdirecto/) | [logo](https://graph.facebook.com/rtvmanilva/picture?width=200&height=200) | - | NONAV,REFC1 |
-| Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](https://www.canalmalaga.es/tv-directo) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | CanalMalaga.TV | - |
+| Canal Málaga | [m3u8](https://canalmalaga-tv-live.flumotion.com/playlist.m3u8) | [web](https://www.canalmalaga.es/videos/251314-directo-television) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | CanalMalaga.TV | - |
 | 101TV Axarquía | [m3u8](https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8) | [web](https://www.101tv.es/directo-axarquia-almijara/) | [logo](https://graph.facebook.com/101Axarquia/picture?width=200&height=200) | 101Axarquía.TV | - |
 | 9 la Loma TV | [m3u8](https://9laloma.tv/live.m3u8) | [web](https://9laloma.tv/directo/) | [logo](https://graph.facebook.com/9laloma/picture?width=200&height=200) | 9LaLoma.TV | NONAV |
 | Écija Comarca TV | [youtube](https://www.youtube.com/channel/UCXwvKOSEF5TK1Y8TMq1pzNA/live) | [web](https://tvm.ecija.es) | [logo](https://graph.facebook.com/ecijacomarcatelevision/picture?width=200&height=200) | - | EMB |
@@ -195,7 +199,7 @@
 | Fuengirola TV | [m3u8](https://streaming004.gestec-video.com/hls/FTV.m3u8) | [web](https://fuengirolatv.com/directo-ftv/) | [logo](https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200) | FuengirolaTV.TV | - |
 | PTV Granada | [m3u8](https://streamer.zapitv.com/PTV-granada/index.m3u8) | [web](https://ptvtelecom.com/canales/granada.html) | [logo](https://graph.facebook.com/PTVGranada/picture?width=200&height=200) | - | UAGB |
 | PTV Córdoba | [m3u8](https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8) | [web](https://ptvtelecom.com/canales/cordoba.html) | [logo](https://graph.facebook.com/PTVCOR/picture?width=200&height=200) | - | UAGB |
-| TV Carmona | [youtube](https://youtu.be/I7GQdc7J2Xs) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
+| TV Carmona | [youtube](https://www.youtube.com/channel/UC0DxWqYlkMuiRe3xMpyXHSA/live) | [web](https://www.televisioncarmona.com) | [logo](https://graph.facebook.com/126011457417096/picture?width=200&height=200) | - | EMB |
 | Mijas 3.40 TV | [m3u8](https://streaming004.gestec-video.com/hls/MIJAS.m3u8) | [web](https://mijascomunicacion.com/mijas-340-tv-en-directo/) | [logo](https://graph.facebook.com/Mijas340TV/picture?width=200&height=200) | Mijas340TV.TV | - |
 | MIRA TV | - | [web](https://www.elmira.es/miratv/) | [logo](https://graph.facebook.com/miratelevision/picture?width=200&height=200) | - | EXTA |
 | 101TV Cádiz | [m3u8](https://www.streaming101tv.es:19360/cadiz/cadiz.m3u8) | [web](https://www.101tv.es/directocadiz/) | [logo](https://graph.facebook.com/101tvAntequera/picture?width=200&height=200) | - | - |
@@ -209,8 +213,10 @@
 | 101TV Ronda | [m3u8](https://www.streaming101tv.es:19360/ronda/ronda.m3u8) | [web](https://www.101tv.es/directo101tvronda/) | [logo](https://graph.facebook.com/101tvmalaga/picture?width=200&height=200) | - | - |
 | Cancionero TV | [m3u8](http://37.130.151.51/hls1/cancionero.m3u8) | [web](http://37.130.151.51/cancionerotv/index.html) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_nKBwD3C_DqADS-cD9choTd0NDkCsF_EcNtXWmFd7XDQw=s200) | - | NONAV |
 | PTV Almería | [m3u8](https://streamer.zapitv.com/ptv_almeria/index.m3u8) | [web](https://ptvtelecom.com/canales/almeria.html) | [logo](https://pbs.twimg.com/profile_images/1612490465005142019/AU1R7Q6q_200x200.jpg) | - | UAGB |
+| TeleGranada | [m3u8](https://live.telegranada.es/hls/stream.m3u8) | [web](https://artefm.es/) | [logo](https://graph.facebook.com/Telegranada/picture?width=200&height=200) | - | - |
 | Cofradias 24h | [youtube](https://www.youtube.com/channel/UCv5WgSisSDgI90g8-E5rU7Q/live) | [web](https://www.youtube.com/@LIBETELTV) | [logo](https://yt3.ggpht.com/eM_41EMbfLT9omch7MIGSlwg71gjSrsrPpS7TuBlFjYXLrC5pIIx8zx9SJ0q2Gvf2Gj3nblYFAw=s200) | - | EMB |
 | Parlamento de Andalucía | [m3u8 # 1](https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8) - [m3u8 # 2](https://stream2.parlamentodeandalucia.es/realizacion2/realizacion2/playlist.m3u8) - [m3u8 # 3](https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8) - [m3u8 # 4](https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8) | [web](https://www.parlamentodeandalucia.es/stream/canal4.html) | [logo](https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200) | - | - |
+| Junta de Andalucía | [youtube](https://www.youtube.com/channel/UCTuxa7i4GXpGSsXC_N3s0KQ/live) | [web](https://www.juntadeandalucia.es) | [logo](https://graph.facebook.com/AndaluciaJunta/picture?width=200&height=200) | - | EMB |
 
 ### Aragón
 
@@ -222,6 +228,7 @@
 | Canal 25 Barbastro TV | [m3u8](https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8) | [web](https://www.canal25tv.es/index.php/ct-menu-item-5) | [logo](https://graph.facebook.com/tvbarbastro/picture?width=200&height=200) | - | - |
 | Antena Aragón | [youtube](https://www.youtube.com/channel/UCk4-yZ_grYVb2N4ZcAnCApA/live) | [web](https://diarioaragones.com) | [logo](https://yt3.ggpht.com/ytc/AL5GRJWC1oJVC1hgcGBN1OHnroVVoe_pcgLvGJWvOA8aGQ=s200) | - | EMB |
 | Cortes de Aragón | [youtube](https://www.youtube.com/channel/UCyBXbc0UicHRPJLmHppjpgQ/live) | [web](https://www.cortesaragon.es) | [logo](https://graph.facebook.com/@cortesdearagon/picture?width=200&height=200) | - | EMB |
+| Gobierno de Aragón | [youtube](https://www.youtube.com/channel/UCEIuOP1ex5JjB4JhtJ4Sbjg/live) | [web](https://www.aragon.es) | [logo](https://graph.facebook.com/GobAragon/picture?width=200&height=200) | - | EMB |
 
 ### Canarias
 
@@ -244,6 +251,7 @@
 | Factoría de Carnaval | [m3u8](https://eu1.servers10.com:8081/8116/index.m3u8) | [web](https://multicarnaval.com) | [logo](https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg) | - | - |
 | Afortunadas TV | [m3u8](https://cloudvideo.servers10.com:8081/8108/index.m3u8) | [web](https://www.afortunadastv.com) | [logo](https://graph.facebook.com/afortunadastv/picture?width=200&height=200) | - | - |
 | Parlamento de Canarias | [youtube](https://www.youtube.com/channel/UCv7xnuWoLWJNEXNWIGkP19g/live) | [web](https://www.parcan.es) | [logo](https://graph.facebook.com/parlamentodecanarias/picture?width=200&height=200) | - | EMB |
+| Gobierno de Canarias | [youtube](https://www.youtube.com/channel/UCOfVTY15POTQM37WNlHRCgQ/live) | [web](https://www.gobiernodecanarias.org/presidencia/) | [logo](https://graph.facebook.com/PRES.Gobcan/picture?width=200&height=200) | - | EMB |
 
 ### Cantabria
 
@@ -254,7 +262,9 @@
 | De Laredu Lin TV | [m3u8](https://eu1.servers10.com:8081/8034/index.m3u8) | [web](https://delaredulintv.com/video/tv-online/) | [logo](https://graph.facebook.com/delaredulintv/picture?width=200&height=200) | - | NONAV |
 | Popular TV Cantabria | [m3u8](https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8) | [web](https://populartvcantabria.com/en-directo/) | [logo](https://graph.facebook.com/populartvcantabria/picture?width=200&height=200) | PopularTV_S.TV | - |
 | Tevecan 9 | [m3u8](https://streamlov.alsolnet.com/jarbhouse/live/playlist.m3u8) | [web](https://closeradio.tv/jarbhouse/) | [logo](https://static.wixstatic.com/media/4d3432_610170cea6c747a986bbea4137f5c15f~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/mosca%20logo%209_transparente.png) | - | - |
+| Saja Nansa TV | [m3u8](https://streamlov.alsolnet.com/sajanansatv/live/playlist.m3u8) | [web](https://www.ondaoccidental.es/sajanansatv/) | [logo](https://graph.facebook.com/ondaoccidental/picture?width=200&height=200) | - | - |
 | Parlamento de Cantabria | [youtube](https://www.youtube.com/channel/UCn3GTIMs_v8p2s4vVBG_8PA/live) | [web](https://parlamento-cantabria.es) | [logo](https://graph.facebook.com/parlamentodecantabria/picture?width=200&height=200) | - | EMB |
+| Gobierno de Cantabria | [youtube](https://www.youtube.com/channel/UCyzBoaIJN13fi2b4yDKes5A/live) | [web](https://www.cantabria.es) | [logo](https://graph.facebook.com/gobcantabria/picture?width=200&height=200) | - | EMB |
 
 ### Castilla-La Mancha
 
@@ -272,6 +282,7 @@
 | Canal 4 Mancha Centro | [m3u8](https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8) | [web](https://villarrobledonoticias.com/canal-4-mancha/) | [logo](https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200) | - | UAG |
 | Canal 2000 | [m3u8](http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8) | [web](http://www.canal2000.com) | [logo](https://graph.facebook.com/canal2000/picture?width=200&height=200) | - | NONAV |
 | TeleToledo | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1) | [web](https://www.teletoledo.es) | [logo](https://graph.facebook.com/Teletoledo/picture?width=200&height=200) | - | - |
+| Cortes de Castilla-La Mancha | [youtube](https://www.youtube.com/channel/UCnv_UB9qXkE8YWpDOp6_p2g/live) | [web](https://www.cortesclm.es) | [logo](https://graph.facebook.com/cortesclm/picture?width=200&height=200) | - | EMB |
 | Gobierno de Castilla-La Mancha | - | [web](https://www.castillalamancha.es/actualidad/emision-en-directo) | [logo](https://graph.facebook.com/juntadecastillalamancha/picture?width=200&height=200) | - | EXTA |
 
 ### Castilla y León
@@ -292,6 +303,7 @@
 | 987 Live | [youtube](https://www.youtube.com/channel/UC41bdA6AiwEb34_S7KcMHOw/live) | [web](https://987tv.es) | [logo](https://graph.facebook.com/987tv/picture?width=200&height=200) | - | EMB |
 | Canal 54 | [youtube](https://www.youtube.com/channel/UCUe08XE2qatlrBclUWTr81Q/live) | [web](https://www.canal54.es/directo/) | [logo](https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200) | - | EMB |
 | TV Aranda | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1) | [web](https://www.telearanda.es) | [logo](https://graph.facebook.com/575943555801687/picture?width=200&height=200) | - | - |
+| Cortes de Castilla y León | [m3u8 # 1](https://directo.ccyl.es/Hemiciclo/smil:Hemiciclo.smil/playlist.m3u8) - [m3u8 # 2](https://directo.ccyl.es/CortesDeLeon/smil:CortesDeLeon.smil/playlist.m3u8?DVR) - [m3u8 # 3](https://directo.ccyl.es/CamposDeCastilla/smil:CamposDeCastilla.smil/playlist.m3u8) - [m3u8 # 4](https://directo.ccyl.es/CastilloDeFuensaldana/smil:CastilloDeFuensaldana.smil/playlist.m3u8) | [web](https://www.ccyl.es/Home/Inicio) | [logo](https://graph.facebook.com/cortesdecastillayleon/picture?width=200&height=200) | - | - |
 | Junta Castilla y León | [m3u8](https://16escalones-live2.flumotion.com/chunks.m3u8) | [web](https://www.jcyl.es/web/jcyltv.html) | [logo](https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200) | - | - |
 
 ### Cataluña
@@ -352,6 +364,7 @@
 | Fitel Television | [m3u8](https://tv.mywifisocial.es/live.m3u8) | [web](https://fiteltelevision.com/directe/) | [logo](https://graph.facebook.com/FitelTelevision/picture?width=200&height=200) | - | - |
 | 22TV Televisió de Solsona | [stream](https://player.twitch.tv/?channel=22tv_celsona&parent=play.tdtchannels.com) | [web](https://22cabletv.wordpress.com/) | [logo](https://yt3.ggpht.com/ovQWWhA18AZmmjp34yMreDiMViVWDNDV4goBCru2tkA0_MClFvT-j63WIKKooNwotM9ZAlri=s200) | - | EMB |
 | 3CAT Càmeres del temps | [m3u8](https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/beauties/) | [logo](https://graph.facebook.com/som3Cat/picture?width=200&height=200) | - | - |
+| Govern de la Generalitat de Catalunya | [youtube](https://www.youtube.com/channel/UCLaqEt7ZJeqFCI2WB6XLz8w/live) | [web](https://govern.cat/gov) | [logo](https://graph.facebook.com/governcat/picture?width=200&height=200) | - | EMB |
 
 ### Ceuta
 
@@ -378,6 +391,7 @@
 | C33 Madrid | [m3u8](https://media2.streambrothers.com:1936/8140/8140/.m3u8) | [web](https://www.canal33.info) | [logo](https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200) | C33M.TV | - |
 | LIRA TV | [m3u8](https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8) | [web](https://liratv.es) | [logo](https://graph.facebook.com/liratvlive/picture?width=200&height=200) | - | NONAV |
 | Asamblea de Madrid | [youtube](https://www.youtube.com/channel/UCqACQgeFG_-PmQCn3tdAFpg/live) | [web](https://www.asambleamadrid.es) | [logo](https://graph.facebook.com/asambleamadrid/picture?width=200&height=200) | - | EMB |
+| Gobierno de la Comunidad de Madrid | [youtube](https://www.youtube.com/channel/UCTS_hF6ho1Vsjz7266Qik2w/live) | [web](https://www.comunidad.madrid/) | [logo](https://graph.facebook.com/ComunidadMadrid/picture?width=200&height=200) | - | EMB |
 
 ### C. Foral de Navarra
 
@@ -386,6 +400,7 @@
 | Navarra TV | [stream](https://www.dailymotion.com/embed/video/x8dhap9?autoplay=1) | [web](https://www.navarratelevision.es/Directo) | [logo](https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200) | NaTV.TV | EMB,EXTB |
 | TeleRibera | [m3u8](https://video3.lhdserver.es/teleribera/live.m3u8) | [web](https://teleribera.com) | [logo](https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg) | - | - |
 | Parlamento de Navarra | [m3u8 # 1](https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR) - [m3u8 # 2](https://broadcasting.parlamentodenavarra.es/live/canal2/playlist.m3u8?DVR) - [m3u8 # 3](https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR) | [web](https://www.parlamentodenavarra.es) | [logo](https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg) | - | - |
+| Gobierno de Navarra | [youtube](https://www.youtube.com/channel/UCBeUe-p0YNNP0trYcC3EKJg/live) | [web](https://www.navarra.es) | [logo](https://graph.facebook.com/GobiernoNavarra/picture?width=200&height=200) | - | EMB |
 
 ### C. Valenciana
 
@@ -408,7 +423,7 @@
 | Información TV | [stream](https://player.twitch.tv/?channel=informaciontv&parent=play.tdtchannels.com) | [web](https://www.informacion.es/videos/informaciontv/directo/) | [logo](https://pbs.twimg.com/profile_images/1790304927471796224/0JZiK8vW_200x200.jpg) | Informacion.TV | EMB |
 | TV 4 La Vall | [m3u8](https://valldeuxo.gestec-video.com/hls/lavall.m3u8) | [web](https://valldeuxo.gestec-video.com/lavall.php) | [logo](https://graph.facebook.com/TV4LaVall/picture?width=200&height=200) | - | NONAV |
 | Distrito TV Valencia | [m3u8](https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8) | [web](https://eldistrito.es/distrito-tv-llega-a-la-comunidad-valenciana-a-traves-de-la-tdt/) | [logo](https://graph.facebook.com/2004860103163343/picture?width=200&height=200) | Distrito.TV | - |
-| Elche 7 TV | [m3u8](https://elche7tv.gestec-video.com/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://pbs.twimg.com/profile_images/1543985670066245632/cX_NvIkT_200x200.jpg) | - | NONAV |
+| Elche 7 TV | [m3u8](https://elche7tv.gestec-video.com/hls/canal2.m3u8) | [web](https://elche7tv.es/tv-en-directo/) | [logo](https://pbs.twimg.com/profile_images/1543985670066245632/cX_NvIkT_200x200.jpg) | Elche7.TV | NONAV |
 | Tele Safor | [m3u8](https://video.telesafor.com/hls/video.m3u8) | [web](https://telesafor.com) | [logo](https://yt3.ggpht.com/ytc/APkrFKZ5UffEAeHVZWc1fbQsPu4VNureSfNMwlMoRmgH=s200) | - | - |
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | Univers TV | [m3u8](https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://graph.facebook.com/UniversValenciaDigital/picture?width=200&height=200) | - | - |
@@ -425,6 +440,7 @@
 | Enguera TV | [stream](https://player.twitch.tv/?channel=engueratv&parent=play.tdtchannels.com) | [web](https://www.enguera.es/content/enguera-tv) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJWP8ahafBlFAbCsP3tT17ooK6arGKNmcx6VES4o=s200) | - | EMB |
 | 33TV Valencia | [m3u8](https://limited43.todostreaming.es/live/simbana-livestream.m3u8) | [web](https://karyganet.com/33-tv/) | [logo](https://karyganet.com/wp-content/uploads/tv-33.jpg) | - | - |
 | Corts Valencianes | [m3u8](https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8) | [web](https://mediateca.cortsvalencianes.es/library/lives/) | [logo](https://graph.facebook.com/cortsval/picture?width=200&height=200) | - | - |
+| Generalitat Valenciana | [youtube](https://www.youtube.com/channel/UC7K6JEaXU--Ky356DgE1m-Q/live) | [web](https://www.gva.es) | [logo](https://graph.facebook.com/generalitatvalenciana/picture?width=200&height=200) | - | EMB |
 
 ### Extremadura
 
@@ -435,6 +451,7 @@
 | Nuestra Comarca TV | [stream](https://player.twitch.tv/?channel=nuestracomarcatelevision&parent=play.tdtchannels.com) | [web](https://www.nuestracomarca.com) | [logo](https://graph.facebook.com/nuestra.comarca/picture?width=200&height=200) | - | EMB |
 | Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](https://www.villafrancadelosbarros.es/blog/) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
 | Asamblea de Extremadura | [youtube](https://www.youtube.com/channel/UCDRei0Imqv9iV8mHQdYwGdQ/live) | [web](https://www.asambleaex.es) | [logo](https://graph.facebook.com/AsambleaExtremadura/picture?width=200&height=200) | - | EMB |
+| Junta de Extremadura | [youtube](https://www.youtube.com/channel/UCjFp79A_UFcx01_4N0gwoSg/live) | [web](https://www.juntaex.es) | [logo](https://graph.facebook.com/JuntaDeExtremadura/picture?width=200&height=200) | - | EMB |
 
 ### Galicia
 
@@ -450,7 +467,7 @@
 | TVG Mira Radio Galega | [m3u8](https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/playlist.m3u8) | [web](https://www.agalega.gal/videos/76478-mira-rg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | Corenta anos da TVG | [m3u8](https://crtvg-40-anos-crtvg-schlive.flumotion.cloud/crtvglive/smil:channel9PRG.smil/playlist.m3u8) | [web](https://www.agalega.gal/videos/267948-corenta-anos-da-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | - | - |
 | TV Ferrol | [m3u8](https://directo.tvferrol.es/tv.m3u8) | [web](https://tvferrol.es/es/contenido.php?c=4) | [logo](https://graph.facebook.com/tvferrol/picture?width=200&height=200) | - | - |
-| TeleVigo | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16113&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&ssai_enabled=1&content_cat=IAB1&content_channel=televigo&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&content_id=[CONTENT_ID]) | [web](https://www.televigo.com) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | - | - |
+| TeleVigo | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16113&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&ssai_enabled=1&content_cat=IAB1&content_channel=televigo&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&content_id=[CONTENT_ID]) | [web](https://www.televigo.com) | [logo](https://graph.facebook.com/televigo/picture?width=200&height=200) | TeleVigo.TV | - |
 | Telemiño | [m3u8](https://laregionlive.flumotion.cloud/laregionlive/smil:channel1.smil/playlist.m3u8) | [web](https://www.laregion.es/teleminho/) | [logo](https://graph.facebook.com/teleminho/picture?width=200&height=200) | - | - |
 | Hermes TV | [stream](https://player.twitch.tv/?channel=hermestelevisionvigo&parent=play.tdtchannels.com) | [web](https://hermesvigo.com/directo-tv/) | [logo](https://graph.facebook.com/491789551017784/picture?width=200&height=200) | - | EMB |
 | Anove TV | [m3u8](https://cloud.fastchannel.es/mic/manifiest/anove.m3u8) | [web](https://anove.gal) | [logo](https://graph.facebook.com/anove.tv/picture?width=200&height=200) | - | - |
@@ -468,6 +485,7 @@
 | Fibwi Diario | [m3u8](https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8) | [web](https://www.fibwidiario.com/estaticas/fibwi-tv.html) | [logo](https://graph.facebook.com/Fibwidiario/picture?width=200&height=200) | - | - |
 | SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/av:vod1/SAMibiza/index.fmp4.m3u8) | [web](https://listen.samibiza.com/video) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
 | Parlament de les Illes Balears | [youtube](https://www.youtube.com/channel/UCpLm25L3R1VVOQDFiSCCmDA/live) | [web](https://www.parlamentib.es) | [logo](https://pbs.twimg.com/profile_images/1628713790303879168/hOxkqhuJ_200x200.jpg) | - | EMB |
+| Govern de les Illes Balears | [youtube](https://www.youtube.com/channel/UCWq6paV7LGHW7YdR0kYLx_w/live) | [web](https://www.caib.es) | [logo](https://graph.facebook.com/GovernIllesBalears/picture?width=200&height=200) | - | EMB |
 
 ### La Rioja
 
@@ -477,6 +495,7 @@
 | 7 La Rioja | [stream](https://www.dailymotion.com/embed/video/x8dhao1?autoplay=1) | [web](https://www.7rioja.tv/Directo) | [logo](https://graph.facebook.com/7riojatv/picture?width=200&height=200) | 7Rioja.TV | EMB,EXTB |
 | Parlamento de La Rioja | [m3u8](https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8) - [m3u8 # 2](https://media.parlamento-larioja.org/live/parlarioja_subtitulado/playlist.m3u8) | [web](https://mediateca.parlamento-larioja.org/live) | [logo](https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200) | - | - |
 | Cocina Familiar | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16114&live=1&avod=0&hls_marker=1&pod_duration=120&position=preroll&app_bundle=com.streamingconnect.viva&app_category=linear_tv&content_cat=IAB8&content_channel=cocinafamiliar&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&ssai_enabled=1&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120&app_domain=mirametv.live) | [web](https://cocina-familiar.com) | [logo](https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200) | - | - |
+| Gobierno de La Rioja | [youtube](https://www.youtube.com/channel/UCm0tq4vpa3bWZCr5sgiA6rQ/live) | [web](https://actualidad.larioja.org) | [logo](https://graph.facebook.com/lariojaorg/picture?width=200&height=200) | - | EMB |
 
 ### Melilla
 
@@ -505,6 +524,7 @@
 | Urola TV | [m3u8](https://5940924978228.streamlock.net/j_Directo2/j_Directo2/playlist.m3u8) | [web](https://www.urolatelebista.com) | [logo](https://graph.facebook.com/urolatelebista/picture?width=200&height=200) | - | - |
 | STZ Telebista | [m3u8](https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8) | [web](https://stztelebista.com) | [logo](https://graph.facebook.com/StzGrupo/picture?width=200&height=200) | - | - |
 | Eusko Legebiltzarra | [m3u8 # 1](https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-1/playlist.m3u8) - [m3u8 # 2](https://bideoak.legebiltzarra.eus/zuzenean/stream-3_channel-2/playlist.m3u8) | [web](https://www.legebiltzarra.eus) | [logo](https://graph.facebook.com/legebiltzarra/picture?width=200&height=200) | - | - |
+| Eusko Jaurlaritza | - | [web](https://www.euskadi.eus/gobierno-vasco/inicio/) | [logo](https://graph.facebook.com/EuskoJaurlaritza/picture?width=200&height=200) | - | EXTA |
 
 ### P. de Asturias
 
@@ -512,6 +532,7 @@
 | - | - | - | - | - | - |
 | TPA7 | - | [web](https://www.rtpa.es/tpa-television) | [logo](https://graph.facebook.com/RTPAoficial/picture?width=200&height=200) | TPA.TV | EXTA |
 | Junta General del Principado de Asturias | [m3u8](https://wmserver.jgpa.es/live/_definst_/livestream2/playlist.m3u8) | [web](https://www.jgpa.es/emision-en-directo) | [logo](https://pbs.twimg.com/profile_images/1898981135515881472/kZzZjI1u_200x200.jpg) | - | - |
+| Gobierno del Principado de Asturias | [youtube](https://www.youtube.com/channel/UCyssDZ4splBnG9_jD-FOpFA/live) | [web](https://actualidad.asturias.es) | [logo](https://graph.facebook.com/gobiernodeasturias/picture?width=200&height=200) | - | EMB |
 
 ### R. de Murcia
 
@@ -523,6 +544,7 @@
 | Arabí TV | [m3u8](https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8) | [web](https://www.arabitv.es/en-directo/) | [logo](https://graph.facebook.com/arabitvyecla/picture?width=200&height=200) | - | - |
 | Canal 6 Totana | [youtube](https://www.youtube.com/channel/UCO_V53zJvyne-sroV8RzU2A/live) | [web](http://www.totanaweb.es) | [logo](https://graph.facebook.com/TotanaWeb/picture?width=200&height=200) | - | EMB |
 | Asamblea Regional de Murcia | [youtube](https://www.youtube.com/channel/UCGWt3Hunyq2i8Qso_de8x5g/live) | [web](https://www.asambleamurcia.es) | [logo](https://graph.facebook.com/asambleamurcia/picture?width=200&height=200) | - | EMB |
+| Consejo de Gobierno de la Región de Murcia | [m3u8](https://crmlive.redctnet.es/liveedge/ConsejoGob/playlist.m3u8) | [web](https://www.carm.es) | [logo](https://graph.facebook.com/RegiondeMurciaRM/picture?width=200&height=200) | - | - |
 
 ## Int. Europa
 
@@ -531,7 +553,7 @@
 | TVE Int. Europa | [m3u8](https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8) | [web](https://www.rtve.es/play/videos/directo/tve-internacional-europa/) | [logo](https://graph.facebook.com/tveInternacional/picture?width=200&height=200) | TVE_INTER.TV | GEO |
 | TV3.CAT | [m3u8](https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/tv3/) | [logo](https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png) | TVC.TV | - |
 | ETB Basque | [m3u8](https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8) | [web](https://www.eitb.eus/es/television/eitb-basque/) | [logo](https://graph.facebook.com/eitb/picture?width=200&height=200) | ETBSAT.TV | - |
-| TVG América | [m3u8](https://crtvg-america.flumotion.cloud/playlist.m3u8) | [web](https://agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
+| TVG Europa | [m3u8](https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8) | [web](https://agalega.gal/videos/76475-tvg) | [logo](https://graph.facebook.com/CRTVG/picture?width=200&height=200) | TVGA.TV | - |
 | Telemadrid Internacional | [m3u8](https://new-international-23-secure2.akamaized.net/index.m3u8) - [youtube](https://www.youtube.com/channel/UCv2BcgqxHSrl2QQfIkjR5Eg/live) | [web](https://www.telemadrid.es/emision-en-directo-telemadrid-int/) | [logo](https://graph.facebook.com/telemadrid/picture?width=200&height=200) | TeleMadridInt.TV | EMB |
 | GCM Internacional | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16149&live=1&avod=0&hls_marker=1&pod_duration=120&app_bundle=com.streamingconnect.viva&app_category=linear_tv&app_domain=mirametv.live&content_cat=IAB1&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&content_channel=GCMI&content_id=mirametv_live&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&position=[POSITION]&min_ad_duration=6&max_ad_duration=120&ssai_enabled=1) | [web](https://www.grupocadenamedia.es) | [logo](https://pbs.twimg.com/profile_images/1752299087402041344/eAHH3L02_200x200.jpg) | - | - |
 | ATV Andorra | [m3u8](https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/atv) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | ATVHD.TV | EXTA |
@@ -635,9 +657,9 @@
 | Exitosa Noticias Perú | [m3u8](https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.fmp4.m3u8) | [web](https://www.exitosanoticias.pe/tv/envivo) | [logo](https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200) | - | - |
 | Panamericana Perú | [stream](https://player.kick.com/ptv5) | [web](https://panamericana.pe/tvenvivo/hd) | [logo](https://graph.facebook.com/panamericana.pe/picture?width=200&height=200) | - | EMB |
 | Willax Perú | [stream](https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1) | [web](https://willax.tv/en-vivo/) | [logo](https://graph.facebook.com/willaxtv/picture?width=200&height=200) | - | EMB,EXTB |
-| TV Perú | [m3u8](https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8) | [web](https://www.tvperu.gob.pe/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | EXTA |
-| TV Perú Noticias | [m3u8](https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200) | - | EXTA |
-| Canal IPe Perú | [m3u8](https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8) | [web](https://www.canalipe.tv/streaming) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | EXTA |
+| TV Perú | [m3u8](https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8) | [web](https://www.tvperu.gob.pe/play) | [logo](https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200) | - | EXTA |
+| TV Perú Noticias | [m3u8](https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8) | [web](https://www.tvperu.gob.pe/noticias/play) | [logo](https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200) | - | EXTA |
+| Canal IPe Perú | [m3u8](https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8) | [web](https://www.canalipe.tv/streaming) | [logo](https://graph.facebook.com/canalipe/picture?width=200&height=200) | - | EXTA |
 | Latina Perú | [m3u8 # 1](https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8) - [m3u8 # 2](https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8) - [m3u8 # 3](https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8) | [web](https://www.latina.pe/tvenvivo) | [logo](https://graph.facebook.com/Latina.pe/picture?width=200&height=200) | - | - |
 | NET Channel Perú | [m3u8](https://media.streambrothers.com:19360/8158/8158.m3u8) | [web](https://www.netchanneltv.com) | [logo](https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg) | - | NONAV |
 | TeleSUR Venezuela | [m3u8](https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8) | [web](https://www.telesurtv.net/seccion/programas/) | [logo](https://graph.facebook.com/teleSUR/picture?width=200&height=200) | TeleSUR.TV | - |
@@ -670,11 +692,12 @@
 | WTV Nicaragua | [m3u8](https://cloudvideo.servers10.com:8081/8130/index.m3u8) | [web](https://wtvnicaragua.com/player/tv-player.html) | [logo](https://graph.facebook.com/WTVNicaraguacanal20/picture?width=200&height=200) | - | - |
 | TeleDiario Costa Rica | [m3u8](https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8) | [web](https://www.telediario.cr/television) | [logo](https://graph.facebook.com/MultimediosCR/picture?width=200&height=200) | - | - |
 | Trece Costa Rica | [stream](https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1) | [web](https://costaricamedios.cr/envivo) | [logo](https://yt3.ggpht.com/ytc/AMLnZu9k8cMAf0m3UXLYXyfrvzKd3nmOuIYOc5k4ZGOWnA=s200) | - | EMB,EXTB |
+| WIPR Puerto Rico | [m3u8](https://streamwipr.pr/hls/stream/index.m3u8) | [web](https://wipr.pr) | [logo](https://graph.facebook.com/wiprtv/picture?width=200&height=200) | - | - |
 | CNN Brasil | [youtube](https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live) | [web](https://www.cnnbrasil.com.br/ao-vivo) | [logo](https://graph.facebook.com/cnnbrasil/picture?width=200&height=200) | - | EMB |
 | SBT Interior Brasil | - | [web](https://sbtinterior.com/aovivo/) | [logo](https://graph.facebook.com/sbtnointerior/picture?width=200&height=200) | - | EXTA |
 | Record News Brasil | [youtube # BR](https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live) | [web](https://noticias.r7.com/record-news) | [logo](https://graph.facebook.com/recordnews/picture?width=200&height=200) | - | EMB |
 | Rede Massa Brasil | [youtube # BR](https://www.youtube.com/channel/UCX0P-o4zRG7vkGl226MfRYg/live) | [web](https://www.redemassa.com.br/aovivo/) | [logo](https://graph.facebook.com/RedeMassa/picture?width=200&height=200) | - | EMB |
-| Trinidad and Tobago Television | [stream](https://tegostream.com/player/tego-player.php?broadcaster=ttt&channel=255) | [web](https://www.ttt.live/stream/) | [logo](https://graph.facebook.com/tttliveonline/picture?width=200&height=200) | - | EMB |
+| Trinidad and Tobago Television | [stream](https://player.tegotv.com/player.php?channel=1) | [web](https://www.ttt.live/stream/) | [logo](https://graph.facebook.com/tttliveonline/picture?width=200&height=200) | - | EMB |
 
 ## Int. Asia
 
@@ -710,7 +733,7 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| Medi1 TV Marruecos | [m3u8 # 1](https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR) - [m3u8 # 2](https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR) - [m3u8 # 3](https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR) | [web](https://medi1tv.com) | [logo](https://graph.facebook.com/Medi1TV/picture?width=200&height=200) | - | - |
+| Medi1 TV Marruecos | [m3u8 # 1](https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR) - [m3u8 # 2](https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR) - [m3u8 # 3](https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR) | [web](https://medi1tv.com) | [logo](https://graph.facebook.com/Medi1TV/picture?width=200&height=200) | Medi1.TV | - |
 | SNRT Al Aoula Marruecos | [stream](https://snrt.player.easybroadcast.io/events/73_aloula_w1dqfwm) | [web](https://snrtlive.ma/fr/al-aoula) | [logo](https://graph.facebook.com/AlAoulaTVMaroc/picture?width=200&height=200) | - | EMB |
 | SNRT Laayoune El Aaiún Marruecos | [stream](https://snrt.player.easybroadcast.io/events/73_laayoune_pgagr52) | [web](https://snrtlive.ma/fr/laayoune) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_lmtJVOIgmbIZIBq75f-RE14vGPXH6I5Ldx68nUeGioig=s200) | - | EMB |
 | SNRT Arryadia Marruecos | [stream](https://snrt.player.easybroadcast.io/events/73_arryadia_k2tgcj0) | [web](https://snrtlive.ma/fr/arryadia) | [logo](https://graph.facebook.com/ArryadiaTVMaroc/picture?width=200&height=200) | - | EMB |
@@ -719,7 +742,7 @@
 | AfricaNews | [youtube # EN](https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/live) | [web](https://www.africanews.com/live/) | [logo](https://graph.facebook.com/africanews.channel/picture?width=200&height=200) | - | EMB |
 | Joy News TV Ghana | [youtube # EN](https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live) | [web](https://www.myjoyonline.com/media/joy-news-live) | [logo](https://graph.facebook.com/JoyNewsOnTV/picture?width=200&height=200) | - | EMB |
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
-| TVGE 1 Guinea Ecuatorial | [m3u8](https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8) | [web](https://www.tvgelive.gq/live.php) | [logo](https://www.tvgelive.gq/images/logo-dark.png) | - | - |
+| TVGE 1 Guinea Ecuatorial | [m3u8](https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8) | [web](https://www.tvgelive.gq/live.php) | [logo](https://pbs.twimg.com/profile_images/1382981938231775232/-lv9ymLe_200x200.jpg) | - | - |
 | RASD TV | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830&live=1) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
 | SenTV Senegal | [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/Sentv) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | EXTA |
 
