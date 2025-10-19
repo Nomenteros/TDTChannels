@@ -118,13 +118,13 @@
 | Canal Sur Radio Jerez | [mp3](https://rtva-live-radio.flumotion.com/rtva/csrjer.mp3) | [web](https://www.canalsurmas.es/videos/20767-canal-sur-radio-jerez) | [logo](https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200) | - | - |
 | Canal Sur Radio Málaga | [mp3](https://rtva-live-radio.flumotion.com/rtva/csrmal.mp3) | [web](https://www.canalsurmas.es/videos/20773-canal-sur-radio-malaga) | [logo](https://graph.facebook.com/canalsurmalaga/picture?width=200&height=200) | - | - |
 | Canal Sur Radio Sevilla | [mp3](https://rtva-live-radio.flumotion.com/rtva/csrsev.mp3) | [web](https://www.canalsurmas.es/videos/20774-canal-sur-radio-sevilla) | [logo](https://graph.facebook.com/canalsursevilla/picture?width=200&height=200) | - | - |
-| Radio Nacional Andalucía | [stream](https://dispatcher.rndfnk.com/crtve/rne1/and/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_and-live/3893442/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
-| Radio 5 Andalucía | [stream](https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_and/3894738/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
+| Radio Nacional Andalucía | [stream](https://dispatcher.rndfnk.com/crtve/rne1/and/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_and-live/3893442/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.Radio | - |
+| Radio 5 Andalucía | [stream](https://dispatcher.rndfnk.com/crtve/rne5/sev/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_and/3894738/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | RNE5.Radio | - |
 | Radio Marca Almería | [mp3](https://streaming.indalteco.net/proxy/radiomarca?mp=/rmarcaalm.mp3) | [web](https://www.radiomarcaalmeria.com/radio-en-directo/) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Radio Marca Málaga | [stream](https://malagafm.streaming-pro.com:8131/malagafmmobile) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
 | Radio Marca Sevilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_SEVILLA.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
-| SER Algeciras | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS.mp3) | [web](https://cadenaser.com/radio-algeciras/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Algeciras.Radio | - |
-| SER Almería | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3) | [web](https://cadenaser.com/ser-almeria/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Almeria.Radio | - |
+| SER Algeciras | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ALGECIRAS.mp3) | [web](https://cadenaser.com/radio-algeciras/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | CadenaS.Radio | - |
+| SER Almería | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3) | [web](https://cadenaser.com/ser-almeria/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | CadenaS.Radio | - |
 | SER Andalucía Centro | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ESTEPA.mp3) | [web](https://cadenaser.com/ser-andalucia-centro/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_AndaluciaCentro.Radio | - |
 | SER Andújar | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ANDUJAR.mp3) | [web](https://cadenaser.com/ser-andujar/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Andujar.Radio | - |
 | SER Antequera | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ANTEQUERA.mp3) | [web](https://cadenaser.com/ser-antequera/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Antequera.Radio | - |
@@ -552,7 +552,7 @@
 | Ràdio Cunit | [mp3](https://streaming.enacast.com/radiocunitHD.mp3) | [web](https://radiocunit.cat) | [logo](https://graph.facebook.com/radiocunit/picture?width=200&height=200) | - | - |
 | Ripollet Radio | [mp3](https://directe.ripolletradio.cat/live?mp3) | [web](https://ripolletradio.cat/en-directe/) | [logo](https://graph.facebook.com/RipolletRadio/picture?width=200&height=200) | - | - |
 | Ràdio Sant Pere i Sant Pau | [mp3](http://212.83.151.18:36686/;stream/1?1552499879263.mp3) | [web](https://www.radiospsp.com) | [logo](https://graph.facebook.com/Radio101.0/picture?width=200&height=200) | - | - |
-| Ràdio Vilamajor | [mp3](http://80.37.181.205:8000/;audio.mp3) | [web](https://www.radiovilamajor.cat) | [logo](https://graph.facebook.com/radio.vilamajor/picture?width=200&height=200) | - | - |
+| Ràdio Vilamajor | [stream](https://stream980.servemp3.com/radio) | [web](https://www.radiovilamajor.cat) | [logo](https://graph.facebook.com/radio.vilamajor/picture?width=200&height=200) | - | - |
 | Ràdio Mollet | [stream](https://enacast.com/radiomollet/streams/HD) - [mp3](https://streaming.enacast.com/radiomollet128.mp3) -| [web](https://www.radiomollet.com) | [logo](https://graph.facebook.com/radiomollet963/picture?width=200&height=200) | - | - |
 | UAB Ràdio | [m3u8](https://videosdigitals.uab.cat/live/uabradio/playlist.m3u8) | [web](https://uab.media/uabradio) | [logo](https://pbs.twimg.com/profile_images/1445682704117235722/vR8kEFTr_200x200.jpg) | - | - |
 | Ràdio Montblanc | [mp3](https://relay.stream.enacast-cloud.com:40045/radiomontblanc128.mp3) | [web](https://www.radiomontblanc.cat) | [logo](https://graph.facebook.com/139643876226143/picture?width=200&height=200) | - | - |
@@ -573,7 +573,7 @@
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/1245054974628892673/tjBDH_-q_200x200.jpg) | - | - |
 | 7deRàdio | [stream](https://stream.7deradio.cat/proxy/7deradio/stream) | [web](https://7deradio.cat) | [logo](https://graph.facebook.com/7deradio/picture?width=200&height=200) | - | - |
-| Taronja ràdio | [stream](https://radio.martiproduccions.com/taronjagirona) | [web](https://www.radiocapital.cat/taronja) | [logo](https://www.radiocapital.cat/wp-content/uploads/2025/01/Taronja-radio-1920X1080.jpg) | - | - |
+| Taronja ràdio | [stream](https://radio.martiproduccions.com/taronjagirona) | [web](https://www.radiocapital.cat/taronja) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | - | - |
 | MDT Radio Barcelona | [stream](https://streams1.mdtradio.com:8443/MdtBarcelonaEstudio) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/MDTradioBarcelona/picture?width=200&height=200) | - | - |
 
 ### Ceuta
@@ -586,6 +586,7 @@
 | SER Ceuta | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3) | [web](https://cadenaser.com/radio-ceuta/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Ceuta.Radio | - |
 | COPE Ceuta | [stream](https://stream.copeceuta.es/) | [web](https://copeceuta.es/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Ceuta | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/ceuta/master.m3u8) | [web](https://www.ondacero.es/emisoras/ceuta/ceuta/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Ceuta.Radio | - |
+| Onda Color FM | [stream](https://streaming12.elitecomunicacion.es:8212/stream) | [web](https://ondacolor.es) | [logo](https://graph.facebook.com/ondacolor/picture?width=200&height=200) | - | - |
 
 ### C. de Madrid
 
@@ -621,7 +622,8 @@
 | Radio Tentación | [stream](https://streaming6.locucionar.com:2020/stream/radiotentacion) | [web](https://www.radiotentacion.com) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
 | Radio Enlace | [stream](https://cervera.eldialdigital.com:25121/stream) | [web](https://www.radioenlace.org) | [logo](https://graph.facebook.com/radioenlacemadrid/picture?width=200&height=200) | - | - |
 | Radio Cigüeña | [stream](https://cervera.eldialdigital.com:25171/stream) | [web](https://www.radiociguena.org) | [logo](https://graph.facebook.com/297157036138/picture?width=200&height=200) | - | - |
-| Radio Intercontinental | [stream](https://cast5.servcast.net/proxy/inter/stream) | [web](https://www.radiointercontinental.net) | [logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Radio_Intercontinental.jpg) | - | - |
+| Radio Inter Madrid | [stream](https://radioserver12.profesionalhosting.com/proxy/pkg156993/stream) | [web](https://www.radiointer.es/) | [logo](https://pbs.twimg.com/profile_images/1093864518827081728/Rukofyso_200x200.jpg) | - | - |
+| Radio Intercontinental | [stream](https://cast5.servcast.net/proxy/inter/stream) | [web](https://radiointercontinental.com/) | [logo](https://radiointercontinental.com/wp-content/uploads/2024/10/Logo_Radio_Intercontinental_actual-1-e1730334334855.jpg) | - | - |
 | Radio Utopía | [mp3](http://streaming.radioutopia.org.es:8000/radio-utopia.mp3) | [web](https://www.radioutopia.org.es) | [logo](https://graph.facebook.com/179099278878655/picture?width=200&height=200) | - | - |
 | Onda Fuenlabrada | [mp3](https://radioserver12.profesionalhosting.com/proxy/pkg78581/stream.mp3) | [web](https://ondafuenlabrada.es/emision/) | [logo](https://yt3.ggpht.com/gE-Z3WmqCumfCBtWDXUuYM1mmpbutOff_s2Su1F6raG2kKaXQVAtqnI_DLp5KR7PA6oS9EeMxZY=s200) | - | - |
 | Peperadio | [stream](https://server10.emitironline.com:8032/) | [web](https://peperadio.es) | [logo](https://peperadio.es/Content/images/logo.png) | - | - |
@@ -637,7 +639,7 @@
 | Globo FM | [mp3](https://sonic.sistemahost.es/8200/;.mp3) | [web](https://www.globofm.es) | [logo](https://pbs.twimg.com/profile_images/972013004484173824/BMLZEKXs_200x200.jpg) | - | - |
 | Radio Madrid Sierra | [stream](https://streaming12.elitecomunicacion.es:8070/stream) | [web](https://radiomadridsierra.com) | [logo](https://pbs.twimg.com/profile_images/1613231096644116481/fk4e53OS_200x200.jpg) | - | - |
 | Onda Latina | [stream](https://cervera.eldialdigital.com:21131/stream) | [web](http://www.ondalatina.com.es) | [logo](https://graph.facebook.com/ondalatina.com.es/picture?width=200&height=200) | - | - |
-| Inforadio UCM | [stream](https://stream.zeno.fm/syfk1h3e0fnuv) | [web](https://www.ucm.es/inforadio) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=200&height=200) | - | - |
+| Inforadio UCM | [mp3](https://giss.tv:666/inforadioucm.mp3) | [web](https://www.ucm.es/inforadio) | [logo](https://graph.facebook.com/inforadiocomplutense/picture?width=200&height=200) | - | - |
 | Radio Univ. Alcalá Henares | [stream](https://streaming2.elitecomunicacion.es:8066/stream) | [web](https://www.ruah.es/emision-online/) | [logo](https://graph.facebook.com/ruahradio/picture?width=200&height=200) | - | - |
 | Pozuelo Radio | [stream](http://5.135.183.124:8197/stream) | [web](https://www.pozueloradio.es) | [logo](https://graph.facebook.com/pozueloradio/picture?width=200&height=200) | - | - |
 | Antena CEMU | [stream](https://sonic.mediatelekom.net/9980/stream) | [web](https://antenacemu.com/emision-online/) | [logo](https://graph.facebook.com/401769933317531/picture?width=200&height=200) | - | - |
@@ -739,7 +741,7 @@
 | La Flamenca | [mp3](https://stream.emisorasmusicales.net/radio/8070/laflamenca.mp3) | [web](https://emisorasmusicales.net/laflamenca/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11023733/LaFlamenca-200x200.png) | - | - |
 | La Que Suena | [mp3](https://stream.emisorasmusicales.net/radio/8090/laquesuena.mp3) | [web](https://emisorasmusicales.net/laquesuena/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2020/03/11022654/laquesuena-logo-200x200.png) | - | - |
 | La Indie | [mp3](https://stream.emisorasmusicales.net/radio/8130/laindie-valencia.mp3) | [web](https://www.emisorasmusicales.net/emisoras/la-indie/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2020/04/11023707/LA-INDIE-200x200.png) | - | - |
-| Motiva | [mp3 # 1](https://stream.mediasector.es/radio/8120/motiva.mp3) - [mp3 # 2](https://stream.motivafm.com/listen/motiva_rocks/motivarocks.mp3) - [mp3 # 3](https://stream.motivafm.com/listen/motiva_dance/motiva-dance.mp3) - [mp3 # 4](https://server5.mediasector.es/listen/motiva_mix/motivaparty.mp3) | [web](https://motivafm.com) | [logo](https://graph.facebook.com/motivafm/picture?width=200&height=200) | - | - |
+| Motiva | [mp3 # 1](https://stream.motivafm.com/listen/motiva/motiva.mp3) - [mp3 # 2](https://stream.motivafm.com/listen/motiva_rocks/motivarocks.mp3) - [mp3 # 3](https://stream.motivafm.com/listen/motiva_dance/motiva-dance.mp3) - [mp3 # 4](https://server5.mediasector.es/listen/motiva_mix/motivaparty.mp3) | [web](https://motivafm.com) | [logo](https://graph.facebook.com/motivafm/picture?width=200&height=200) | - | - |
 | Corazón FM | [mp3](https://stream.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3) | [web](https://www.emisorasmusicales.net/emisoras/corazon-fm/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2022/11/11020420/Corazon_1000x1000-con-fondo-200x200.png) | - | - |
 | Comboi | [mp3](https://stream.emisorasmusicales.net/listen/comboi/comboi.mp3) | [web](https://www.emisorasmusicales.net/emisoras/comboi/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/04/23134127/LOGO-DEF.-COMBOI-1000x1000px-RGB-200x200.png) | - | - |
 | Hallo FM | [mp3](https://stream.emisorasmusicales.net/listen/hallo_fm/hallofm.mp3) | [web](https://www.emisorasmusicales.net/emisoras/radio-hallo/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2023/08/31105659/radioHallo-1200x1200-f-200x200.png) | - | - |
@@ -1037,7 +1039,6 @@
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | - |
 | Inter Radio | [stream](https://sonic.mediatelekom.net/8460/stream) | [web](https://lainter.es) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
 | La Jungla Yecla | [stream](https://streaming12.elitecomunicacion.es:8204/stream) | [web](https://www.lajunglayecla.com/en-directo/) | [logo](https://graph.facebook.com/lajunglaradioyecla/picture?width=200&height=200) | - | - |
-| Onda Color FM | [stream](https://streaming12.elitecomunicacion.es:8212/stream) | [web](https://ondacolor.es) | [logo](https://graph.facebook.com/ondacolor/picture?width=200&height=200) | - | - |
 
 ## Internacionales
 
