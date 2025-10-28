@@ -97,7 +97,7 @@
 | Babyradio LatinoAmérica | [stream](https://srv6022.dns-lcinternet.com:8047/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
 | Babyradio Nanas | [stream](https://srv6022.dns-lcinternet.com:8027/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
 | Babyradio Cuentos Infantiles | [stream](https://srv6022.dns-lcinternet.com:8049/stream) | [web](https://babyradio.es/#radio-player) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_k2PqG2pKYF9_qLh_ut69Z0MtU-jXsRvezCZQtbjivJsX8=s200) | - | - |
-| Pequeradio | [stream](http://stm2.emiteonline.com:8009/pequeradio-valencia) | [web](https://www.pequeradio.es) | [logo](https://graph.facebook.com/Pequeradio/picture?width=200&height=200) | - | - |
+| Antenita | [stream](https://vps-9f1e2662.vps.ovh.net/antenitafm) | [web](https://www.antenita.es) | [logo](https://graph.facebook.com/Pequeradio/picture?width=200&height=200) | - | - |
 
 ## Autonómicas
 
@@ -303,7 +303,7 @@
 | Radio Mai | [stream # 1](http://radio.indaloweb.es:8001/live) - [stream # 2](http://radiomai.duckdns.org:8020/live) | [web](https://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=200&height=200) | - | - |
 | LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://play-lh.googleusercontent.com/pRLw0KpuXGQxblfGu8kwMNx0rrOurCW7YBaZiHYTojJkBe0uzQOd3AKvCsbBYMyOOpzp=w200-h200) | - | - |
 | Hit Radio Zona Oriental | [stream](http://stm1.emiteonline.com:8004/hitelgrado) | [web](http://www.hitradiofm.es/hitpirineos.html) | [logo](https://graph.facebook.com/HitRadioElGrado/picture?width=200&height=200) | - | - |
-| Vale Radio | [mp3](https://azura7.emisiononline.es/listen/vale_radio/radio.mp3) | [web](https://www.valeradio.es/reproductor/index.php) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
+| Vale Radio | [stream](https://sonic2.sistemahost.es/8170/stream) | [web](https://www.valeradio.es/reproductor/index.php) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
 
 ### Canarias
 
@@ -1073,7 +1073,7 @@
 | LOS40 México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3) | [web](https://los40.com.mx) | [logo](https://graph.facebook.com/los40mexico/picture?width=200&height=200) | - | - |
 | Ke Buena FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA.mp3) | [web](https://www.kebuena.com.mx) | [logo](https://graph.facebook.com/kebuenamx/picture?width=200&height=200) | - | - |
 | EXA FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA.mp3) | [web](https://exafm.com) | [logo](https://graph.facebook.com/exafm/picture?width=200&height=200) | - | - |
-| Amor FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO.mp3) | [web](https://amorfm.mx) | [logo](https://graph.facebook.com/AMORFM.MX/picture?width=200&height=200) | - | - |
+| Amor FM México | [m3u8](https://playerservices.streamtheworld.com/api/livestream-redirect/XHSHFMAAC.m3u8) | [web](https://amorfm.mx) | [logo](https://graph.facebook.com/AMORFM.MX/picture?width=200&height=200) | - | - |
 | Alfa 91.3 FM México | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FM.mp3) | [web](https://alfaenlinea.com) | [logo](https://graph.facebook.com/Alfa913mx/picture?width=200&height=200) | - | - |
 | RPP Noticias Perú | [m3u8](https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8) | [web](https://rpp.pe/audio/) | [logo](https://graph.facebook.com/rppnoticias/picture?width=200&height=200) | - | - |
 | Radio La Zona Perú | [stream](https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio) | [web](https://audioplayer.pe/lazona) | [logo](https://graph.facebook.com/Radiolazona/picture?width=200&height=200) | - | - |
