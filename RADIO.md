@@ -582,7 +582,6 @@
 | Radio Nacional Ceuta | [stream](https://dispatcher.rndfnk.com/crtve/rne1/ceu/mp3/high) | [web](https://www.rtve.es/play/audios/programa/radio1-ceuta/4143261/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Ceuta | [stream](https://dispatcher.rndfnk.com/crtve/rne5/ceu/mp3/high) | [web](https://www.rtve.es/play/audios/programa/radio5-ceuta/4143281/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | SER Ceuta | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CEUTA.mp3) | [web](https://cadenaser.com/radio-ceuta/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Ceuta.Radio | - |
-| COPE Ceuta | [stream](https://stream.copeceuta.es/) | [web](https://copeceuta.es) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Ceuta | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/ceuta/master.m3u8) | [web](https://www.ondacero.es/emisoras/ceuta/ceuta/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Ceuta.Radio | - |
 | Onda Color FM | [stream](https://streaming12.elitecomunicacion.es:8212/stream) | [web](https://ondacolor.es) | [logo](https://graph.facebook.com/ondacolor/picture?width=200&height=200) | - | - |
 
@@ -612,9 +611,9 @@
 | Unika FM | [stream](https://server1.easystreaming.pro:8443/unika) | [web](https://unika.fm) | [logo](https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200) | - | - |
 | Radio Romanul | [stream](http://streaming.radioromanul.es:55556/web) | [web](https://www.radioromanul.es/live/) | [logo](https://graph.facebook.com/RadioRomanul/picture?width=200&height=200) | - | - |
 | Radio España | [stream](https://stream.zeno.fm/ocinyyji4rntv) | [web](https://www.radioespana.es) | [logo](https://graph.facebook.com/radioespana.es/picture?width=200&height=200) | - | - |
-| Top Radio | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRADIO.mp3) | [web](https://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
+| Top Radio | [m3U8](https://mdstrm.com/audio/66ec3c9fabba24a0a2e59de8/live.m3u8) | [web](https://www.topradio.es) | [logo](https://graph.facebook.com/topradioes/picture?width=200&height=200) | - | - |
 | Radio Intereconomía | [stream](https://streaming.intereconomia.com/siliconorg) | [web](https://intereconomia.com/directo/) | [logo](https://graph.facebook.com/RadioIntereconomia/picture?width=200&height=200) | RadioIntereconomia.Radio | - |
-| Master FM | [stream](https://radios.lamaster.es:8000/madrid) | [web](https://lamaster.es) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
+| Master FM | [stream](https://radios.masterfm.es:8000/web24) | [web](https://masterfm.es/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
 | Radio Vallekas | [mp3](https://radio.radiobot.org/listen/rvk/rvk.mp3) | [web](https://www.radiovallekas.org) | [logo](https://graph.facebook.com/radiovallekas/picture?width=200&height=200) | - | - |
 | Capital Radio | [m3u8](https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8) | [web](https://www.capitalradio.es/directo) | [logo](https://graph.facebook.com/capitalradiob/picture?width=200&height=200) | - | - |
 | Radio Tentación | [stream](https://streaming6.locucionar.com:2020/stream/radiotentacion) | [web](https://www.radiotentacion.com) | [logo](https://graph.facebook.com/radiotentacionofficial/picture?width=200&height=200) | - | - |
@@ -672,7 +671,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| À Punt FM | [m3u8](https://bcovlive-a.akamaihd.net/0841326767184ef7acc0489071ec64da/eu-central-1/6057955885001/playlist_dvr.m3u8) | [web](https://apuntmedia.es/va/directe/radio) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | - | - |
+| À Punt FM | [m3u8](https://fastly.live.brightcove.com/1846757873053883704/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTc4NzMwNTM4ODM3MDQifQ.g53E16ArQ13_i6cT9V3TdbH6HMzOcQUdYBPOprsjHgU/playlist-hls-dvr.m3u8) | [web](https://www.apuntmedia.es/directe/directe-radio_136_1392525.html) | [logo](https://graph.facebook.com/apuntmedia/picture?width=200&height=200) | - | - |
 | Radio Nacional Comunidad Valenciana | [stream](https://dispatcher.rndfnk.com/crtve/rne1/val/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_val-live/3893537/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | - | - |
 | Radio 5 Comunidad Valenciana | [stream](https://dispatcher.rndfnk.com/crtve/rne5/vlc/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_val-live/3894731/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | - | - |
 | Radio Marca Valencia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_VALENCIA.mp3) | [web](https://www.marca.com/radio.html) | [logo](https://graph.facebook.com/RadioMARCA/picture?width=200&height=200) | - | - |
@@ -989,7 +988,7 @@
 | Europa FM Asturias | [m3u8](https://atres-live.europafm.com/live/delegaciones/efm/gijon/master.m3u8) | [web](https://www.europafm.com/frecuencias/asturias/) | [logo](https://graph.facebook.com/tueuropafm/picture?width=200&height=200) | - | - |
 | Loca FM Asturias | [stream](https://server1.easystreaming.pro:8443/locafmasturias) | [web](https://locafmasturias.com) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFM.Radio | - |
 | Carrusel FM | [mp3](https://server10.emitironline.com:8921/radio?.mp3) | [web](http://www.carruselfm.com) | [logo](https://pbs.twimg.com/profile_images/520332074147123200/pzYkTYHB_200x200.jpeg) | - | - |
-| Master FM Asturias | [stream](https://radios.lamaster.es:8000/asturias) | [web](https://masterfm.es/radiochannel/asturias/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
+| Master FM Asturias | [stream](https://radios.masterfm.es:8000/asturias) | [web](https://masterfm.es/radiochannel/asturias/) | [logo](https://graph.facebook.com/masterfm.es/picture?width=200&height=200) | - | - |
 | Onda Peñes | [mp3](https://eu1.lhdserver.es:2999/stream?type=.mp3) | [web](http://www.gaxarte.com) | [logo](https://graph.facebook.com/onda.penes/picture?width=200&height=200) | - | - |
 | La Bomba Radio | [stream](https://stm2.emiteonline.com:9014/labomba) | [web](http://www.labombaradio.es) | [logo](https://play-lh.googleusercontent.com/RnnCJFfcSu-Ma6MSoLJ4hDT2qz9tNrzHz3AdOyFy-h5bjRb0oakVfVOMtPOn5F7tmA=w200) | - | - |
 | Radio Ujo | [stream](https://51551a56-d200-46f7-91c8-36c07a837e44.clouding.host:8000/radio) | [web](https://www.radioujo.com) | [logo](https://pbs.twimg.com/profile_images/822520464836849664/C124fpj__200x200.jpg) | - | - |
@@ -1013,7 +1012,7 @@
 | SER Lorca | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_LORCA.mp3) | [web](https://cadenaser.com/radio-lorca/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Lorca.Radio | - |
 | SER Murcia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA.mp3) | [web](https://cadenaser.com/radio-murcia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Murcia.Radio | - |
 | COPE Cartagena | [mp3](https://wecast09-h-cloud.flumotion.com/copesedes/cartagena.mp3) | [web](https://www.cope.es/directos/cartagena) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Espuña | [stream](http://5.135.183.124:8110/stream) | [web](https://copealhama.es.tl) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Espuña | [stream](https://eu1.lhdserver.es:3197/stream) | [web](https://copealhama.es.tl) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Lorca | [mp3](https://wecast09-h-cloud.flumotion.com/copesedes/lorca.mp3) | [web](https://www.cope.es/directos/lorca) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Murcia | [mp3](https://wecast10-h-cloud.flumotion.com/copesedes/murcia.mp3) | [web](https://www.cope.es/directos/murcia---san-javier) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Radio Sureste | [stream](https://sonic.mediatelekom.net/8538/live) | [web](https://www.rsureste.com) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
