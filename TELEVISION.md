@@ -19,7 +19,6 @@
 | RNE para todos | [m3u8](https://ztnr.rtve.es/ztnr/6688753.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | GEO |
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
 | DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
-| Paramount Network | - | [web](https://www.paramountnetwork.es) | [logo](https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200) | Paramount.TV | NOEM |
 | BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOM.TV | NOEM |
 
 ## Informativos
@@ -59,6 +58,7 @@
 | MARCA | [youtube](https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live) - [stream](https://player.twitch.tv/?channel=diariomarca&parent=play.tdtchannels.com) | [web](https://www.marca.com) | [logo](https://graph.facebook.com/MARCA/picture?width=200&height=200) | - | EMB |
 | AS | [youtube](https://www.youtube.com/diarioas/live) | [web](https://as.com) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_kKno7gC768MJ_rt67CNI107Zhs5157wEvhg2AQwkvQBgk=s200) | - | EMB |
 | El 10 del Barça | [youtube](https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live) | [web](https://xn--el10delbara-v9a.com) | [logo](https://graph.facebook.com/El10delBarsa/picture?width=200&height=200) | - | EMB,EVT |
+| Tiempo de Juego COPE | [youtube](https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live) | [web](https://www.cope.es/programas/tiempo-de-juego/noticias/sigue-juego-directo-youtube-20250513_3149685.html) | [logo](https://graph.facebook.com/tiempodejuego/picture?width=200&height=200) | - | EMB |
 | Kings League | [stream](https://player.twitch.tv/?channel=kingsleague&parent=play.tdtchannels.com) - [youtube](https://www.youtube.com/channel/UCtwslQPB_xJfaFuZv0OETNw/live) | [web](https://www.twitch.tv/kingsleague) | [logo](https://graph.facebook.com/kingsleague.pro/picture?width=200&height=200) | - | EMB |
 | Cazaflix | [stream](https://player.viloud.tv/embed/channel/292a2a75da8d1d6335cd7b6e600b04e8?autoplay=1&volume=1&controls=1&title=0&share=0&open_playlist=0) | [web](https://cazaflix.com/tv-directo/) | [logo](https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200) | - | EMB |
 | OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv) | [logo](https://yt3.ggpht.com/ytc/AKedOLRCpkRZNcBfZLGvM1SO_Qf77p_xtv6OnU26aa23Vw=s200) | - | EMB |
@@ -109,7 +109,6 @@
 | Eventos (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/eventos/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Eventos.TV | EXTA |
 | Eventos 2 (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/eventos-2/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Eventos_2.TV | EXTA |
 | Canal Quickie | [stream](https://player.twitch.tv/?channel=canalquickie&parent=play.tdtchannels.com) - [youtube](https://www.youtube.com/channel/UCCuPIAKDI8wp-WD0wiFXa7g/live) | [web](https://linktr.ee/canalquickie) | [logo](https://pbs.twimg.com/profile_images/1838908963850481665/Cuhce_U0_200x200.jpg) | - | EMB |
-| La casa de Los Gemelos 2 | [youtube](https://www.youtube.com/channel/UCyOwWp6c30--i9_elAgef9g/live) | [web](https://www.lacasadelosgemelos.es/) | [logo](https://pbs.twimg.com/profile_images/1801001686590267392/bY4NTyLP_200x200.jpg) | - | EMB |
 | Canal Parlamento | [m3u8](https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8) | [web](https://www.congreso.es/actualidad/canal-parlamento) | [logo](https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200) | - | - |
 | Congreso de los Diputados | [m3u8 # 1](https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8) - [m3u8 # 2](https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8) - [m3u8 # 3](https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8) - [m3u8 # 4](https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8) - [m3u8 # 5](https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8) | [web](https://www.congreso.es/es/congreso-en-directo) | [logo](https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200) | - | - |
 | La Moncloa (Presidente) | [m3u8](https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg) | [web](https://www.lamoncloa.gob.es/multimedia/videos/presidente/Paginas/2020/directo.aspx) | [logo](https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200) | - | - |
@@ -117,8 +116,6 @@
 | Senado | [m3u8](https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8) | [web](https://www.senado.es/web/actividadparlamentaria/actualidad/senadoendirecto/index.html) | [logo](https://pbs.twimg.com/profile_images/1977652155700920320/Nli3Z54W_200x200.jpg) | - | - |
 | Radio Nacional | [m3u8](https://ztnr.rtve.es/ztnr/6982891.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | - |
 | Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6982918.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE_Radio3.TV | - |
-| Onda Cero | [m3u8](https://atres-live.ondacero.es/h264/live/obs/master.m3u8) | [web](https://www.ondacero.es) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | - | - |
-| COPE | [m3u8](https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8) | [web](https://www.cope.es/directos/video) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 
 ## Streaming
 
@@ -440,7 +437,7 @@
 | Canal 56 | [m3u8](https://videos.canal56.com/directe/stream/index.m3u8) | [web](https://canal56.com/online/) | [logo](https://graph.facebook.com/canal56televisio/picture?width=200&height=200) | - | NONAV |
 | Univers TV | [m3u8](https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8) | [web](https://www.universvalencia.es) | [logo](https://graph.facebook.com/UniversValenciaDigital/picture?width=200&height=200) | - | - |
 | Radio Buñol TV | [m3u8](https://castor.streamthatvideo.co:8081/radiobunyol/tracks-v1a1/mono.m3u8) | [web](https://radiotv.xn--buol-hqa.es/) | [logo](https://graph.facebook.com/radiobunyol/picture?width=200&height=200) | - | - |
-| TV Almassora | [m3u8](https://www.tvalmassora.com/hls/tvalmassora.m3u8) | [web](https://www.tvalmassora.com/en-directo/en-directo-television-almassora/) | [logo](https://yt3.ggpht.com/IYhYKEgINXNgQGLhReOrma2Pcl151M7Ray9SYDWissgAAZQJUhrRPEe7tLBT9XlsjwChuTNW=s200) | - | EXTA |
+| TV Almassora | [m3u8](https://www.tvalmassora.com/hls/vmix.m3u8) | [web](https://www.tvalmassora.com/en-directo/en-directo-television-almassora/) | [logo](https://yt3.ggpht.com/IYhYKEgINXNgQGLhReOrma2Pcl151M7Ray9SYDWissgAAZQJUhrRPEe7tLBT9XlsjwChuTNW=s200) | - | EXTA |
 | Punt 3 Vall Uixó | [m3u8](https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8) | [web](https://www.punt3.es/Directo/) | [logo](https://graph.facebook.com/Punt3Television/picture?width=200&height=200) | Punt3.TV | - |
 | Tevequatre TV | [stream](https://player.twitch.tv/?channel=teve4televisio&parent=play.tdtchannels.com) | [web](https://teve4.com/directe/) | [logo](https://pbs.twimg.com/profile_images/438700741801177088/MdnaVxtC_200x200.png) | - | EMB |
 | Onda 15 TV | [m3u8](https://cloudvideo.servers10.com:8081/8034/index.m3u8) | [web](https://onda15.es) | [logo](https://pbs.twimg.com/profile_images/452144347593465856/NWj5Y9hn_200x200.png) | - | - |
@@ -622,7 +619,7 @@
 | 1+1 Ucrania | [youtube # UK](https://www.youtube.com/live/j5TqaWCCdUg) | [web](https://1plus1.video/tvguide/embed/1) | [logo](https://graph.facebook.com/1plus1.ua/picture?width=200&height=200) | - | EMB |
 | ICTV Ucrania | [youtube # UK](https://www.youtube.com/channel/UCG26bSkEjJc7SqGsxoHNnbA/live) | [web](https://ictv.ua/ua/online/) | [logo](https://graph.facebook.com/ICTVchannel/picture?width=200&height=200) | - | EMB |
 | UATV Ucrania | [m3u8 # UK](https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8) | [web](https://uatv.ua/live/) | [logo](https://graph.facebook.com/kanalfreedom/picture?width=200&height=200) | - | - |
-| Current Time TV | [m3u8 # RU](https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8) | [web](https://www.currenttime.tv/live) | [logo](https://graph.facebook.com/currenttimetv/picture?width=200&height=200) | - | - |
+| Current Time TV | [m3u8 # RU](https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8) | [web](https://www.currenttime.tv/live) | [logo](https://graph.facebook.com/currenttimetv/picture?width=200&height=200) | - | - |
 
 ## Int. América
 
