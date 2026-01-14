@@ -165,7 +165,7 @@
 | COPE Huelva | [mp3](https://wecast-bl02.flumotion.com/copesedes/huelva.mp3) | [web](https://www.cope.es/directos/huelva) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Jaén | [mp3](https://wecast-bl02.flumotion.com/copesedes/jaen.mp3) | [web](https://www.cope.es/directos/jaen) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Jerez | [mp3](https://wecast-bl02.flumotion.com/copesedes/jerez.mp3) | [web](https://www.cope.es/directos/jerez) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Málaga | [mp3](https://wecast-bl02.flumotion.com/malaga.mp3) | [web](https://www.cope.es/directos/malaga) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Málaga | [mp3](https://wecast-bl02.flumotion.com/copesedes/malaga.mp3) | [web](https://www.cope.es/directos/malaga) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Marbella | [stream](https://sonic.sistemahost.es/8236/stream) | [web](https://copemarbella.es) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Motril | [mp3](https://wecast-bl02.flumotion.com/copesedes/motril.mp3) | [web](https://www.cope.es/directos/motril) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Sierra Norte | [stream](https://eu1.lhdserver.es:8011/stream) | [web](https://radiosierranorte.es/radio-sierra-norte-en-directo/) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
@@ -500,7 +500,7 @@
 | SER Tarragona | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARRAGONA.mp3) | [web](https://cadenaser.com/ser-tarragona/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Tarragona.Radio | - |
 | COPE Barcelona Miramar | [mp3](https://wecast-bl02.flumotion.com/copesedes/barcelona.mp3) | [web](https://www.cope.es/directos/barcelona) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Girona | [mp3](https://wecast-bl02.flumotion.com/copesedes/gerona.mp3) | [web](https://www.cope.es/directos/girona) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Lleida | [mp3](https://wecast-bl02.flumotion.com/lleida.mp3) | [web](https://www.cope.es/directos/lleida) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Lleida | [mp3](https://wecast-bl02.flumotion.com/copesedes/lleida.mp3) | [web](https://www.cope.es/directos/lleida) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Tarragona | [mp3](https://wecast-bl02.flumotion.com/copesedes/tarragona.mp3) | [web](https://www.cope.es/directos/tarragona) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Barcelona | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/barcelona/master.m3u8) | [web](https://www.ondacero.es/emisoras/catalunya/barcelona/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Barcelona.Radio | - |
 | Onda Cero Girona | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/barcelona/master.m3u8) | [web](https://www.ondacero.es/emisoras/catalunya/girona/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Girona.Radio | - |
@@ -543,11 +543,10 @@
 | Ràdio Cubelles | [stream](https://enacast.com/radiocubelles/streams/HD) - [mp3](https://streaming.enacast.com/cubelles128.mp3) | [web](https://www.radiocubelles.cat) | [logo](https://graph.facebook.com/radiocubelles/picture?width=200&height=200) | - | - |
 | Ràdio Granollers | [mp3](https://relay.stream.enacast-cloud.com:30324/radiogranollersHD.mp3) | [web](https://www.radiogranollers.cat) | [logo](https://graph.facebook.com/RadioGranollers/picture?width=200&height=200) | - | - |
 | Ràdio Maricel | [mp3](https://radioserver.radiomaricel.cat/proxy/radio_maricel?mp=/stream.mp3) | [web](https://www.radiomaricel.cat) | [logo](https://graph.facebook.com/radiomaricel/picture?width=200&height=200) | - | - |
-| Hit103 | [stream](https://enacast.com/radiovalls/streams/HD) - [mp3](https://streaming.enacast.com/radiovalls128.mp3) | [web](https://hit103.cat) | [logo](https://graph.facebook.com/Hit103/picture?width=200&height=200) | - | - |
 | Styl Manresa | [stream](https://ssl.nexuscast.com:8077/stream) | [web](https://www.stylfm.com) | [logo](https://graph.facebook.com/stylfm/picture?width=200&height=200) | - | - |
 | Ona de Sants FM | [stream](https://edge.mixlr.com/channel/dlyio) | [web](https://onadesants.cat) | [logo](https://graph.facebook.com/Radioonadesants/picture?width=200&height=200) | - | - |
 | Constantí Ràdio | [mp3](https://streaming.enacast.com/radioconstantiSD.mp3) | [web](https://www.constantiradio.cat) | [logo](https://graph.facebook.com/ConstantiRadio/picture?width=200&height=200) | - | - |
-| PròximaFM | [stream](http://91.187.93.115:8000/;stream/1) | [web](http://proximafm.cat) | [logo](https://graph.facebook.com/proximafm/picture?width=200&height=200) | - | - |
+| Pròxima FM | [stream](https://mars.streamerr.co/8058/stream) | [web](http://proximafm.cat) | [logo](https://graph.facebook.com/proximafm/picture?width=200&height=200) | - | - |
 | Ràdio Cunit | [mp3](https://streaming.enacast.com/radiocunitHD.mp3) | [web](https://radiocunit.cat) | [logo](https://graph.facebook.com/radiocunit/picture?width=200&height=200) | - | - |
 | Ripollet Radio | [mp3](https://directe.ripolletradio.cat/live?mp3) | [web](https://ripolletradio.cat/en-directe/) | [logo](https://graph.facebook.com/RipolletRadio/picture?width=200&height=200) | - | - |
 | Ràdio Sant Pere i Sant Pau | [mp3](http://212.83.151.18:36686/;stream/1?1552499879263.mp3) | [web](https://www.radiospsp.com) | [logo](https://graph.facebook.com/Radio101.0/picture?width=200&height=200) | - | - |
@@ -599,7 +598,7 @@
 | SER Madrid Sur | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MADRID_SUR.mp3) | [web](https://cadenaser.com/ser-madrid-sur/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_MadridSur.Radio | - |
 | COPE Madrid | [mp3](https://flucast09-h-cloud.flumotion.com/cope/madrid.mp3) | [web](https://www.cope.es/directos/madrid) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | COPE Más Madrid | [mp3](https://flucast06-o-cloud.flumotion.com/cope/net4.mp3) | [web](https://www.cope.es/directos/madrid-cope-mas) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
-| COPE Villalba | [mp3](https://wecast08-h-cloud.flumotion.com/copesedes/villalba.mp3) | [web](https://www.cope.es/directos/villalba) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
+| COPE Villalba | [mp3](https://wecast-bl02.flumotion.com/copesedes/villalba.mp3) | [web](https://www.cope.es/directos/villalba) | [logo](https://graph.facebook.com/COPE/picture?width=200&height=200) | - | - |
 | Onda Cero Alcalá de Henares | [m3u8](https://atres-live.ondacero.es/live/delegaciones/oc/alcala/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/alcala-de-henares/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_AlcaladeHenares.Radio | - |
 | Onda Cero Madrid | [m3u8](https://atres-live.ondacero.es/live/ondacero/master.m3u8) | [web](https://www.ondacero.es/emisoras/comunidad-madrid/madrid/directo/) | [logo](https://graph.facebook.com/ondacero/picture?width=200&height=200) | OC_Madrid.Radio | - |
 | Onda Cero Madrid Sur | [m3u8](https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_MADRID_SURAAC.m3u8) | [web](https://www.ondaceromadridsur.es/directo) | [logo](https://graph.facebook.com/ondaceromadridsur/picture?width=200&height=200) | - | - |
