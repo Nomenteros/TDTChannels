@@ -599,7 +599,7 @@
 | RTP Internacional Portugal | - | [web](https://www.rtp.pt/play/direto/rtpinternacional) | [logo](https://graph.facebook.com/rtpinternacional/picture?width=200&height=200) | - | EXTA |
 | RTP 1 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp1) | [logo](https://graph.facebook.com/rtp1.pt/picture?width=200&height=200) | RTP1.TV | EXTA |
 | RTP 2 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp2) | [logo](https://graph.facebook.com/rtpdois/picture?width=200&height=200) | RTP2.TV | EXTA |
-| RTP 3 Portugal | - | [web](https://www.rtp.pt/play/direto/rtp3) | [logo](https://graph.facebook.com/rtp/picture?width=200&height=200) | RTP3.TV | EXTA |
+| RTP Notícias | - | [web](https://www.rtp.pt/play/direto/rtp3) | [logo](https://graph.facebook.com/rtpnoticias/picture?width=200&height=200) | RTP3.TV | EXTA |
 | RTP Madeira Portugal | - | [web](https://www.rtp.pt/play/direto/rtpmadeira) | [logo](https://graph.facebook.com/rtpmadeira/picture?width=200&height=200) | - | EXTA |
 | RTP Açores Portugal | - | [web](https://www.rtp.pt/play/direto/rtpacores) | [logo](https://graph.facebook.com/rtpacores/picture?width=200&height=200) | - | EXTA |
 | CNN Portugal | - | [web](https://cnnportugal.iol.pt/direto) | [logo](https://graph.facebook.com/cnnportugal/picture?width=200&height=200) | - | EXTA |
@@ -620,7 +620,7 @@
 | Channel 24 Ucrania | [m3u8 # UK](http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8) | [web](https://24tv.ua/online) | [logo](https://graph.facebook.com/news24ukraine/picture?width=200&height=200) | - | - |
 | 1+1 Ucrania | [youtube # UK](https://www.youtube.com/live/j5TqaWCCdUg) | [web](https://1plus1.video/tvguide/embed/1) | [logo](https://graph.facebook.com/1plus1.ua/picture?width=200&height=200) | - | EMB |
 | ICTV Ucrania | [youtube # UK](https://www.youtube.com/channel/UCG26bSkEjJc7SqGsxoHNnbA/live) | [web](https://ictv.ua/ua/online/) | [logo](https://graph.facebook.com/ICTVchannel/picture?width=200&height=200) | - | EMB |
-| UATV Ucrania | - | [web](https://uatv.ua/live/) | [logo](https://graph.facebook.com/kanalfreedom/picture?width=200&height=200) | - | EXTA |
+| UATV Ucrania | - | [web](https://uatv.ua/live/) | [logo](https://graph.facebook.com/kanalfreedom/picture?width=200&height=200) | - | EXTA,UAG |
 | Current Time TV | [m3u8 # RU](https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8) | [web](https://www.currenttime.tv/live) | [logo](https://graph.facebook.com/currenttimetv/picture?width=200&height=200) | - | - |
 
 ## Int. América
@@ -768,6 +768,7 @@
 | Joy News TV Ghana | [youtube # EN](https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live) | [web](https://www.myjoyonline.com/media/joy-news-live) | [logo](https://graph.facebook.com/JoyNewsOnTV/picture?width=200&height=200) | - | EMB |
 | Channels TV Nigeria | [youtube # EN](https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ/live) | [web](https://www.channelstv.com) | [logo](https://graph.facebook.com/channelsforum/picture?width=200&height=200) | - | EMB |
 | TVGE 1 Guinea Ecuatorial | [m3u8](https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8) | [web](https://www.tvgelive.gq/live.php) | [logo](https://pbs.twimg.com/profile_images/1382981938231775232/-lv9ymLe_200x200.jpg) | - | - |
+| RTP África | - | [web](https://www.rtp.pt/play/direto/rtpafrica) | [logo](https://graph.facebook.com/rtp1.pt/picture?width=200&height=200) | - | EXTA |
 | RASD TV | [m3u8](https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830&live=1) | [web](https://rasd.tv) | [logo](https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200) | - | - |
 | SenTV Senegal | [youtube](https://www.youtube.com/channel/UCKbMNmSR3KlI9v3xeInHEYA/live) | [web](https://sentv.sn/Sentv) | [logo](https://graph.facebook.com/sentvtelevision/picture?width=200&height=200) | - | EXTA |
 
