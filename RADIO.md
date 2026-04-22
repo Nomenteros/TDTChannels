@@ -1031,7 +1031,7 @@
 | Radio Calasparra | [stream](http://84.232.12.14:8000/RadioCalasparra) | [web](https://www.radiocalasparra.es) | [logo](https://www.radiocalasparra.es/wp-content/uploads/2024/06/logo-radio-calasparra-e1718630159516.png) | - | - |
 | Caravaca Radio | [stream](http://84.232.12.14:8000/caravacaradio) | [web](https://www.caravacaradio.com) | [logo](https://graph.facebook.com/CARAVACARADIO/picture?width=200&height=200) | - | - |
 | Inter Radio | [stream](https://sonic.mediatelekom.net/8460/stream) | [web](https://lainter.es) | [logo](https://graph.facebook.com/LaInter.es/picture?width=200&height=200) | - | - |
-| La Jungla Yecla | [stream](https://streaming12.elitecomunicacion.es:8204/stream) | [web](https://www.lajunglayecla.com/en-directo/) | [logo](https://graph.facebook.com/lajunglaradioyecla/picture?width=200&height=200) | - | - |
+| La Jungla Yecla | [stream](https://streaming12.elitecomunicacion.es:8204/stream) | [web](https://www.lajunglayecla.com/en-directo/) | [logo](https://graph.facebook.com/lajunglayecla/picture?width=200&height=200) | - | - |
 
 ## Internacionales
 
