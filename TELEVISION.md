@@ -40,7 +40,8 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Teledeporte | [m3u8 # GEO # 1](https://ztnr.rtve.es/ztnr/1712295.m3u8) - [m3u8 # GEO # 2](https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8) - [m3u8 # 3](https://d3fmp7j43g13qo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sxmelty1ewzcw/TeledeporteES.m3u8) | [web](https://www.rtve.es/play/videos/directo/tdp/) | [logo](https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200) | TDP.TV | GEO |
-| GOL Play | - | [web](https://app.golstadium.com/w/golplay) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | GOL.TV | REG |
+| GOL | [stream](https://geo.dailymotion.com/player/x1k3pa.html?video=k5cyQ3rl70nCl7Fhb5W) | [web](https://www.goltelevision.com/en-directo/gol_live) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | GOL.TV | EXTB |
+| GOL Classics | [stream](https://geo.dailymotion.com/player/x1k3pa.html?video=k7BHb9t9RdbAM0FhbmE) | [web](https://www.goltelevision.com/en-directo/golclassics_live) | [logo](https://graph.facebook.com/goltv.es/picture?width=200&height=200) | - | EXTB |
 | Esport 3 | [m3u8 # GEOCAT](https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8) - [m3u8 # GEO](https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8) | [web](https://www.3cat.cat/3cat/directes/esport3/) | [logo](https://graph.facebook.com/Esport3/picture?width=200&height=200) | E3.TV | GEO |
 | ETB Deportes | [m3u8](https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8) - [m3u8 # 2](https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8) - [m3u8 # 3](https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8) | [web](https://www.eitb.eus/es/deportes/deporte-en-directo/) | [logo](https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200) | ETBD.TV | - |
 | Aragón Deporte | [m3u8 # 1](https://cartv-streaming.aranova.es/hls/live/adeportes_deporte7.m3u8) - [m3u8 # 2](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte6.m3u8) - [m3u8 # 3](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte5.m3u8) - [m3u8 # 4](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte4.m3u8) - [m3u8 # 5](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte3.m3u8) - [m3u8 # 6](https://cartv.streaming.aranova.es/hls/live/adeportes_deporte2.m3u8) - [m3u8 # 7](https://cartv-streaming.aranova.es/hls/live/adeportes_deporte1.m3u8) - [stream](https://player.twitch.tv/?channel=aragondeporte&parent=play.tdtchannels.com) | [web](https://www.cartv.es/aragondeporte/directo) | [logo](https://graph.facebook.com/aragondeporte/picture?width=200&height=200) | AragonD.TV | EVT |
@@ -63,7 +64,6 @@
 | Cazaflix | [stream](https://player.viloud.tv/embed/channel/292a2a75da8d1d6335cd7b6e600b04e8?autoplay=1&volume=1&controls=1&title=0&share=0&open_playlist=0) | [web](https://cazaflix.com/tv-directo/) | [logo](https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200) | - | EMB |
 | OKLIGA TV | [youtube](https://www.youtube.com/channel/UC6RLLzXQJWy1yCAEysy1Wgw/live) | [web](https://okliga.tv) | [logo](https://yt3.ggpht.com/ytc/AKedOLRCpkRZNcBfZLGvM1SO_Qf77p_xtv6OnU26aa23Vw=s200) | - | EMB |
 | FedHielo TV | [youtube](https://www.youtube.com/channel/UCuys7LUNfFcwwToSG3yMocw/live) | [web](https://www.rfedh.es/fedhielo-tv/) | [logo](https://graph.facebook.com/fedhielo/picture?width=200&height=200) | - | EMB |
-| Mundo Náutica | [m3u8](https://mundonautica.tv/playout/segments/live.m3u8) | [web](https://mundonautica.tv) | [logo](https://graph.facebook.com/MundoNautica/picture?width=200&height=200) | - | - |
 | Futsalmafer.tv | [m3u8](https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8) | [web](https://canalsports.tv/directo-24-horas/) | [logo](https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200) | - | - |
 
 ## Infantiles
@@ -108,7 +108,6 @@
 | En la calle (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-en-la-calle/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Calle.TV | EXTA |
 | Top Series (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-top-series/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Series.TV | EXTA |
 | Viajes (Mediaset Infinity) | - | [web](https://www.mitele.es/directo/mitele-viajes/) | [logo](https://graph.facebook.com/MediasetInfinity/picture?width=200&height=200) | Mitele_Viajes.TV | EXTA |
-| La cárcel de los Gemelos 2 | [youtube](https://www.youtube.com/channel/UCyOwWp6c30--i9_elAgef9g/live) | [web](https://www.youtube.com/@ZonaGemelosYT) | [logo](https://graph.facebook.com/LaCarcelDeLosGemelos/picture?width=200&height=200) | - | EMB |
 | Canal Parlamento | [m3u8](https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8) | [web](https://www.congreso.es/actualidad/canal-parlamento) | [logo](https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200) | - | - |
 | Congreso de los Diputados | [m3u8 # 1](https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8) - [m3u8 # 2](https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8) - [m3u8 # 3](https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8) - [m3u8 # 4](https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8) - [m3u8 # 5](https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8) | [web](https://www.congreso.es/es/congreso-en-directo) | [logo](https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200) | - | - |
 | La Moncloa (Presidente) | [m3u8](https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg) | [web](https://www.lamoncloa.gob.es/multimedia/videos/presidente/Paginas/2020/directo.aspx) | [logo](https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200) | - | - |
@@ -116,6 +115,7 @@
 | Senado | [m3u8](https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8) | [web](https://www.senado.es/web/actividadparlamentaria/actualidad/senadoendirecto/index.html) | [logo](https://pbs.twimg.com/profile_images/2015722457508810752/NpsKmNCK_200x200.jpg) | - | - |
 | Radio Nacional | [m3u8](https://ztnr.rtve.es/ztnr/6982891.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | - |
 | Radio 3 | [m3u8](https://ztnr.rtve.es/ztnr/6982918.m3u8) | [web](https://www.rtve.es/play/radio/) | [logo](https://graph.facebook.com/radio3/picture?width=200&height=200) | RNE_Radio3.TV | - |
+| Radio 5 | [m3u8](https://ztnr.rtve.es/ztnr/6982917.m3u8) | [web](https://www.rtve.es/play/videos/programa/rne-e102/6982917/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | RNE_Radio5.TV | - |
 
 ## Streaming
 
@@ -135,6 +135,7 @@
 | Juansguarnizo | [stream](https://player.twitch.tv/?channel=juansguarnizo&parent=play.tdtchannels.com) - [youtube](https://www.youtube.com/@JuanSGuarnizo) | [web](https://www.twitch.tv/juansguarnizo) | [logo](https://yt3.googleusercontent.com/ytc/AL5GRJXIHF_Oc2KsUnn62RutoClTgrWxcXXHfG6zwCnYjA=s200) | - | EMB |
 | Knekro | [stream](https://player.twitch.tv/?channel=knekro&parent=play.tdtchannels.com) - [youtube](https://www.youtube.com/KNekroGamer) | [web](https://www.twitch.tv/knekro) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_njzAxPADBPZUY4IOKiewazHI399fwe5c6NkU8fEHOwZw=s200) | - | EMB |
 | LOLITOFDEZ | [stream](https://player.twitch.tv/?channel=lolitofdez&parent=play.tdtchannels.com) - [youtube](https://www.youtube.com/@LOLiTOFDEZ) | [web](https://www.twitch.tv/lolitofdez) | [logo](https://yt3.ggpht.com/mKpJl4-mVy59lPn3X_gv1gfsufVK4yecUoW7_YAzgPMgNg04me10zA1q7B11A8Vw2dAxVY9E6A=s200) | - | EMB |
+| Ubeat | [stream](https://geo.dailymotion.com/player/x1k3pa.html?video=k2sTzXvwTQRB6rFhboa) | [web](https://www.goltelevision.com/en-directo/ubeat_live) | [logo](https://graph.facebook.com/ubeat/picture?width=200&height=200) | - | EXTB |
 
 ## Autonómicos
 
@@ -220,8 +221,6 @@
 | Diez TV Las Villas | [m3u8](https://streaming.cloud.innovasur.es/mmj2/index.m3u8) | [web](https://dieztv.es/dieztv-lasvillas-directo/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV.TV | - |
 | Diez TV Úbeda | [m3u8](https://streaming.cloud.innovasur.es/mmj/index.m3u8) | [web](https://dieztv.es/dieztv-ubeda-directo/) | [logo](https://graph.facebook.com/dieztv/picture?width=200&height=200) | DiezTV.TV | - |
 | TVM Córdoba | [m3u8](https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8) | [web](https://tvm.cordoba.es/live) | [logo](https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200) | - | UAG |
-| Cancionero TV | [m3u8](http://37.130.151.51/hls1/cancionero.m3u8) | [web](http://37.130.151.51/cancionerotv/index.html) | [logo](https://yt3.googleusercontent.com/ytc/AIdro_nKBwD3C_DqADS-cD9choTd0NDkCsF_EcNtXWmFd7XDQw=s200) | - | NONAV |
-| PTV Almería | [m3u8](https://streamer.zapitv.com/ptv_almeria/index.m3u8) | [web](https://ptvtelecom.com/canales/almeria.html) | [logo](https://pbs.twimg.com/profile_images/1612490465005142019/AU1R7Q6q_200x200.jpg) | - | UAGB |
 | TeleGranada | [m3u8](https://telegranada.es/hls/stream.m3u8) | [web](https://artefm.es) | [logo](https://graph.facebook.com/Telegranada/picture?width=200&height=200) | - | - |
 | Cartaya TV | [m3u8](https://video3.lhdserver.es/cartayatv/live.m3u8) | [web](https://www.radiocartaya.es) | [logo](https://graph.facebook.com/radiocartaya/picture?width=200&height=200) | - | UAG |
 | Cofradias 24h | [youtube](https://www.youtube.com/channel/UCv5WgSisSDgI90g8-E5rU7Q/live) | [web](https://www.youtube.com/@LIBETELTV) | [logo](https://yt3.ggpht.com/eM_41EMbfLT9omch7MIGSlwg71gjSrsrPpS7TuBlFjYXLrC5pIIx8zx9SJ0q2Gvf2Gj3nblYFAw=s200) | - | EMB |
@@ -800,14 +799,12 @@
 | FIBA | [youtube](https://www.youtube.com/user/FIBAWorld/live) | [web](https://www.livebasketball.tv/home) | [logo](https://graph.facebook.com/FIBA/picture?width=200&height=200) | - | EMB |
 | Premier Padel | [youtube](https://www.youtube.com/@PremierPadelOfficial) | [web](https://premierpadel.com/es/wheretowatch) | [logo](https://graph.facebook.com/premierpadel/picture?width=200&height=200) | - | EMB |
 | Red Bull TV | [m3u8 # EN](https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8) | [web](https://www.redbull.com/int-en/tv/tv) | [logo](https://graph.facebook.com/RedBull/picture?width=200&height=200) | - | - |
-| Motorsport.tv | [m3u8](https://7daa9e4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8) | [web](https://motorsport.tv/apps/735/2189280-2276194) | [logo](https://graph.facebook.com/Motorsport.tvUK/picture?width=200&height=200) | - | EXTA |
 | Meridiano Venezuela | [youtube](https://www.youtube.com/channel/UCcYfZbinuodyF8rVkl4u7Lw/live) | [web](https://meridiano.net/meridianotv.html) | [logo](https://graph.facebook.com/Meridiano.Dearmas/picture?width=200&height=200) | - | EMB |
 | Stadium USA | [m3u8 # EN](https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8) | [web](https://watchstadium.com/live/) | [logo](https://pbs.twimg.com/profile_images/1912970794524610560/M1vEMVlm_200x200.jpg) | - | - |
 | Garage TV Argentina | [m3u8](https://stream1.sersat.com/hls/garagetv.m3u8) | [web](https://elgarage.com) | [logo](https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg) | - | - |
 | Best Cable Sports Perú | - | [web](https://bestcableperu.com.pe/lima/enVivo/bestCableSport) | [logo](https://pbs.twimg.com/profile_images/1574548998999998464/IK17LZ5K_200x200.jpg) | - | EXTA |
 | MoreThanSports TV | [m3u8](https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8) | [web](https://morethansports.tv) | [logo](https://graph.facebook.com/mtssportstv/picture?width=200&height=200) | - | - |
 | Int. Table Soccer Federation | [m3u8](https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333) | [web](https://www.tablesoccer.org) | [logo](https://graph.facebook.com/ITSF.tablesoccer/picture?width=200&height=200) | - | - |
-| Bike Channel | [m3u8 # IT](https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8) | [web](https://bikechannel.it/live-tv) | [logo](https://graph.facebook.com/bikechannelofficial/picture?width=200&height=200) | - | - |
 
 ## Musicales
 
