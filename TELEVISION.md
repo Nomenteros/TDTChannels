@@ -18,7 +18,7 @@
 | mtmad 24h | - | [web](https://www.mitele.es/directo/mtmad-24h) | [logo](https://graph.facebook.com/mtmad.es/picture?width=200&height=200) | - | EXTA,GEO |
 | RNE para todos | [m3u8](https://ztnr.rtve.es/ztnr/6688753.m3u8) - [m3u8 # 2](https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8) | [web](https://www.rtve.es/play/videos/directo/canales-lineales/rne-para-todos/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.TV | GEO |
 | Ten | - | [web](https://tentv.es) | [logo](https://graph.facebook.com/televisionten/picture?width=200&height=200) | TEN.TV | NOEM |
-| DKISS | - | [web](https://www.dkiss.es) | [logo](https://graph.facebook.com/DKissTV/picture?width=200&height=200) | DKISS.TV | NOEM |
+| DKISS | - | [web](https://www.dkiss.es) | [logo](https://pbs.twimg.com/profile_images/2043579276293754880/Garoa4Dk_200x200.jpg) | DKISS.TV | NOEM |
 | BOM Cine | - | [web](https://www.bomcine.com) | [logo](https://pbs.twimg.com/profile_images/1450728866377568257/B8HFyLJe_200x200.jpg) | BOM.TV | NOEM |
 
 ## Informativos
