@@ -458,9 +458,10 @@
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Canal Extremadura | [m3u8](https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8) | [web](https://www.canalextremadura.app/videos/182630-canal-video-24h) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | UAG,EXTA |
+| Canal temático toros | [m3u8](https://cdn-canalextremadura.watchity.net/fast1/master.m3u8) | [web](https://www.canalextremadura.app/videos/289341-canal-tem%C3%A1tico-toros-canal-extremadura) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | UAG,EXTA |
+| Canal temático - Semos asina | [m3u8](https://cdn-canalextremadura.watchity.net/fast3/master.m3u8) | [web](https://www.canalextremadura.app/videos/350407-canal-tem%C3%A1tico-semos-asina-canal-extremadura) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | UAG,EXTA |
+| Canal temático infantil | [m3u8](https://cdn-canalextremadura.watchity.net/fast2/master.m3u8) | [web](https://www.canalextremadura.app/videos/354923-canal-tematico-infantil) | [logo](https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200) | Extremadura.TV | UAG,EXTA |
 | TV Extremeña | [stream](https://player.twitch.tv/?channel=tvextremena&parent=play.tdtchannels.com) | [web](https://www.xn--televisionextremea-30b.com/directo/) | [logo](https://graph.facebook.com/TELEVISIONEXTREMENA/picture?width=200&height=200) | - | EMB |
-| Nuestra Comarca TV | [stream](https://player.twitch.tv/?channel=nuestracomarcatelevision&parent=play.tdtchannels.com) | [web](https://www.nuestracomarca.com) | [logo](https://graph.facebook.com/nuestra.comarca/picture?width=200&height=200) | - | EMB |
-| Villafranca TV | [youtube](https://www.youtube.com/channel/UCIp5TEcJidiaN3p_mguOrTQ/live) | [web](https://www.villafrancadelosbarros.es/blog/) | [logo](https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg) | - | EMB |
 | Asamblea de Extremadura | [youtube](https://www.youtube.com/channel/UCDRei0Imqv9iV8mHQdYwGdQ/live) | [web](https://www.asambleaex.es) | [logo](https://graph.facebook.com/AsambleaExtremadura/picture?width=200&height=200) | - | EMB |
 | Junta de Extremadura | [youtube](https://www.youtube.com/channel/UCjFp79A_UFcx01_4N0gwoSg/live) | [web](https://www.juntaex.es) | [logo](https://graph.facebook.com/JuntaDeExtremadura/picture?width=200&height=200) | - | EMB |
 
