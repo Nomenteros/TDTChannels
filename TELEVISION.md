@@ -869,7 +869,7 @@
 | Chillhop Music | [youtube](https://www.youtube.com/@ChillhopMusic/live) | [web](https://chillhop.com) | [logo](https://yt3.googleusercontent.com/v8reVXm00qDDniedUMk1nNVBt5ykecsy8qByQmsPmVl1xh9ZlgiGnGQAH72h0gKKcygFWjHcgEw=s200) | - | - |
 | College Music | [youtube](https://www.youtube.com/@CollegeMusic/live) | [web](https://collegemusic.co.uk/) | [logo](https://graph.facebook.com/collegemusic/picture?width=200&height=200) | - | - |
 | LoFi Hip-Hop Beats Music | [youtube](https://www.youtube.com/@steezyasfvck/live) | [web](https://stzzzy.com) | [logo](https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg) | - | - |
-| The Good Life Radio | [youtube](https://youtu.be/36YnV9STBqc) | [web](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) | [logo](https://yt3.ggpht.com/a/AATXAJw_0O4Q7vmQvtqUOGDFHS3GQZaH2OKMnc3_1itvxg=s200) | - | - |
+| The Good Life Radio | [youtube](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA/live) | [web](https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA) | [logo](https://yt3.ggpht.com/a/AATXAJw_0O4Q7vmQvtqUOGDFHS3GQZaH2OKMnc3_1itvxg=s200) | - | - |
 
 ## Religiosos
 
