@@ -299,7 +299,7 @@
 | Radio Huesca Sabiñánigo | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SABINANIGO.mp3) | [web](https://cadenaser.com/radio-sabinanigo/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | Radio Huesca Sariñena | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SARINENA.mp3) | [web](https://cadenaser.com/radio-sarinena/contacto/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | Radio Mai | [stream # 1](http://radio.indaloweb.es:8001/live) - [stream # 2](http://radiomai.duckdns.org:8020/live) | [web](https://radiomai.com/online/) | [logo](https://graph.facebook.com/radiomai/picture?width=200&height=200) | - | - |
-| LokuraFM | [stream](https://radioserver11.profesionalhosting.com/proxy/pkg131447?mp=/stream) | [web](https://lokurafm.online) | [logo](https://play-lh.googleusercontent.com/pRLw0KpuXGQxblfGu8kwMNx0rrOurCW7YBaZiHYTojJkBe0uzQOd3AKvCsbBYMyOOpzp=w200-h200) | - | - |
+| LokuraFM | [stream](https://sonicpanel.streamsolutions.us:8124/stream) | [web](https://lokurafm.online) | [logo](https://play-lh.googleusercontent.com/pRLw0KpuXGQxblfGu8kwMNx0rrOurCW7YBaZiHYTojJkBe0uzQOd3AKvCsbBYMyOOpzp=w200-h200) | - | - |
 | Hit Radio Zona Oriental | [stream](http://stm1.emiteonline.com:8004/hitelgrado) | [web](http://www.hitradiofm.es/hitgrado.html) | [logo](https://graph.facebook.com/HitRadioElGrado/picture?width=200&height=200) | - | - |
 | Vale Radio | [stream](https://sonic2.sistemahost.es/8170/stream) | [web](https://www.valeradio.es/reproductor/index.php) | [logo](https://graph.facebook.com/ValeRadio/picture?width=200&height=200) | - | - |
 
@@ -771,6 +771,7 @@
 | Radio Benicarló | [mp3](https://streaming.enacast.com/radiobenicarlo128.mp3) | [web](https://www.radiobenicarlo.org) | [logo](https://pbs.twimg.com/profile_images/1544316931175550979/6M8VF3dz_200x200.jpg) | - | - |
 | Onda 40 Music | [mp3](https://radioonda40music.es:8000/radio.mp3) | [web](https://onda40music.com) | [logo](https://graph.facebook.com/onda40music/picture?width=200&height=200) | - | - |
 | V30 Radio | [stream](https://streaming12.elitecomunicacion.es:8604/stream) | [web](https://ondavalencia.es/en-directo/onda-valencia-v30) | [logo](https://pbs.twimg.com/media/GfowgswXsAAk9wa.jpg) | - | - |
+| OcioNews Radio | [stream # 1](https://np.ocionews.com/listen/ocionews/webONHD) - [stream # 2](https://np.ocionews.com/listen/ocionews_classics/WebOCHD) - [stream # 3](https://np.ocionews.com/listen/ocionews_fiesta/WebOFHD) - [stream # 4](https://np.ocionews.com/listen/ocionews_urbanwine/WebOUHD) - [stream # 5](https://np.ocionews.com/listen/ocionews_indie/WebOIHD)| [web](https://www.ocionews.com/canal/radio/) | [logo](https://graph.facebook.com/somosocionews/picture?width=200&height=200) | - | - |
 | Vox UJI Ràdio | [mp3](https://radiouji.uji.es:8443/high.mp3) | [web](https://www.radio.uji.es) | [logo](https://pbs.twimg.com/profile_images/915478760299868160/FACNin_P_200x200.jpg) | - | - |
 
 ### Extremadura
@@ -1038,13 +1039,13 @@
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
 | Radio Exterior | [m3u8](https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-exterior/) | [logo](https://graph.facebook.com/RadioExterior/picture?width=200&height=200) | - | - |
-| RNA Andorra | [m3u8](https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/rna) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
-| AM Andorra | [m3u8](https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-g-c0-3/restreamer/outgest/0aeb53b3-9ec2-4f62-8b4d-e0d27ec8ec6e/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/am) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
+| Ràdio Nacional d'Andorra | [m3u8](https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-f-c0-7/restreamer/outgest/578e48f3-c654-4638-948a-be990c90807b/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/rna) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
+| Andorra Música - Andorra | [m3u8](https://livesg.rtva.hiway.media/restreamer/rtva_client/gpu-g-c0-3/restreamer/outgest/e2b4dcb0-7ae3-4335-992a-23ba82e529b3/manifest.m3u8) | [web](https://www.rtva.ad/en-directe/am) | [logo](https://graph.facebook.com/rtva.andorra/picture?width=200&height=200) | - | - |
 | SER Andorra | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3) | [web](https://play.cadenaser.com/emisora/radio_ser_principat_d_andorra/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Andorra.Radio | - |
 | Flaix FM Andorra | [mp3](https://streaming.giraweb.com/8020/stream/;.mp3) | [web](https://flaixandorra.com/ca/radio/flaixfm-and/) | [logo](https://graph.facebook.com/flaixandorra/picture?width=200&height=200) | - | - |
 | Flaixbac Andorra | [mp3](https://streaming.giraweb.com/8010/stream/;.mp3) | [web](https://flaixandorra.com/ca/radio/flaixbac-and/) | [logo](https://graph.facebook.com/flaixbac/picture?width=200&height=200) | - | - |
 | Radio Valira Andorra | [stream](https://mars.streamerr.co/8022/stream) | [web](https://radiovalira.ad/) | [logo](https://graph.facebook.com/radiovalira/picture?width=200&height=200) | - | - |
-| Paranoia Metal Andorra | [stream](http://15507.cloudrad.io:9298/live) | [web](https://paranoiashow.wordpress.com/radio-online/) | [logo](https://graph.facebook.com/pmetalshow/picture?width=200&height=200) | - | - |
+| Paranoia Metal Andorra | [mp3](https://giss.tv:666/paranoiashow.mp3) | [web](https://paranoiashow.wordpress.com/radio-online/) | [logo](https://graph.facebook.com/pmetalshow/picture?width=200&height=200) | - | - |
 | BiG FM Alemania | [stream](https://streams.bigfm.de/bigfm-deutschland-128-mp3) | [web](https://www.bigfm.de/webradio/deutschlands-biggste-beats) | [logo](https://graph.facebook.com/RadiobigFM/picture?width=200&height=200) | - | - |
 | QMusic Holanda | [acc](https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac) | [web](https://qmusic.nl/player/qmusic_nl/index.html) | [logo](https://graph.facebook.com/QmusicNL/picture?width=200&height=200) | - | - |
 | Radio Italia | [m3u8 # IT](https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8) | [web](https://www.radioitalia.it/radioitalialive) | [logo](https://graph.facebook.com/radioitalia/picture?width=200&height=200) | - | - |
