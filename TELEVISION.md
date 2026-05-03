@@ -846,7 +846,7 @@
 | 4FUN TV Polonia | [m3u8 # PL](https://stream.4fun.tv:8888/hls/4f_high/index.m3u8) | [web](https://4fun.tv) | [logo](https://graph.facebook.com/4FUN.TV/picture?width=200&height=200) | - | - |
 | Number1 FM Turquía | [m3u8](https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8) | [web](https://www.numberone.com.tr/2015/12/18/nr1-tv-canli-yayin/) | [logo](https://graph.facebook.com/Number1FM/picture?width=200&height=200) | - | - |
 | Power TV Turquía | [m3u8](https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8) | [web](https://www.powerapp.com.tr/tvs/power-tvs/powertv/) | [logo](https://graph.facebook.com/powerapp/picture?width=200&height=200) | - | - |
-| NRG91 Grecia | [m3u8](https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8) | [web](https://nrg91.gr/nrgtv.html) | [logo](https://yt3.ggpht.com/KGxBhcmGT-UX_3Hhnfw7Gwnypyn4XzUQ3_OElJuNKllBcZmE58-z_FpozwfIxl9fA7z9RPnVBwE=s200) | - | - |
+| NRG91 Grecia | [m3u8](http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8) | [web](https://nrg91.gr/nrgtv.html) | [logo](https://yt3.ggpht.com/KGxBhcmGT-UX_3Hhnfw7Gwnypyn4XzUQ3_OElJuNKllBcZmE58-z_FpozwfIxl9fA7z9RPnVBwE=s200) | - | - |
 | Rock TV Romania | - | [web](https://www.rockfm.ro/rocktv) | [logo](https://graph.facebook.com/rockfmro/picture?width=200&height=200) | - | EXTA |
 | CMC Croacia | [m3u8](https://stream.cmctv.hr:49998/cmc/live.m3u8) | [web](https://cmc.com.hr/program/cmc-tv-stream/) | [logo](https://graph.facebook.com/CroatianMusicChannel/picture?width=200&height=200) | - | - |
 | Sky Folk Macedonia | [m3u8](https://eu.live.skyfolk.mk/live.m3u8) | [web](https://skyfolk.mk) | [logo](https://graph.facebook.com/skyfolk.mk/picture?width=200&height=200) | - | - |
