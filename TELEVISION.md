@@ -352,7 +352,7 @@
 | La Xarxa | - | [web](https://laxarxames.cat/directe) | [logo](https://graph.facebook.com/laxarxa/picture?width=200&height=200) | - | REG |
 | Olot TV | - | [web](https://laxarxames.cat/player/8042) | [logo](https://graph.facebook.com/olotelevisio/picture?width=200&height=200) | Xarxa_Olot_TV.TV | EXTA,REG |
 | Canal Blau | - | [web](https://www.laxarxames.cat/player/8032) | [logo](https://graph.facebook.com/CanalBlau/picture?width=200&height=200) | Xarxa_Canal_Blau.TV | EXTA,REG |
-| Canal Taronja Central | [m3u8](https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8) | [web](https://www.canaltaronja.cat/central/canal-taronja-en-directe/) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | Xarxa_Canal_Taronja_Central.TV | UAG,REFI1 |
+| Canal Taronja Central | - | [web](https://laxarxames.cat/player/8035) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | Xarxa_Canal_Taronja_Central.TV | REG |
 | TV L'Hospitalet | [m3u8](https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR) | [web](https://lhdigital.cat/en-directe/) | [logo](https://graph.facebook.com/lhdigital/picture?width=200&height=200) | Xarxa_Televisio_Hospitalet.TV | UAG,REFI1 |
 | TV del Berguedà | - | [web](https://laxarxames.cat/player/8046) | [logo](https://graph.facebook.com/televisiodelbergueda/picture?width=200&height=200) | Xarxa_TV_Bergueda.TV | EXTA,REG |
 | RTV El Vendrell | [m3u8](https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:directe.smil/playlist.m3u8) | [web](https://www.rtvelvendrell.cat/directes/televisio/) | [logo](https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200) | - | UAG,REFI1 |
