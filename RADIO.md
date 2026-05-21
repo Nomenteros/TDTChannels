@@ -571,6 +571,7 @@
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/1245054974628892673/tjBDH_-q_200x200.jpg) | - | - |
 | Taronja ràdio | [stream](https://radio.martiproduccions.com/taronjagirona) | [web](https://www.radiocapital.cat/taronja) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | - | - |
 | MDT Radio Barcelona | [stream](https://streams1.mdtradio.com:8443/MdtBarcelonaEstudio) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/MDTradioBarcelona/picture?width=200&height=200) | - | - |
+| Paranoia Metal Figueres | [mp3](https://giss.tv:666/paranoiashow.mp3) | [web](https://paranoiashow.wordpress.com/radio-online/) | [logo](https://graph.facebook.com/pmetalshow/picture?width=200&height=200) | - | - |
 
 ### Ceuta
 
@@ -680,6 +681,7 @@
 | SER Dénia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_DENIA.mp3) | [web](https://cadenaser.com/radio-denia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Denia.Radio | - |
 | SER Elche | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELCHE.mp3) | [web](https://cadenaser.com/radio-elche/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Elche.Radio | - |
 | SER Elda | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELDA.mp3) | [web](https://cadenaser.com/radio-elda/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Elda.Radio | - |
+| SER Radio Benidorm | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BENIDORM.mp3) | [web](https://cadenaser.com/radio-benidorm/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | - | - |
 | SER Gandia | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GANDIA.mp3) | [web](https://cadenaser.com/radio-gandia/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Gandia.Radio | - |
 | SER La Vall d'Uixó | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VALLDUIXO.mp3) | [web](https://play.cadenaser.com/emisora/radio_vall_d_uixo/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_LaValldUixo.Radio | - |
 | SER Ontinyent | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ONTIYENT.mp3) | [web](https://radioontinyent.com/emissora/ser-fm/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_Ontinyent.Radio | - |
@@ -875,7 +877,7 @@
 | Das Inselradio | [stream](https://inselradiomallorca.do-not-publish.com/inselradiomallorca-live/mp3-128) | [web](https://www.inselradio.com/player/) | [logo](https://graph.facebook.com/DasInselradio/picture?width=200&height=200) | - | - |
 | Fibwi Radio | [stream](https://sound.gigaradius.eu/proxy/fibwiradio/stream) | [web](https://fibwiradio.com) | [logo](https://pbs.twimg.com/profile_images/1937439184790151168/VFDUyxsc_200x200.jpg) | - | - |
 | Canal 4 Ràdio | [stream](https://stream.recasound.es/proxy/canal4radio/stream) | [web](https://grup4.com) | [logo](https://pbs.twimg.com/profile_images/1171423029806551040/WudNlkcd_200x200.jpg) | - | - |
-| Radio OneMallorca | [stream](https://pegasus.nucast.co.uk:8004/stream) | [web](https://www.radioonemallorca.com) | [logo](https://graph.facebook.com/RadioOneMallorca/picture?width=200&height=200) | - | - |
+| Radio OneMallorca | [stream](https://pegasus.nucast.co.uk:8004/stream) | [web](https://www.radioonemallorca.com) | [logo](https://pbs.twimg.com/profile_images/1899900966595387392/Ei6Sil3n_200x200.png) | - | - |
 | Mallorca Sunshine Radio | [stream](https://mallorcasunshineradio.do-not-publish.com/mallorcasunshineradio-live/mp3-128) | [web](https://www.mallorcasunshineradio.com/player/) | [logo](https://graph.facebook.com/MallorcaSunshineRadio/picture?width=200&height=200) | - | - |
 | 06AM Ibiza Underground Radio | [stream](https://streams.radio.co/sd1bcd1376/listen) | [web](https://www.06amibiza.com) | [logo](https://graph.facebook.com/06AmIbizaUndergroundRadio/picture?width=200&height=200) | - | - |
 | Ràdioilla Formentera | [stream](https://srv6021.dns-lcinternet.com:10220/stream) | [web](https://player.lcinternet.es/v9/player/index.php#Radio%20Illa%20Formentera%20HQ) | [logo](https://graph.facebook.com/radioilla.formentera/picture?width=200&height=200) | - | - |
@@ -1045,7 +1047,6 @@
 | Flaix FM Andorra | [mp3](https://streaming.giraweb.com/8020/stream/;.mp3) | [web](https://flaixandorra.com/ca/radio/flaixfm-and/) | [logo](https://graph.facebook.com/flaixandorra/picture?width=200&height=200) | - | - |
 | Flaixbac Andorra | [mp3](https://streaming.giraweb.com/8010/stream/;.mp3) | [web](https://flaixandorra.com/ca/radio/flaixbac-and/) | [logo](https://graph.facebook.com/flaixbac/picture?width=200&height=200) | - | - |
 | Radio Valira Andorra | [stream](https://mars.streamerr.co/8022/stream) | [web](https://radiovalira.ad/) | [logo](https://graph.facebook.com/radiovalira/picture?width=200&height=200) | - | - |
-| Paranoia Metal Andorra | [mp3](https://giss.tv:666/paranoiashow.mp3) | [web](https://paranoiashow.wordpress.com/radio-online/) | [logo](https://graph.facebook.com/pmetalshow/picture?width=200&height=200) | - | - |
 | BiG FM Alemania | [stream](https://streams.bigfm.de/bigfm-deutschland-128-mp3) | [web](https://www.bigfm.de/webradio/deutschlands-biggste-beats) | [logo](https://graph.facebook.com/RadiobigFM/picture?width=200&height=200) | - | - |
 | QMusic Holanda | [acc](https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac) | [web](https://qmusic.nl/player/qmusic_nl/index.html) | [logo](https://graph.facebook.com/QmusicNL/picture?width=200&height=200) | - | - |
 | Radio Italia | [m3u8 # IT](https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8) | [web](https://www.radioitalia.it/radioitalialive) | [logo](https://graph.facebook.com/radioitalia/picture?width=200&height=200) | - | - |
