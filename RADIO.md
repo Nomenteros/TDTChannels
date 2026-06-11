@@ -232,7 +232,7 @@
 | Radio Almaina | [mp3](https://radiobot.radioslibres.info/listen/radio_almaina/radio.mp3) | [web](https://radiobot.radioslibres.info/public/radio_almaina) | [logo](https://pbs.twimg.com/profile_images/2117013357/perfil-facebook_200x200.jpg) | - | - |
 | Radio Cartaya | [stream](https://eu1.lhdserver.es:9237/stream) | [web](https://www.radiocartaya.es) | [logo](https://graph.facebook.com/radiocartaya/picture?width=200&height=200) | - | - |
 | Radio Martos | [stream](https://streaming2.elitecomunicacion.es:8234/stream) | [web](https://martos.es/radio-martos/emision-en-directo/) | [logo](https://graph.facebook.com/radiomartos/picture?width=200&height=200) | - | - |
-| Canal Málaga RTV | [mp3](https://comcast01-h-cloud.flumotion.com/canalmalaga/live.mp3) | [web](https://www.canalmalaga.es/videos/251322-directos-radio) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
+| Canal Málaga RTV | [m3u8](https://canalmalaga-radio-live-hls.flumotion.com/playlist.m3u8) | [web](https://www.canalmalaga.es/videos/251322-directos-radio) | [logo](https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200) | - | - |
 | Cadena Luna | [stream](https://radio.almunecar360.com:8100/radio) | [web](https://www.cadenaluna.es) | [logo](https://graph.facebook.com/CadenaLunaRadio/picture?width=200&height=200) | - | - |
 | La Más FM Almuñecar | [stream](https://streaming2.elitecomunicacion.es:8142/stream) | [web](https://lamasfm.com) | [logo](https://graph.facebook.com/LAMASFM/picture?width=200&height=200) | - | - |
 | La Mega FM Costa Tropical | [stream](https://streaming12.elitecomunicacion.es:8642/stream) | [web](https://www.lamegafmcostatropical.com) | [logo](https://graph.facebook.com/megacostatropical/picture?width=200&height=200) | - | - |
@@ -370,7 +370,7 @@
 
 | Emisoras | Stream | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| CMM Radio | [m3u8](https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_qilzwlkz/format/applehttp/.m3u8) | [web](https://www.cmmedia.es/play/en-directo/radio) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | - | - |
+| CMM Radio | [m3u8](https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_fmx3e3sd/protocol/https/format/applehttp/a.m3u8) | [web](https://www.cmmedia.es/play/en-directo/radio) | [logo](https://graph.facebook.com/CMMediaes/picture?width=200&height=200) | - | - |
 | Radio Nacional Castilla-La Mancha | [stream](https://dispatcher.rndfnk.com/crtve/rne1/clm/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne_clm-live/3893547/) | [logo](https://graph.facebook.com/radionacionalrne/picture?width=200&height=200) | RNE.Radio | - |
 | Radio 5 Castilla-La Mancha | [stream](https://dispatcher.rndfnk.com/crtve/rne5/tol/mp3/high) | [web](https://www.rtve.es/play/audios/programa/rne5_clm-live/3894725/) | [logo](https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg) | RNE5.Radio | - |
 | SER 90 Motilla | [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MOTILLA.mp3) | [web](https://cadenaser.com/radio-90-motilla/) | [logo](https://graph.facebook.com/cadenaser/picture?width=200&height=200) | S_90Motilla.Radio | - |
