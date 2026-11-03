@@ -46,11 +46,11 @@
 | RAC 105 | [aac](https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105AAC.aac) - [mp3](https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3) | [web](https://www.rac105.cat) | [logo](https://graph.facebook.com/rac105/picture?width=200&height=200) | RAC105.Radio | - |
 | Radio TeleTaxi | [m3u8](https://mdstrm.com/audio/697382c0662b3e30d30e12a4/live.m3u8) | [web](https://www.radioteletaxi.com/reproductor/) | [logo](https://graph.facebook.com/radioteletaxi/picture?width=200&height=200) | TeleTaxi.Radio | - |
 | Radio Clásica RNE | [m3u8](https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8) | [web](https://www.rtve.es/play/radio/radio-clasica/) | [logo](https://graph.facebook.com/radioclasicartve/picture?width=200&height=200) | RNEClasica.Radio | - |
-| MDT Radio | [stream](https://streams1.mdtradio.com:8443/mdtweb) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | MDTRadio.Radio | - |
-| MDT Radio Pop Stars | [stream](https://streams1.mdtradio.com:8443/PopStarsFm) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg) | - | - |
-| MDT Radio 80s | [stream](https://streams1.mdtradio.com:8443/MDTradio80) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg) | - | - |
-| MDT Radio 90s | [stream](https://streams1.mdtradio.com:8443/MDTradio90) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg) | - | - |
-| MDT Radio 2000 | [stream](https://streams1.mdtradio.com:8443/MDTradio2000) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg) | - | - |
+| MDT Radio | [stream](https://mdtradio.emitironline.com/mdtwebMaster) | [web](https://www.mdtradio.com) | [logo](https://graph.facebook.com/mdtradio/picture?width=200&height=200) | MDTRadio.Radio | - |
+| MDT Radio Pop Stars | [stream](https://mdtradio.emitironline.com/PopStarsFm) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/11/Logo-MDT-Radio-Pop-Stars-Fm2.jpg) | - | - |
+| MDT Radio 80s | [stream](https://mdtradio.emitironline.com/MDTradio80) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-80s-300x300.jpg) | - | - |
+| MDT Radio 90s | [stream](https://mdtradio.emitironline.com/MDTradio90) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-90s-300x300.jpg) | - | - |
+| MDT Radio 2000 | [stream](https://mdtradio.emitironline.com/MDTradio2000) | [web](https://mdtradio.com/canales-tematicos/) | [logo](https://mdtradio.com/wp-content/uploads/2024/08/Logo-MDT-Radio-2000-300x300.jpg) | - | - |
 | Loca FM Urban | [stream](https://s1.we4stream.com:2020/stream/locaurban) | [web](https://www.locafm.com/loca-urban/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | LocaFMUrban.Radio | - |
 | Loca FM Dance | [stream](https://s2.we4stream.com/listen/loca_dance/live) | [web](https://www.locafm.com/dance/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
 | Loca FM Remember | [stream](https://s2.we4stream.com/listen/loca_remember/live) | [web](https://www.locafm.com/remember/player.html) | [logo](https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200) | - | - |
@@ -580,7 +580,6 @@
 | 21 Ràdio | [mp3](https://control.streaming-pro.com:8018/stream.mp3) | [web](https://www.21radio.cat/en-directe/) | [logo](https://graph.facebook.com/21radiocat/picture?width=200&height=200) | - | - |
 | amb2FM | [stream](https://frilab.wlan.cat/amb2fm) | [web](https://www.amb2fm.cat) | [logo](https://pbs.twimg.com/profile_images/2062102000699924480/jHFW71PU_200x200.jpg) | - | - |
 | Taronja ràdio | [stream](https://radio.martiproduccions.com/taronjagirona) | [web](https://www.radiocapital.cat/taronja) | [logo](https://graph.facebook.com/taronja.cat/picture?width=200&height=200) | - | - |
-| MDT Radio Barcelona | [stream](https://streams1.mdtradio.com:8443/MdtBarcelonaEstudio) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/MDTradioBarcelona/picture?width=200&height=200) | - | - |
 | Paranoia Metal Figueres | [mp3](https://giss.tv:666/paranoiashow.mp3) | [web](https://paranoiashow.wordpress.com/radio-online/) | [logo](https://graph.facebook.com/pmetalshow/picture?width=200&height=200) | - | - |
 
 ### Ceuta
@@ -636,7 +635,7 @@
 | Radio Morata | [stream](https://cervera.eldialdigital.com:25141/stream) | [web](https://www.radiomorata.com) | [logo](https://graph.facebook.com/radiomorata/picture?width=200&height=200) | - | - |
 | Esencia Radio | [stream](https://stream.zeno.fm/apu4qxap0rquv) | [web](https://www.esenciaradio.com) | [logo](https://graph.facebook.com/esenciaradio/picture?width=200&height=200) | - | - |
 | Radio Villalba | [stream](https://srv7041.dns-lcinternet.com/8042/stream) | [web](https://www.colladovillalba.es/radio-villalba) | [logo](https://graph.facebook.com/radiovillalbafm/picture?width=200&height=200) | - | - |
-| Radio Libertad | [stream](https://server9.emitironline.com:19482/stream) | [web](https://radiolibertad.es/en-directo/) | [logo](https://pbs.twimg.com/profile_images/1862403237363556352/R_cCFfhV_200x200.jpg) | - | - |
+| Radio Libertad | [stream](https://server9.emitironline.com:19482/stream) | [web](https://radiolibertad.es/en-directo/) | [logo](https://graph.facebook.com/rlibertad/picture?width=200&height=200) | - | - |
 | ECO Leganés | [stream](https://cervera.eldialdigital.com:25191/stream) | [web](https://ecoleganes.org) | [logo](https://graph.facebook.com/ecoleganes01/picture?width=200&height=200) | - | - |
 | REC Radio | [stream](https://server9.emitironline.com:19488/stream) | [web](https://www.recradio.es) | [logo](https://graph.facebook.com/RecRadioElCasar/picture?width=200&height=200) | - | - |
 | Globo FM | [mp3](https://sonic.sistemahost.es/8200/;.mp3) | [web](https://www.globofm.es) | [logo](https://pbs.twimg.com/profile_images/972013004484173824/BMLZEKXs_200x200.jpg) | - | - |
@@ -649,7 +648,6 @@
 | Sol Radio | [stream](https://azura.abcorp.es/radio/8220/solradio) | [web](https://solradiomadrid.com) | [logo](https://graph.facebook.com/solradio99.8/picture?width=200&height=200) | - | - |
 | Onda Vallekana | [stream](https://sonic.sistemahost.es/8152/;) | [web](https://www.ondavallekana.es) | [logo](https://pbs.twimg.com/profile_images/1447528417654710279/IlV_01hC_200x200.jpg) | - | - |
 | Onda Aranjuez | [mp3](https://server8.emitironline.com:18544/;.mp3) | [web](https://www.aranjuez.es/onda/) | [logo](https://www.aranjuez.es/wp-content/uploads/2016/12/escucha-onda-aranjuez-300x264.png) | - | - |
-| MDT Radio Madrid | [stream](https://streams1.mdtradio.com:8443/MdtMadrid) | [web](https://mdtradio.com) | [logo](https://graph.facebook.com/mdtradiomadrid/picture?width=200&height=200) | - | - |
 
 ### C. Foral de Navarra
 
@@ -748,7 +746,7 @@
 | Sol Latino | [mp3](https://stream.emisorasmusicales.net/listen/sol-latino/sol-latino.mp3) | [web](https://www.emisorasmusicales.net/emisoras/sol-latino/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2024/04/11131523/Sol-Latino-200x200.png) | - | - |
 | Hola Pop | [mp3](https://stream.emisorasmusicales.net/listen/hola-pop/holapop.mp3) | [web](https://www.emisorasmusicales.net/emisoras/hola-pop/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2025/05/12125739/Logo-HOLA-POP-redondo-200x200.png) | - | - |
 | Party FM | [mp3](https://stream.emisorasmusicales.net/listen/party_fm/partyfm.mp3) | [web](https://www.emisorasmusicales.net/emisoras/party-fm/) | [logo](https://media.emisorasmusicales.net/wp-content/uploads/2025/05/27094024/PARTY-FM-definitivo-color-200x200.jpg) | - | - |
-| Radio Sirena COPE Benidorm | [stream](https://str1.mediatelekom.net/proxy/radiosirena/stream) | [web](https://radiosirena.es/radio-sirena/) | [logo](https://graph.facebook.com/radiosirena/picture?width=200&height=200) | - | - |
+| Radio Sirena COPE Benidorm | [stream](https://str1.mediatelekom.net/proxy/radiosirena/stream) | [web](https://radiosirena.es/radio-sirena/) | [logo](https://pbs.twimg.com/profile_images/1131113442557997056/RHvAtD_v_200x200.png) | - | - |
 | Remember Radio | [stream](https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB) | [web](https://rememberradio.es) | [logo](https://graph.facebook.com/rememberradiocs/picture?width=200&height=200) | - | - |
 | Spektra FM | [stream](https://stm2.emiteonline.com:9008/spektrafm#.mp3) | [web](https://www.spektrafm.es) | [logo](https://pbs.twimg.com/profile_images/1481295109090168838/EIFYjVaz_200x200.jpg) | - | - |
 | Código FM | [stream](https://cloudstream2036.conectarhosting.com/8422/stream) | [web](https://www.codigofm.com/escuchanos/) | [logo](https://graph.facebook.com/codigofmradio/picture?width=200&height=200) | - | - |
@@ -848,7 +846,7 @@
 | Kyoto FM | [stream](https://sonic.mediatelekom.net/8148/stream) | [web](https://www.kyotofm.es) | [logo](https://graph.facebook.com/kyotofm/picture?width=200&height=200) | - | - |
 | Radio Voz | [mp3](https://live.radiovoz.es/mp3/stream_santiago.mp3) | [web](https://www.radiovoz.com) | [logo](https://graph.facebook.com/radiovoz/picture?width=200&height=200) | - | - |
 | Radio Municipal de Tui | [stream](https://srv7021.dns-lcinternet.com/8070/stream) | [web](https://www.tui.gal/gl/servizos/radio-municipal-tui) | [logo](https://graph.facebook.com/RadioMunicipaldeTui/picture?width=200&height=200) | - | - |
-| Fórmula Fun | [mp3](https://s30.myradiostream.com/:30464/listen.mp3) | [web](https://formulafun.es/#player) | [logo](https://graph.facebook.com/FormulaFunGalicia/picture?width=200&height=200) | - | - |
+| Fórmula Fun | [mp3](https://s5.myradiostream.com:45284/listen.mp3) | [web](https://formulafun.es/#player) | [logo](https://graph.facebook.com/FormulaFunGalicia/picture?width=200&height=200) | - | - |
 | Cuac FM | [mp3](https://streaming.cuacfm.org/cuacfm-128k.mp3) | [web](https://cuacfm.org/directo/) | [logo](https://graph.facebook.com/cuacfm/picture?width=200&height=200) | - | - |
 | Radio Negreira | [stream](https://srv7031.dns-lcinternet.com/8030/stream) | [web](https://concellodenegreira.gal) | [logo](https://yt3.googleusercontent.com/ytc/APkrFKYmoi9DDHfPuxKJenC5c3CM9hfoksrZljpcsJGK5Q=s200) | - | - |
 | Radio Fene | [stream](https://srv7031.dns-lcinternet.com/8086/stream) | [web](https://www.radiofusion.gal/emisora/radio-fene) | [logo](https://graph.facebook.com/Radiofene/picture?width=200&height=200) | - | - |
@@ -891,7 +889,7 @@
 | Ona Mediterrània | [stream](https://enacast.com/onamediterrania/streams/HD) - [mp3](https://streaming.enacast.com/onamediterrania128.mp3) | [web](https://www.onamediterrania.cat) | [logo](https://graph.facebook.com/OnaMediterrani/picture?width=200&height=200) | - | - |
 | Titoieta Ràdio | [stream](https://topradio.uno:8087/stream) | [web](https://www.titoieta.cat) | [logo](https://graph.facebook.com/titoieta/picture?width=200&height=200) | - | - |
 | Radio Balear | [stream](https://server10.emitironline.com:8076/stream) | [web](https://radiobalear.net/radio-en-directo/) | [logo](https://graph.facebook.com/radiobalearfm/picture?width=200&height=200) | - | - |
-| Formentera Radio | [stream](https://eu1.lhdserver.es:3153/stream) | [web](https://www.formenteraradio.net) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | - |
+| Formentera Radio | [mp3](https://relay.stream.enacast-cloud.com:30400/formenteraradioHD.mp3) | [web](https://www.formenteraradio.net) | [logo](https://graph.facebook.com/FormenteraRadio/picture?width=200&height=200) | - | - |
 | SAM Ibiza | [m3u8](https://hls1.eu.peppermindmedia.com/samibiza/audio/playlist.m3u8) | [web](https://samibiza.com) | [logo](https://graph.facebook.com/SAMibizaradio/picture?width=200&height=200) | - | - |
 | Pure Ibiza Radio | [mp3](https://pureibizaradio.streaming-pro.com:8028/stream.mp3) | [web](https://www.pureibizaradio.com) | [logo](https://graph.facebook.com/pureradio/picture?width=200&height=200) | - | - |
 | Radio Murta | [stream](https://stream.recasound.es/proxy/radiomurta/stream) | [web](https://grup4.com) | [logo](https://static-media.streema.com/media/cache/c1/a3/c1a323d20e5cd83f4199fb3f23961f41.jpg) | - | - |
@@ -1004,7 +1002,7 @@
 | La Mega FM Asturias | [mp3](https://broadcast.radioponiente.org:8032/;.mp3) | [web](https://www.lamegafmasturias.com) | [logo](https://play-lh.googleusercontent.com/c_sl-yRJP4jzCPQjkLe0xFWuGj6Xe6JaoShibnsuV98KnDkM7Ao54DsLD_1orN2eyDbC=w200) | - | - |
 | Guateque FM | [stream](https://eu1.lhdserver.es:3219/stream) | [web](https://guatequefm.com) | [logo](https://play-lh.googleusercontent.com/29cOsGnQ8A3a-FJ1EkqBDVrMCIMWcQBORIWcmygreM9fNjU5C3Pci0CNDYDrv1NPPPD1=w200-h200) | - | - |
 | Radio Líder Asturias | [stream](https://server8.emitironline.com:18462/stream) | [web](https://radiolider.com/directo/) | [logo](https://graph.facebook.com/radiolidergalicia/picture?width=200&height=200) | - | - |
-| La Cheverisima Radio | [stream](https://samuel.i-radio.co:9000/lacheverisima) | [web](https://lacheverisimaradio.com) | [logo](https://play-lh.googleusercontent.com/paqCGWhxPmfQOzkssgQHBiAW60j3zi04Hq9K2UWM_oddr-X-ZriB6OK-K0Xr8lmP4A=w200) | - | - |
+| La Cheverísima Radio | [stream](https://samuel.i-radio.co:9000/lacheverisima) | [web](https://lacheverisimaradio.com) | [logo](https://play-lh.googleusercontent.com/paqCGWhxPmfQOzkssgQHBiAW60j3zi04Hq9K2UWM_oddr-X-ZriB6OK-K0Xr8lmP4A=w200) | - | - |
 
 ### R. de Murcia
 
